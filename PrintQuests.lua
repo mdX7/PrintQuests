@@ -40,7 +40,7 @@ local function QueryCompletedQuests()
 end
 
 local lastQueryTime = 0
-local QUERY_THROTTLE_INTERVAL = 0.5 -- in seconds
+local QUERY_THROTTLE_INTERVAL = 0.25 -- in seconds
 local function ThrottledQueryCompletedQuests()
     local currentTime = GetTime()
     if currentTime - lastQueryTime > QUERY_THROTTLE_INTERVAL then
