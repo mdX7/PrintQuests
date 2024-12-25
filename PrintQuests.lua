@@ -39,20 +39,30 @@ local function QueryCompletedQuests()
     completedQuests = currentCompletedQuests
 end
 
+local lastQueryTime = 0
+local QUERY_THROTTLE_INTERVAL = 0.5 -- in seconds
+local function ThrottledQueryCompletedQuests()
+    local currentTime = GetTime()
+    if currentTime - lastQueryTime > QUERY_THROTTLE_INTERVAL then
+        QueryCompletedQuests()
+        lastQueryTime = currentTime
+    end
+end
+
 frame:SetScript("OnEvent", function(self, event, ...)
     if event == "CRITERIA_UPDATE" or event == "QUEST_LOG_UPDATE" then
-        QueryCompletedQuests()
+        ThrottledQueryCompletedQuests()
     elseif event == "QUEST_ACCEPTED" then
         local questID = ...
         PrintQuest("accepted", questID)
-        QueryCompletedQuests()
+        ThrottledQueryCompletedQuests()
     elseif event == "QUEST_TURNED_IN" then
         local questID = ...
         PrintQuest("turned in", questID)
-        QueryCompletedQuests()
+        ThrottledQueryCompletedQuests()
     elseif event == "QUEST_REMOVED" then
         local questID = ...
         PrintQuest("removed", questID)
-        QueryCompletedQuests()
+        ThrottledQueryCompletedQuests()
     end
 end)
