@@ -17,6 +17,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
+    [58883] = "Stitched Leather Boots looted",
     [84801] = "Siren Isle Rare: Ghostmaker killed",
     [84792] = "Siren Isle Rare: Ikir the Flotsurge killed",
     [85403] = "Siren Isle Rare: Tempest Talon killed",
@@ -52,5 +53,4 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81881] = "Hallowfall Rare: Funglour killed",
     [84229] = "Faded Engineer Scriblings used",
     [81355] = "Convincingly Realistic Jumper Cables First Craft done",
-    [58883] = "Stitched Leather Boots looted",
 }
