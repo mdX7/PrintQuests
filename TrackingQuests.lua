@@ -52,4 +52,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81881] = "Hallowfall Rare: Funglour killed",
     [84229] = "Faded Engineer Scriblings used",
     [81355] = "Convincingly Realistic Jumper Cables First Craft done",
+    [58883] = "Stitched Leather Boots looted",
 }
