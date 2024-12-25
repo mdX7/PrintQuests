@@ -1,6 +1,6 @@
 ## Interface: 110007
 ## Title: PrintQuests
-## Version: 1.0.3
+## Version: 1.0.4
 ## Notes: Prints quests in chat
 ## Author: ModoX
 ## IconTexture: Interface\ICONS\Ability_druid_maul
