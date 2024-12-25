@@ -1,0 +1,66 @@
+name: Release Addon
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Determine Incremental Version
+      - name: Get Incremental Version
+        id: get_version
+        run: |
+          # Extract the last tag, assuming it's in the format v1.0.<number>
+          latest_tag=$(git tag --list 'v1.0.*' | sort -V | tail -n 1)
+          if [ -z "$latest_tag" ]; then
+            new_version="1.0.1" # Start with 1.0.1 if no tags exist
+          else
+            increment=$(echo $latest_tag | awk -F. '{print $3 + 1}')
+            new_version="1.0.${increment}"
+          fi
+          echo "New version: $new_version"
+          echo "new_version=$new_version" >> $GITHUB_ENV
+
+      # Step 3: Create a .zip file of the addon
+      - name: Create Addon ZIP
+        run: |
+          mkdir -p release
+          zip -r "release/PrintQuests-${{ env.new_version }}.zip" . -x "*.git*" ".github/*" "release/*"
+
+      # Step 4: Create a new Git tag
+      - name: Create Git Tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -a "v${{ env.new_version }}" -m "Release version ${{ env.new_version }}"
+          git push origin "v${{ env.new_version }}"
+
+      # Step 5: Create a GitHub Release
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: "v${{ env.new_version }}"
+          release_name: "Version ${{ env.new_version }}"
+          body: "Automated release of PrintQuests version ${{ env.new_version }}."
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 6: Upload the ZIP file as a Release Asset
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: release/PrintQuests-${{ env.new_version }}.zip
+          asset_name: PrintQuests-${{ env.new_version }}.zip
+          asset_content_type: application/zip
