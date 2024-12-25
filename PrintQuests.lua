@@ -10,9 +10,9 @@ frame:RegisterEvent("QUEST_LOG_UPDATE")
 local function PrintQuest(printType, questID)
     local questName = C_QuestLog.GetTitleForQuestID(questID)
     if questName then
-        print("Quest ".. printType ..": " .. questName .. " (ID: " .. questID .. ")")
+        print("Quest ".. printType ..": |cFF00FF00" .. questName .. "|r (ID: " .. questID .. ")")
     else
-        print("Quest ".. printType .." (Tracking): (ID: " .. questID .. ")")
+        print("Quest ".. printType .." |cFFFF0000(Tracking)|r: (ID: " .. questID .. ")")
     end
 end
 
