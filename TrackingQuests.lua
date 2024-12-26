@@ -14,6 +14,18 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [86171] = "Siren Isle: Rune-Sealed Coffer looted (in Stormtide Dregs)?",
     [85708] = "Siren Isle: Special Assignment: Storm's a Brewin unlocked?",
     [86486] = "Hungry, Hungry Snapdragon 2/X?",
+    [82205] = "Isle of Dorn Rare: Rotfist killed?",
+    [85161] = "Isle of Dorn Rare: Rotfist killed?",
+    [81907] = "Isle of Dorn Rare: Escaped Cutthroat killed?",
+    [84029] = "Isle of Dorn Rare: Escaped Cutthroat killed?",
+    [81897] = "Isle of Dorn Rare: Plaguehart killed?",
+    [84026] = "Isle of Dorn Rare: Plaguehart killed?",
+    [81901] = "Isle of Dorn Rare: Tempest Lord Incarnus killed?",
+    [84030] = "Isle of Dorn Rare: Tempest Lord Incarnus killed?",
+    [81902] = "Isle of Dorn Rare: Kronolith, Might of the Mountain killed?",
+    [84031] = "Isle of Dorn Rare: Kronolith, Might of the Mountain killed?",
+    [80003] = "Ringing Deeps Rare: Disturbed Earthgorger killed?",
+    [84050] = "Ringing Deeps Rare: Disturbed Earthgorger killed?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
