@@ -61,6 +61,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81893] = "Isle of Dorn Rare: Bloodmaw killed daily",
     [81894] = "Isle of Dorn Rare: Warphorn killed daily",
     [86282] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed LFR",
+    [86285] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed Normal",
     [86278] = "20th Anniversary Blackrock Depths Miniboss: High Interrogator Gerstahn killed LFR",
     [86289] = "20th Anniversary Blackrock Depths Miniboss: High Interrogator Gerstahn killed Normal",
     [86279] = "20th Anniversary Blackrock Depths Miniboss: Houndmaster Grebmar killed LFR",
