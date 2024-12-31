@@ -10,6 +10,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [86171] = "Siren Isle: Rune-Sealed Coffer looted (in Stormtide Dregs)?",
     [85708] = "Siren Isle: Special Assignment: Storm's a Brewin unlocked?",
     [86486] = "Hungry, Hungry Snapdragon 2/X?",
+    [85723] = "Anniversary Worldboss: First Worldboss kill of day/week? Azuregos",
+    [85168] = "Anniversary Worldboss: Second Worldboss kill of day/week? Lord Kazzak",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -60,10 +62,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86285] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed Normal",
     [86278] = "20th Anniversary Blackrock Depths Miniboss: High Interrogator Gerstahn killed LFR",
     [86289] = "20th Anniversary Blackrock Depths Miniboss: High Interrogator Gerstahn killed Normal",
+    [86290] = "20th Anniversary Blackrock Depths Miniboss: High Interrogator Gerstahn killed Heroic",
     [86279] = "20th Anniversary Blackrock Depths Miniboss: Houndmaster Grebmar killed LFR",
     [86288] = "20th Anniversary Blackrock Depths Miniboss: Houndmaster Grebmar killed Normal",
+    [86291] = "20th Anniversary Blackrock Depths Miniboss: Houndmaster Grebmar killed Heroic",
+    [86280] = "20th Anniversary Blackrock Depths Miniboss: Fineous Darkvire killed LFR",
     [86287] = "20th Anniversary Blackrock Depths Miniboss: Fineous Darkvire killed Normal",
+    [86292] = "20th Anniversary Blackrock Depths Miniboss: Fineous Darkvire killed Heroic",
+    [86281] = "20th Anniversary Blackrock Depths Miniboss: Phalanx killed LFR",
     [86286] = "20th Anniversary Blackrock Depths Miniboss: Phalanx killed Normal",
+    [86293] = "20th Anniversary Blackrock Depths Miniboss: Phalanx killed Heroic",
+    [84665] = "20th Anniversary: The Originals / Timely Gate Crashers turnin",
+    [47462] = "Anniversary Worldboss: Azuregos Kill",
+    [47461] = "Anniversary Worldboss: Lord Kazzak Kill",
+    [47463] = "Anniversary Worldboss: Dragon of Nightmare Kill",
     [79685] = "Isle of Dorn Rare: Sandres the Relicbearer killed daily",
     [81892] = "Isle of Dorn Rare: Springbubble killed daily",
     [81893] = "Isle of Dorn Rare: Bloodmaw killed daily",
@@ -102,4 +114,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84044] = "Ringing Deeps Rare: Charmonger Rare killed weekly reputation",
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
+    [39751] = "Classic Timewalking LFG completion",
 }
