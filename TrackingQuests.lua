@@ -57,6 +57,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83049] = "Mining: Erosion-Polished Slate looted",
     [81881] = "Hallowfall Rare: Funglour killed daily",
     [84229] = "Faded Engineer Scriblings used",
+    [81391] = "Exceptional Miner's Notes used",
+    [83063] = "Machine-Learned Engineering Notes used",
+    [83062] = "Machine-Learned Mining Notes used",
     [81355] = "Convincingly Realistic Jumper Cables First Craft done",
     [86282] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed LFR",
     [86285] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed Normal",
@@ -115,4 +118,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
     [39751] = "Classic Timewalking LFG completion",
+    [82066] = "Hallowfall: A Scout's Journal interacted",
 }
