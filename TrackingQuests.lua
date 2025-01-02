@@ -123,6 +123,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [47462] = "Anniversary Worldboss: Azuregos Kill",
     [47461] = "Anniversary Worldboss: Lord Kazzak Kill",
     [47463] = "Anniversary Worldboss: Dragon of Nightmare Kill",
+    [86202] = "Opened first Bronze Celebration Chest of the week",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Isle of Dorn
@@ -202,4 +203,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
     [39751] = "Classic Timewalking LFG completion",
+    [84736] = "First Restored Coffer Key looted of the week",
+    [84737] = "Second Restored Coffer Key looted of the week",
+    [84738] = "Third Restored Coffer Key looted of the week",
+    [84739] = "Fourth Restored Coffer Key looted of the week",
 }
