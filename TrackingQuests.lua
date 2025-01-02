@@ -196,7 +196,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84800] = "Siren Isle Rare: Chef Chum Platter daily",
     [85669] = "Siren Isle Excavation: Gravesludge killed in The Drain",
     [86732] = "Siren Isle Chest: Stone Carvers Scramseax looted",
-    [86486] = "Siren Isle Quest: 24h lockout for Snapdragon questchain",
+    [86566] = "Siren Isle Quest: Snapdragon Progress Update (24h lockout)",
     [86485] = "Siren Isle Quest: complete A Loyal Friend questchain",
     [86373] = "Siren Isle Loot: Teal Snapdragon Treat",
     
