@@ -12,7 +12,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85714] = "Siren Isle: Rune-Sealed Coffer solved (in Stormtide Dregs)?",
     [86171] = "Siren Isle: Rune-Sealed Coffer looted (in Stormtide Dregs)?",
     [85708] = "Siren Isle: Special Assignment: Storm's a Brewin unlocked?",
-    [86486] = "Hungry, Hungry Snapdragon 2/X?",
     [85723] = "Anniversary Worldboss: First Worldboss kill of day/week? Azuregos/Doomwalker",
     [85168] = "Anniversary Worldboss: Second Worldboss kill of day/week? Lord Kazzak",
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
@@ -25,8 +24,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
-    [84799] = "Siren Isle Rare: Plank-Master Bluebelly daily",
-    [84800] = "Siren Isle Rare: Chef Chum Platter daily",
     [85156] = "Angorla stay a while and listen",
     [85103] = "Apprentice Tanmar stay a while and listen",
     [84009] = "Alleria Stay a while and listen after The Fleet Arrives",
@@ -199,6 +196,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84800] = "Siren Isle Rare: Chef Chum Platter daily",
     [85669] = "Siren Isle Excavation: Gravesludge killed in The Drain",
     [86732] = "Siren Isle Chest: Stone Carvers Scramseax looted",
+    [86486] = "Siren Isle Quest: 24h lockout for Snapdragon questchain",
+    [86485] = "Siren Isle Quest: complete A Loyal Friend questchain",
+    [86373] = "Siren Isle Loot: Teal Snapdragon Treat",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
