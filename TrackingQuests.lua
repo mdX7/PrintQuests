@@ -99,6 +99,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81356] = "Engineering First Time Craft: Algari Repair Bot 11O",
     [81319] = "Engineering First Time Craft: Bismuth Miner's Headgear",
     [81293] = "Engineering First Time Craft: Algari Competitor's Plate Goggles",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Leatherworking
+    [80913] = "Leatherworking First Time Craft: Spelunker's Leather Bands",
+    [80907] = "Leatherworking First Time Craft: Spelunker's Leather Footpads",
+    [80906] = "Leatherworking First Time Craft: Spelunker's Leather Jerkin",
+    [80921] = "Leatherworking First Time Craft: Tracker's Chitin Cuffs",
+    [80915] = "Leatherworking First Time Craft: Tracker's Chitin Galoshes",
+    [80914] = "Leatherworking First Time Craft: Tracker's Chitin Hauberk",
+    [80942] = "Leatherworking First Time Craft: Hideseeker's Hat",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 20th Anniversary
