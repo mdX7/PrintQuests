@@ -88,6 +88,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81391] = "Exceptional Miner's Notes used",
     [83062] = "Machine-Learned Mining Notes used",
     [83733] = "Algari Treatise on Mining used",
+    [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
@@ -96,6 +97,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83728] = "Algari Treatise on Engineering used",
     [81355] = "Engineering First Time Craft: Convincingly Realistic Jumper Cables",
     [81356] = "Engineering First Time Craft: Algari Repair Bot 11O",
+    [81319] = "Engineering First Time Craft: Bismuth Miner's Headgear",
+    [81293] = "Engineering First Time Craft: Algari Competitor's Plate Goggles",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 20th Anniversary
