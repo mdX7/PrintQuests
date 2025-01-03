@@ -19,6 +19,10 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
+    -- Pandaria Intro
+    [37186] = "The Art of War",
+    [37193] = "The King's Command",
+    
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
     
