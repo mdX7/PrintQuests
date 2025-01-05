@@ -25,6 +25,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
+    [59139] = "Spider-Eye Ring looted",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
