@@ -90,20 +90,27 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83051] = "Mining: Slab of Slate 4/5 looted",
     [83050] = "Mining: Slab of Slate 5/5 looted",
     [83049] = "Mining: Erosion-Polished Slate looted",
-    [81391] = "Exceptional Miner's Notes used",
-    [83062] = "Machine-Learned Mining Notes used",
-    [83733] = "Algari Treatise on Mining used",
+    [80368] = "Mining: First camouflaged Bismuth looted",
+    [80370] = "Mining: First camouflaged Ironclaw looted",
+    [81391] = "Mining Book: Exceptional Miner's Notes used",
+    [83062] = "Mining Book: Machine-Learned Mining Notes used",
+    [81392] = "Mining Book: Pristine Miner's Notes used",
+    [83733] = "Mining Book: Algari Treatise on Mining used weekly",
+    [82614] = "Mining Book: A Rocky Start used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
-    [84229] = "Faded Engineer Scriblings used",
-    [83063] = "Machine-Learned Engineering Notes used",
-    [83728] = "Algari Treatise on Engineering used",
+    [84229] = "Engineering Book: Faded Engineer Scriblings used",
+    [83063] = "Engineering Book: Machine-Learned Engineering Notes used",
+    [84230] = "Engineering Book: Exceptional Engineer's Notes used",
+    [83728] = "Engineering Book: Algari Treatise on Engineering used weekly",
     [81355] = "Engineering First Time Craft: Convincingly Realistic Jumper Cables",
     [81356] = "Engineering First Time Craft: Algari Repair Bot 11O",
     [81319] = "Engineering First Time Craft: Bismuth Miner's Headgear",
     [81293] = "Engineering First Time Craft: Algari Competitor's Plate Goggles",
+    [81387] = "Engineering First Time Craft: Dredger's Goggles",
+    [81365] = "Engineering First Time Craft: Spelunker's Goggles",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -183,6 +190,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84044] = "Ringing Deeps Rare: Charmonger Rare killed weekly reputation",
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
+    [82464] = "Ringing Deeps Chest: Dusty Prospector Chest looted",
+    [82052] = "Ringing Deeps: Submerged Sign interacted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Hallowfall
