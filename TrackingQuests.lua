@@ -23,6 +23,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [37186] = "The Art of War",
     [37193] = "The King's Command",
     
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Legion Intro
+    [44659] = "Skip the Legion Introductory quests",
+
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
     [59139] = "Spider-Eye Ring looted",
@@ -191,6 +195,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
     [82464] = "Ringing Deeps Chest: Dusty Prospector Chest looted",
+    [82820] = "Ringing Deeps Chest: Blocked Intake looted",
+    [83253] = "Ringing Deeps Chest: Pile of Refuse looted",
     [82052] = "Ringing Deeps: Submerged Sign interacted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
