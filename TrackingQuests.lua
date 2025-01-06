@@ -115,6 +115,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81293] = "Engineering First Time Craft: Algari Competitor's Plate Goggles",
     [81387] = "Engineering First Time Craft: Dredger's Goggles",
     [81365] = "Engineering First Time Craft: Spelunker's Goggles",
+    [81364] = "Engineering First Time Craft: Acolyte's Goggles",
+    [81352] = "Engineering First Time Craft: Energy Redistribution Beacon",
+    [81353] = "Engineering First Time Craft: Irresistable Red Button",
+    [81329] = "Engineering First Time Craft: Chaos Circuit",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -150,6 +154,22 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [47461] = "Anniversary Worldboss: Lord Kazzak Kill",
     [47463] = "Anniversary Worldboss: Dragon of Nightmare Kill",
     [86202] = "Opened first Bronze Celebration Chest of the week",
+    [85661] = "Bought first T2 Set",
+    [85828] = "Bought second T2 Set",
+    [85841] = "Learned Death Knight T2 Set",
+    [85842] = "Learned Demon Hunter T2 Set",
+    [85843] = "Learned Druid T2 Set",
+    [85844] = "Learned Evoker T2 Set",
+    [85845] = "Learned Hunter T2 Set",
+    [85846] = "Learned Mage T2 Set",
+    [85847] = "Learned Monk T2 Set",
+    [85848] = "Learned Paladin T2 Set",
+    [85849] = "Learned Priest T2 Set",
+    [85850] = "Learned Rogue T2 Set",
+    [85851] = "Learned Shaman T2 Set",
+    [85852] = "Learned Warlock T2 Set",
+    [85853] = "Learned Warrior T2 Set",
+    [83831] = "Guest Relations completed Tutorial (A Whiff of Help) (accwide)",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Isle of Dorn
