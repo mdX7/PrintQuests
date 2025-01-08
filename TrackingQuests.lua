@@ -15,6 +15,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85723] = "Anniversary Worldboss: First Worldboss kill of day/week? Azuregos/Doomwalker",
     [85168] = "Anniversary Worldboss: Second Worldboss kill of day/week? Lord Kazzak",
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
+    [83280] = "Related to Spark of Omens, weekly",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -65,6 +66,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81599] = "Severed Threads - The Weaver: Reached Accomplice (3/8) reputation",
     [81600] = "Severed Threads - The Weaver: Reached Collaborator (4/8) reputation",
     [84538] = "Severed Threads - The Weaver: Reached Accessory (5/8) reputation",
+    -- missing Abettor 6/8
+    [84540] = "Severed Threads - The Weaver: Reached Conspirator (7/8) reputation",
     -- The General
     [81601] = "Severed Threads - The General: Reached Acquiantance (1/8) reputation",
     -- Crony 2/8 has 2 tracking quests, ref UnsurelyNamedTrackingQuests
@@ -119,6 +122,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81352] = "Engineering First Time Craft: Energy Redistribution Beacon",
     [81353] = "Engineering First Time Craft: Irresistable Red Button",
     [81329] = "Engineering First Time Craft: Chaos Circuit",
+    [81342] = "Engineering First Time Craft: Serrated Cogwheel",
+    [81350] = "Engineering First Time Craft: Pouch of Pocket Grenades",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -170,6 +175,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85852] = "Learned Warlock T2 Set",
     [85853] = "Learned Warrior T2 Set",
     [83831] = "Guest Relations completed Tutorial (A Whiff of Help) (accwide)",
+    [85414] = "Guest Relations Pirate Gastronomy: Asked Maru about Rogue's thistle",
+    [85415] = "Guest Relations Pirate Gastronomy: Asked Maru about Banana rum berries",
+    [85416] = "Guest Relations Pirate Gastronomy: Asked Maru about Fire breathing chill sacs",
+    [85417] = "Guest Relations Pirate Gastronomy: Asked Maru about Koatini's oil",
+    [85418] = "Guest Relations Pirate Gastronomy: Asked Maru about Deadwind catfish",
+    [85419] = "Guest Relations Pirate Gastronomy: Asked Maru about Giant growth fish",
+    [85420] = "Guest Relations Pirate Gastronomy: Asked Maru about Sholazar nettles",
+    [85421] = "Guest Relations Pirate Gastronomy: Asked Maru about Highland crawdaddies",
+    [85411] = "Guest Relations Pirate Gastronomy: Asking Bonenose about Cooktholomew",
+    [83824] = "Restoring A Grand Tale - Crafted Green Hills of Stranglethorn",
+    [84617] = "Alyx enabled harder challenges - unlock call board",
+    [83790] = "Celebration Crate #1 - Opened Gerald",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Isle of Dorn
