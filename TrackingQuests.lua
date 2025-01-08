@@ -20,6 +20,13 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
+    -- Darkmoon Faire
+    [29484] = "Darkmoon Faire: Cooking - Putting the Crunch in the Frog",
+    [29466] = "Darkmoon Faire: Fishing - Spoilin' for Salty Sea Dogs",
+    [29467] = "Darkmoon Faire: Engineering - Talkin' Tonks",
+    [29469] = "Darkmoon Faire: Mining - Rearm, Reuse, Recycle",
+    
+    -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
     [37193] = "The King's Command",
@@ -111,6 +118,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84229] = "Engineering Book: Faded Engineer Scriblings used",
     [83063] = "Engineering Book: Machine-Learned Engineering Notes used",
     [84230] = "Engineering Book: Exceptional Engineer's Notes used",
+    [84231] = "Engineering Book: Pristine Engineer's Scribblings used",
     [83728] = "Engineering Book: Algari Treatise on Engineering used weekly",
     [81355] = "Engineering First Time Craft: Convincingly Realistic Jumper Cables",
     [81356] = "Engineering First Time Craft: Algari Repair Bot 11O",
@@ -124,6 +132,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81329] = "Engineering First Time Craft: Chaos Circuit",
     [81342] = "Engineering First Time Craft: Serrated Cogwheel",
     [81350] = "Engineering First Time Craft: Pouch of Pocket Grenades",
+    [81388] = "Engineering First Time Craft: 4UT0-41M3R",
+    [81311] = "Engineering First Time Craft: Spring-Loaded Bismuth Fabric Cutters",
+    [81332] = "Engineering First Time Craft: Potion Bomb of Recovery",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
