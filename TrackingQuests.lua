@@ -135,6 +135,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81388] = "Engineering First Time Craft: 4UT0-41M3R",
     [81311] = "Engineering First Time Craft: Spring-Loaded Bismuth Fabric Cutters",
     [81332] = "Engineering First Time Craft: Potion Bomb of Recovery",
+    [81347] = "Engineering First Time Craft: Blame Redirection Device",
+    [81315] = "Engineering First Time Craft: Bismuth Fisherfriend",
+    [81345] = "Engineering First Time Craft: Adjustable Cogwheel",
+    [81313] = "Engineering First Time Craft: Bismuth Brainwave Projector",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
