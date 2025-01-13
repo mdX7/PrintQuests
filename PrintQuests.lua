@@ -6,6 +6,7 @@ frame:RegisterEvent("CRITERIA_UPDATE")
 frame:RegisterEvent("QUEST_ACCEPTED")
 frame:RegisterEvent("QUEST_TURNED_IN")
 frame:RegisterEvent("QUEST_REMOVED")
+frame:RegisterEvent("QUEST_WATCH_UPDATE")
 frame:RegisterEvent("QUEST_LOG_UPDATE")
 
 local function PrintQuest(printType, questID)
@@ -76,5 +77,13 @@ frame:SetScript("OnEvent", function(self, event, ...)
         local questID = ...
         PrintQuest("removed", questID)
         ThrottledQueryCompletedQuests()
+    elseif event == "QUEST_WATCH_UPDATE" then
+        local questID = ...
+        C_Timer.After(0.1, function()
+            if C_QuestLog.ReadyForTurnIn(questID) then
+                PrintQuest("completed", questID)
+                ThrottledQueryCompletedQuests()
+            end
+        end)
     end
 end)
