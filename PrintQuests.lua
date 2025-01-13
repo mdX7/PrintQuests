@@ -1,10 +1,11 @@
 PrintQuests = {}
 local frame = CreateFrame("Frame")
 
+frame:RegisterEvent("PLAYER_ENTERING_WORLD")
+frame:RegisterEvent("CRITERIA_UPDATE")
 frame:RegisterEvent("QUEST_ACCEPTED")
 frame:RegisterEvent("QUEST_TURNED_IN")
 frame:RegisterEvent("QUEST_REMOVED")
-frame:RegisterEvent("CRITERIA_UPDATE")
 frame:RegisterEvent("QUEST_LOG_UPDATE")
 
 local function PrintQuest(printType, questID)
@@ -21,23 +22,25 @@ local function PrintQuest(printType, questID)
 end
 
 local completedQuests = {}
-local questObjectives = {}
 
-local function QueryCompletedQuests()
+local function QueryCompletedQuests(isInitialLogin)
     local currentCompletedQuests = {}
     local completedQuestIDs = C_QuestLog.GetAllCompletedQuestIDs()
     if completedQuestIDs then
         for _, questID in ipairs(completedQuestIDs) do
             currentCompletedQuests[questID] = true
-            if not completedQuests[questID] then
-                PrintQuest("completed", questID)
+            if not isInitialLogin then
+                if not completedQuests[questID] then
+                    PrintQuest("rewarded", questID)
+                end
             end
         end
     end
-
-    for questID, _ in pairs(completedQuests) do
-        if not currentCompletedQuests[questID] then
-            PrintQuest("reverted", questID)
+    if not isInitialLogin then
+        for questID, _ in pairs(completedQuests) do
+            if not currentCompletedQuests[questID] then
+                PrintQuest("reverted", questID)
+            end
         end
     end
     completedQuests = currentCompletedQuests
@@ -54,7 +57,12 @@ local function ThrottledQueryCompletedQuests()
 end
 
 frame:SetScript("OnEvent", function(self, event, ...)
-    if event == "CRITERIA_UPDATE" or event == "QUEST_LOG_UPDATE" then
+    if event == "PLAYER_ENTERING_WORLD" then
+        local isInitialLogin, isReloadingUi = ...
+        if isInitialLogin then
+            QueryCompletedQuests(isInitialLogin)
+        end
+    elseif event == "CRITERIA_UPDATE" or event == "QUEST_LOG_UPDATE" then
         ThrottledQueryCompletedQuests()
     elseif event == "QUEST_ACCEPTED" then
         local questID = ...
