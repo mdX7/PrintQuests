@@ -75,6 +75,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84538] = "Severed Threads - The Weaver: Reached Accessory (5/8) reputation",
     -- missing Abettor 6/8
     [84540] = "Severed Threads - The Weaver: Reached Conspirator (7/8) reputation",
+    [84541] = "Severed Threads - The Weaver: Reached Mastermind (8/8) reputation",
     -- The General
     [81601] = "Severed Threads - The General: Reached Acquiantance (1/8) reputation",
     -- Crony 2/8 has 2 tracking quests, ref UnsurelyNamedTrackingQuests
@@ -139,6 +140,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81315] = "Engineering First Time Craft: Bismuth Fisherfriend",
     [81345] = "Engineering First Time Craft: Adjustable Cogwheel",
     [81313] = "Engineering First Time Craft: Bismuth Brainwave Projector",
+    [81349] = "Engineering First Time Craft: Complicated Fuse Box",
+    [81317] = "Engineering First Time Craft: Lapidary's Bismuth Clamps",
+    [81331] = "Engineering First Time Craft: Potion Bomb of Speed",
+    [81290] = "Engineering First Time Craft: Algari Competitor's Cloth Goggles",
+    [81308] = "Engineering First Time Craft: Venting Vambraces",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -255,6 +261,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Hallowfall
     [81881] = "Hallowfall Rare: Funglour killed daily",
     [82066] = "Hallowfall: A Scout's Journal interacted",
+    [79081] = "Hallowfall: Flamegard's Hope Achievement daily lockout",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Azj'kahet
