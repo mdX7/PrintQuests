@@ -106,6 +106,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83049] = "Mining: Erosion-Polished Slate looted",
     [80368] = "Mining: First camouflaged Bismuth looted",
     [80370] = "Mining: First camouflaged Ironclaw looted",
+    [80369] = "Mining: First camouflaged Aqirite looted",
     [81391] = "Mining Book: Exceptional Miner's Notes used",
     [83062] = "Mining Book: Machine-Learned Mining Notes used",
     [81392] = "Mining Book: Pristine Miner's Notes used",
@@ -144,6 +145,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81331] = "Engineering First Time Craft: Potion Bomb of Speed",
     [81290] = "Engineering First Time Craft: Algari Competitor's Cloth Goggles",
     [81308] = "Engineering First Time Craft: Venting Vambraces",
+    [81346] = "Engineering First Time Craft: Recalibrated Safety Switch",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
