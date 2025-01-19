@@ -15,6 +15,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85168] = "Anniversary Worldboss: Second Worldboss kill of day/week? Lord Kazzak",
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
     [83280] = "Related to Spark of Omens, weekly",
+    [83158] = "... on Waterworks Delve completed?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -303,6 +304,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85707] = "Siren Isle: obtained Legendary Skipper's Citrine - vendor unlock",
     [85708] = "Siren Isle: obtained Seabed Leviathan's Citrine - vendor unlock",
     [85709] = "Siren Isle: obtained Roaring War-Queen's Citrine - vendor unlock",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Delves
+    [82945] = "Bountyful Waterworks completed",
+    [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)"
+    [83456] = "Sturdy Chest near Waxface, The Waterworks looted"
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
