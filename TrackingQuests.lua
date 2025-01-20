@@ -16,7 +16,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
     [83280] = "Related to Spark of Omens, weekly",
     [83158] = "... on Waterworks Delve completed?",
-    [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8"
+    [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -148,6 +148,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81290] = "Engineering First Time Craft: Algari Competitor's Cloth Goggles",
     [81308] = "Engineering First Time Craft: Venting Vambraces",
     [81346] = "Engineering First Time Craft: Recalibrated Safety Switch",
+    [81343] = "Engineering First Time Craft: Overclocked Cogwheel",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -309,8 +310,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
     [82945] = "Bountyful Waterworks completed",
-    [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)"
-    [83456] = "Sturdy Chest near Waxface, The Waterworks looted"
+    [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
+    [83456] = "Sturdy Chest near Waxface, The Waterworks looted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
