@@ -16,6 +16,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
     [83280] = "Related to Spark of Omens, weekly",
     [83158] = "... on Waterworks Delve completed?",
+    [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8"
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
