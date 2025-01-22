@@ -306,6 +306,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85707] = "Siren Isle: obtained Legendary Skipper's Citrine - vendor unlock",
     [85708] = "Siren Isle: obtained Seabed Leviathan's Citrine - vendor unlock",
     [85709] = "Siren Isle: obtained Roaring War-Queen's Citrine - vendor unlock",
+    [85799] = "Siren Isle Thrayir: Turbulent Runestone used",
+    [85800] = "Siren Isle Thrayir: Cyclonic Runestone used",
+    [85801] = "Siren Isle Thrayir: Torrential Runestone used",
+    [85802] = "Siren Isle Thrayir: Whirling Runestone used",
+    [85803] = "Siren Isle Thrayir: Thunderous Runestone used",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
