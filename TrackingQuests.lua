@@ -306,6 +306,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85707] = "Siren Isle: obtained Legendary Skipper's Citrine - vendor unlock",
     [85708] = "Siren Isle: obtained Seabed Leviathan's Citrine - vendor unlock",
     [85709] = "Siren Isle: obtained Roaring War-Queen's Citrine - vendor unlock",
+    [85799] = "Siren Isle Thrayir: Turbulent Runestone used",
+    [85800] = "Siren Isle Thrayir: Cyclonic Runestone used",
+    [85801] = "Siren Isle Thrayir: Torrential Runestone used",
+    [85802] = "Siren Isle Thrayir: Whirling Runestone used",
+    [85803] = "Siren Isle Thrayir: Thunderous Runestone used",
+    [86532] = "Ensemble: Bilgeswabby's Garb",
+    [86533] = "Ensemble: Pilfered Mariner's Garb",
+    [86534] = "Ensemble: Salt-Stained Garb",
+    [86498] = "Ensemble: Rune Scribe's Vestments",
+    [86499] = "Ensemble: Bloodscout Outfit",
+    [86500] = "Ensemble: Hydraflayer Regalia",
+    [86501] = "Ensemble: Tidecrasher Armor",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
