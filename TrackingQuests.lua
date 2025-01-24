@@ -100,12 +100,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mining
-    [83054] = "Mining: Slab of Slate 1/5 looted",
-    [83053] = "Mining: Slab of Slate 2/5 looted",
-    [83052] = "Mining: Slab of Slate 3/5 looted",
-    [83051] = "Mining: Slab of Slate 4/5 looted",
-    [83050] = "Mining: Slab of Slate 5/5 looted",
-    [83049] = "Mining: Erosion-Polished Slate looted",
+    [83054] = "Mining: Slab of Slate 1/5 looted (weekly)",
+    [83053] = "Mining: Slab of Slate 2/5 looted (weekly)",
+    [83052] = "Mining: Slab of Slate 3/5 looted (weekly)",
+    [83051] = "Mining: Slab of Slate 4/5 looted (weekly)",
+    [83050] = "Mining: Slab of Slate 5/5 looted (weekly)",
+    [83049] = "Mining: Erosion-Polished Slate looted (weekly)",
     [80368] = "Mining: First camouflaged Bismuth looted",
     [80370] = "Mining: First camouflaged Ironclaw looted",
     [80369] = "Mining: First camouflaged Aqirite looted",
@@ -118,6 +118,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
+    [83261] = "Engineering: Earthen Induction Coil looted (weekly)",
+    [83260] = "Engineering: Rust-Locked Mechanism looted (weekly)",
     [84229] = "Engineering Book: Faded Engineer Scriblings used",
     [83063] = "Engineering Book: Machine-Learned Engineering Notes used",
     [84230] = "Engineering Book: Exceptional Engineer's Notes used",
@@ -149,6 +151,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81308] = "Engineering First Time Craft: Venting Vambraces",
     [81346] = "Engineering First Time Craft: Recalibrated Safety Switch",
     [81343] = "Engineering First Time Craft: Overclocked Cogwheel",
+    [81351] = "Engineering First Time Craft: Concealed Chaos Module",
+    [81320] = "Engineering First Time Craft: Aqirite Miner's Headgear",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
