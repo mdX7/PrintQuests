@@ -157,6 +157,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81343] = "Engineering First Time Craft: Overclocked Cogwheel",
     [81351] = "Engineering First Time Craft: Concealed Chaos Module",
     [81320] = "Engineering First Time Craft: Aqirite Miner's Headgear",
+    [81324] = "Engineering First Time Craft: Miner's Aqirite Hoard",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
