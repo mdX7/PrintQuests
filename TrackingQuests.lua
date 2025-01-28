@@ -107,8 +107,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83050] = "Mining: Slab of Slate 5/5 looted (weekly)",
     [83049] = "Mining: Erosion-Polished Slate looted (weekly)",
     [80368] = "Mining: First camouflaged Bismuth looted",
+    [80355] = "Mining: First Rich Ironclaw looted",
+    [80367] = "Mining: First EZ-Mine Ironclaw looted",
+    [80373] = "Mining: First Webbed Ironclaw looted",
     [80370] = "Mining: First camouflaged Ironclaw looted",
     [80369] = "Mining: First camouflaged Aqirite looted",
+    [83907] = "Mining: Dornogal Chisel treasure looted",
     [81391] = "Mining Book: Exceptional Miner's Notes used",
     [83062] = "Mining Book: Machine-Learned Mining Notes used",
     [81392] = "Mining Book: Pristine Miner's Notes used",
@@ -251,6 +255,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81904] = "Isle of Dorn Rare: Twice-Stinger the Wretched killed daily",
     [84033] = "Isle of Dorn Rare: Twice-Stinger the Wretched killed weekly reputation",
     [85159] = "Isle of Dorn Rare: Zovex killed weekly reputation",
+    [78619] = "Isle of Dorn Rare: Rustual Titancap killed daily",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Ringing Deeps
