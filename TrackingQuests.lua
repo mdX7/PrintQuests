@@ -28,6 +28,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [29469] = "Darkmoon Faire: Mining - Rearm, Reuse, Recycle",
     
     -----------------------------------------------------------------------------------------------------------------------
+    -- Love is in the Air
+    [74957] = "Love is in the Air: Increased X-45 Heartbreaker Droprate (daily, accwide)",
+    [86172] = "Love is in the Air: Increased Love Witch's Sweeper Droprate (daily, accwide)",
+    
+    -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
     [37193] = "The King's Command",
@@ -51,10 +56,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85682] = "Magni Bronzebeard Stay a while and listen in front of The Archive",
     [82542] = "Rooktender Lufsela Stay a while and listen in front of Thrall, Shraubendre",
     [84813] = "Rooktender Lufsela Stay a while and listen in Dhar Oztan",
-    
-    -- -----------------------------------------------------------------------------------------------------------------------
-    -- Delves
-    [84101] = "Brann reached Level 40",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Severed Threads
@@ -84,6 +85,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81604] = "Severed Threads - The General: Reached Collaborator (4/8) reputation",
     [84530] = "Severed Threads - The General: Reached Accessory (5/8) reputation",
     [84531] = "Severed Threads - The General: Reached Abettor (6/8) reputation",
+    [84532] = "Severed Threads - The General: Reached Conspirator (7/8) reputation",
     [80545] = "Severed Threads: Weekly Pact selected: The General",
     [80544] = "Severed Threads: Weekly Pact selected: The Weaver",
     [80546] = "Severed Threads: Weekly Pact selected: The Vizier",
@@ -162,6 +164,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81324] = "Engineering First Time Craft: Miner's Aqirite Hoard",
     [81316] = "Engineering First Time Craft: Aqirite Fisherfriend",
     [81341] = "Engineering First Time Craft: P.0.W. x2",
+    [81314] = "Engineering First Time Craft: Aqirite Brainwave Projector",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -336,8 +339,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
     [82945] = "Bountyful Waterworks completed",
+    [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly?)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
     [83456] = "Sturdy Chest near Waxface, The Waterworks looted",
+    [84101] = "Brann reached Level 40",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
