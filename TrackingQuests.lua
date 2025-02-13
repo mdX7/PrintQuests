@@ -41,9 +41,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
+    -----------------------------------------------------------------------------------------------------------------------
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
     [59139] = "Spider-Eye Ring looted",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Dragonriding Cosmetics
+    [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
@@ -86,6 +91,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84530] = "Severed Threads - The General: Reached Accessory (5/8) reputation",
     [84531] = "Severed Threads - The General: Reached Abettor (6/8) reputation",
     [84532] = "Severed Threads - The General: Reached Conspirator (7/8) reputation",
+    [84533] = "Severed Threads - The General: Reached Mastermind (8/8) reputation",
     [80545] = "Severed Threads: Weekly Pact selected: The General",
     [80544] = "Severed Threads: Weekly Pact selected: The Weaver",
     [80546] = "Severed Threads: Weekly Pact selected: The Vizier",
