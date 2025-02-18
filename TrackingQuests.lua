@@ -347,7 +347,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82945] = "Bountyful Waterworks completed",
     [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly?)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
-    [83456] = "Sturdy Chest near Waxface, The Waterworks looted",
+    [83456] = "The Waterworks - Sturdy Chest near Waxface looted",
+    [83456] = "Earthcrawl Mines - Sturdy Chest near Web General Ab'enar looted",
+    [83456] = "Earthcrawl Mines - Sturdy Chest: In square shaped room looted",
+    [83679] = "Skittering Breach - Sturdy Chest in first building looted",
+    [83663] = "The Underkeep - Sturdy Chest in passage between left and bottom room looted",
+    [83663] = "The Underkeep - Sturdy Chest in Researcher Ven'kex room looted",
+    [83691] = "Myromancer Cavern - Sturdy Chest under water looted",
+    [83672] = "Myromancer Cavern - Sturdy Chest on rock inside water looted",
+    [83455] = "Myromancer Cavern - Sturdy Chest in top right corner of map looted",
+    [83455] = "Fungal Folly - Sturdy Chest in top right corner of map looted",
     [84101] = "Brann reached Level 40",
     
     -- -----------------------------------------------------------------------------------------------------------------------
