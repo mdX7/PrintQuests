@@ -17,6 +17,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [83280] = "Related to Spark of Omens, weekly",
     [83158] = "... on Waterworks Delve completed?",
     [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8",
+    [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -54,6 +55,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Dragonriding Cosmetics
     [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
+    [82181] = "Used Delver's Dirigible Schematic: Empennage",
+    [82171] = "Used Delver's Dirigible Schematic: Wing-Mounted Propeller",
+    [82183] = "Used Delver's Dirigible Schematic: Rotor Blades",
+    [82167] = "Used Delver's Dirigible Schematic: Front-Mounted Propeller",
+    [82187] = "Used Delver's Dirigible Schematic: Brown Paint",
+    [82179] = "Used Delver's Dirigible Schematic: Exhaust",
+    [82170] = "Used Delver's Dirigible Schematic: Front-Mounted Lantern",
+    [82176] = "Used Delver's Dirigible Schematic: Lantern Wing",
+    [82185] = "Used Delver's Dirigible Schematic: Zeppelin",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
@@ -294,6 +304,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81881] = "Hallowfall Rare: Funglour killed daily",
     [82066] = "Hallowfall: A Scout's Journal interacted",
     [79081] = "Hallowfall: Flamegard's Hope Achievement daily lockout",
+    [81972] = "Hallowfall: Windswept Satchel near Priory of the Sacred Flame looted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Azj'kahet
@@ -349,7 +360,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
-    [82945] = "Bountyful Waterworks completed",
+    [82945] = "Bountiful Waterworks completed",
+    [82938] = "Bountiful The Dread Pit completed",
+    [82937] = "Bountiful The Sinkhole completed",
+    [82776] = "Bountiful Tak-Rethan Abyss completed",
+    [82944] = "Bountiful Earthcrawl Mines completed",
+    [82777] = "Bountiful Nightfall Sanctum completed (treasure room opened)",
+    [82942] = "Bountiful The Spiral Weave completed",
     [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly?)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
     [83456] = "The Waterworks - Sturdy Chest near Waxface looted",
@@ -362,7 +379,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83672] = "Myromancer Cavern - Sturdy Chest on rock inside water looted",
     [83455] = "Myromancer Cavern - Sturdy Chest in top right corner of map looted",
     [83455] = "Fungal Folly - Sturdy Chest in top right corner of map looted",
+    [83651] = "Tak-Rethan Abyss - Sturdy Chest above water entrance looted",
+    [83669] = "Tak-Rethan Abyss - Sturdy Chest on left side of map looted",
+    [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted",
     [84101] = "Brann reached Level 40",
+    [84102] = "Brann reached Level 41",
+    [84103] = "Brann reached Level 42",
+    [84104] = "Brann reached Level 43",
+    [84105] = "Brann reached Level 44",
+    [84106] = "Brann reached Level 45",
+    [84107] = "Brann reached Level 46",
+    [84108] = "Brann reached Level 47",
+    [84109] = "Brann reached Level 48",
+    [84110] = "Brann reached Level 49",
+    [83329] = "Brann reached Level 50",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
@@ -371,4 +401,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84737] = "Second Restored Coffer Key looted of the week",
     [84738] = "Third Restored Coffer Key looted of the week",
     [84739] = "Fourth Restored Coffer Key looted of the week",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Mythic+
+    [85469] = "First weekly completion of an 8+ Mythic Dungeon",
 }
