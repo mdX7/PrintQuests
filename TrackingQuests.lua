@@ -18,6 +18,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [83158] = "... on Waterworks Delve completed?",
     [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8",
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
+    [86325] = "Zekvirs Lair kill?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -64,6 +65,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82170] = "Used Delver's Dirigible Schematic: Front-Mounted Lantern",
     [82176] = "Used Delver's Dirigible Schematic: Lantern Wing",
     [82185] = "Used Delver's Dirigible Schematic: Zeppelin",
+    [83308] = "Used Delver's Dirigible Schematic: Void",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
@@ -396,6 +398,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84109] = "Brann reached Level 48 (warband wide, onetime)",
     [84110] = "Brann reached Level 49 (warband wide, onetime)",
     [83329] = "Brann reached Level 50 (warband wide, onetime)",
+    [86324] = "Zekvirs Lair Tier 2 kill (weekly)",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
