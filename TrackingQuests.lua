@@ -189,6 +189,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81316] = "Engineering First Time Craft: Aqirite Fisherfriend",
     [81341] = "Engineering First Time Craft: P.0.W. x2",
     [81314] = "Engineering First Time Craft: Aqirite Brainwave Projector",
+    [81307] = "Engineering First Time Craft: Blasting Bracers",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
