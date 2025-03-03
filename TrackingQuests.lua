@@ -364,6 +364,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86501] = "Ensemble: Tidecrasher Armor",
     
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- Undermine
+    [85494] = "Undermine Chest: Marooned Floatmingo",
+    [85426] = "Undermine Chest: Potent Potable",
+    [85495] = "Undermine Chest: Uncracked Cold Ones",
+    [85496] = "Undermine Chest: Trick Deck of Cards",
+    [85492] = "Undermine Chest: Particularly Nice Lamp",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
     [82945] = "Bountiful Waterworks completed (daily)",
     [82938] = "Bountiful The Dread Pit completed (daily)",
