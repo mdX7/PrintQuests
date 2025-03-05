@@ -26,6 +26,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [89479] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
     [89453] = "Liberation of Undermine LFR: Cauldron of Carnage killed",
     [89454] = "Liberation of Undermine LFR: Rik Reverb killed",
+    [86438] = "Skittering Breach: The Underpin invasion",
+    [86371] = "Skittering Breach: The Underpin invasion",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
