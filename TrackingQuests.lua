@@ -20,6 +20,12 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
     [86325] = "Zekvirs Lair kill?",
     [85463] = "Renown: The Cartels of Undermine Level 2",
+    [85089] = "Undermine Worldboss kill?",
+    [89401] = "Undermine Worldboss kill?",
+    [88846] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
+    [89479] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
+    [89453] = "Liberation of Undermine LFR: Cauldron of Carnage killed",
+    [89454] = "Liberation of Undermine LFR: Rik Reverb killed",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -370,6 +376,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85495] = "Undermine Chest: Uncracked Cold Ones",
     [85496] = "Undermine Chest: Trick Deck of Cards",
     [85492] = "Undermine Chest: Particularly Nice Lamp",
+    [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
@@ -396,6 +403,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83455] = "Fungal Folly - Sturdy Chest in top right corner of map looted (warband wide, onetime)",
     [83651] = "Tak-Rethan Abyss - Sturdy Chest above water entrance looted (warband wide, onetime)",
     [83669] = "Tak-Rethan Abyss - Sturdy Chest on left side of map looted (warband wide, onetime)",
+    [83686] = "Tak-Rethan Abyss - Sturdy Chest on coral looted (warband wide, onetime)",
     [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted (warband wide, onetime)",
     [84101] = "Brann reached Level 40 (warband wide, onetime)",
     [84102] = "Brann reached Level 41 (warband wide, onetime)",
@@ -409,6 +417,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84110] = "Brann reached Level 49 (warband wide, onetime)",
     [83329] = "Brann reached Level 50 (warband wide, onetime)",
     [86324] = "Zekvirs Lair Tier 2 kill (weekly)",
+    [86328] = "Delver's Starter Kit bought",
+    [86329] = "Delver's Cosmetic Surprise Bag bought",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
