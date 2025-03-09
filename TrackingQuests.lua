@@ -26,8 +26,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [89479] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
     [89453] = "Liberation of Undermine LFR: Cauldron of Carnage killed",
     [89454] = "Liberation of Undermine LFR: Rik Reverb killed",
-    [86438] = "Skittering Breach: The Underpin invasion",
-    [86371] = "Skittering Breach: The Underpin invasion",
+    [86438] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
+    [86371] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
+    [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -391,6 +392,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82942] = "Bountiful The Spiral Weave completed (daily)",
     [82943] = "Bountiful The Underkeep completed (daily)",
     [82941] = "Bountiful Kriegval's Rest completed (daily)",
+    [83319] = "Bountiful Excavation Site 9 completed (daily)",
     [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly?)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
     [83456] = "The Waterworks - Sturdy Chest near Waxface looted (warband wide, onetime)",
@@ -407,6 +409,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83669] = "Tak-Rethan Abyss - Sturdy Chest on left side of map looted (warband wide, onetime)",
     [83686] = "Tak-Rethan Abyss - Sturdy Chest on coral looted (warband wide, onetime)",
     [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted (warband wide, onetime)",
+    [86788] = "Sidestreet Sluice - Sturdy Chest in treasure room looted (warband wide, onetime)",
     [84101] = "Brann reached Level 40 (warband wide, onetime)",
     [84102] = "Brann reached Level 41 (warband wide, onetime)",
     [84103] = "Brann reached Level 42 (warband wide, onetime)",
@@ -421,6 +424,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86324] = "Zekvirs Lair Tier 2 kill (weekly)",
     [86328] = "Delver's Starter Kit bought",
     [86329] = "Delver's Cosmetic Surprise Bag bought",
+    [85204] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Flamethrower",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
