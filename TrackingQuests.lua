@@ -379,6 +379,25 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85495] = "Undermine Chest: Uncracked Cold Ones",
     [85496] = "Undermine Chest: Trick Deck of Cards",
     [85492] = "Undermine Chest: Particularly Nice Lamp",
+    [85116] = "Undermine Chest: Muff's Auto-Locker",
+    [85115] = "Undermine Chest: Muff's Auto-Locker in Blackwater Marina",
+    [85072] = "Undermine Chest: Muff's Auto-Locker in Hovel Hill",
+    [85117] = "Undermine Chest: Muff's Auto-Locker in Entrepreneur Inc.",
+    [85838] = "Undermine Chest: Fireworks Hat 1/2 unlock",
+    [85839] = "Undermine Chest: Fireworks Hat 2/2 unlock",
+    [85856] = "Undermine Chest: Fireworks Hat looted",
+    [85683] = "Undermine Chest: Unexploded Fireworks",
+    [85866] = "Undermine Chest: Suspicious Book 1/2 unlock",
+    [85867] = "Undermine Chest: Suspicious Book 2/2 unlock",
+    [85868] = "Undermine Chest: Suspicious Book looted",
+    [85813] = "Undermine Chest: Blackened Dice unlock - Valve used",
+    [85814] = "Undermine Chest: Blackened Dice looted",
+    [85425] = "Undermine Chest: Unsupervised Takeout looted",
+    [85694] = "Undermine Chest: Inert Plunger used",
+    [85698] = "Undermine Chest: Exploded Plunger looted",
+    [86487] = "Undermine Chest: Crumpled Schematics looted",
+    [85858] = "Undermine Chest: Lonely Tub looted",
+    [85422] = "Undermine Chest: Abandoned Toolbox looted",
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -425,6 +444,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86328] = "Delver's Starter Kit bought",
     [86329] = "Delver's Cosmetic Surprise Bag bought",
     [85204] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Flamethrower",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- D.R.I.V.E.
+    [85784] = "D.R.I.V.E.: Handcrank used",
+    [85786] = "D.R.I.V.E.: The Buzzer used",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
