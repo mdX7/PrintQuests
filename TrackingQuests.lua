@@ -22,10 +22,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85463] = "Renown: The Cartels of Undermine Level 2",
     [85089] = "Undermine Worldboss kill?",
     [89401] = "Undermine Worldboss kill?",
-    [88846] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
-    [89479] = "Liberation of Undermine LFR: during Rik Reverb Trash: +100 Gallagio Loyalty Rep",
-    [89453] = "Liberation of Undermine LFR: Cauldron of Carnage killed",
-    [89454] = "Liberation of Undermine LFR: Rik Reverb killed",
     [86438] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
     [86371] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
@@ -406,6 +402,26 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87310] = "S.C.R.A.P.: Hovel Hill done",
     [86262] = "S.C.R.A.P.: Hovel Hill Chest looted",
 
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Liberation of the Undermine
+    [88846] = "Liberation of Undermine LFR: Trash Skiggy Muckheimer killed (weekly)",
+    [88848] = "Liberation of Undermine Normal: Trash Skiggy Muckheimer killed (weekly)",
+    [89479] = "Liberation of Undermine: Trash First Skiggy Muckheimer kill +100 Gallagio Loyalty Rep (weekly)",
+    [88859] = "Liberation of Undermine LFR: Trash Globikus killed (weekly)",
+    [88861] = "Liberation of Undermine Normal: Trash Globikus killed (weekly)",
+    [89482] = "Liberation of Undermine: Trash First Globikus kill +100 Gallagio Loyalty Rep (weekly)",
+    [88835] = "Liberation of Undermine LFR: Trash Guk Boomdog killed (weekly)",
+    [88833] = "Liberation of Undermine Normal: Trash Guk Boomdog killed (weekly)",
+    [88842] = "Liberation of Undermine LFR: Trash King Flamespite killed (weekly)",
+    [88838] = "Liberation of Undermine LFR: Trash Professor Boomspark killed (weekly)",
+    [89453] = "Liberation of Undermine: Boss Cauldron of Carnage killed (weekly)",
+    [89454] = "Liberation of Undermine: Boss Rik Reverb killed (weekly)",
+    [89455] = "Liberation of Undermine: Boss Stix Bunkjunker killed (weekly)",
+    [89456] = "Liberation of Undermine: Boss Sprocketmonger Lockenstock killed (weekly)",
+    [89457] = "Liberation of Undermine: Boss One-Armed Bandit killed (weekly)",
+    [89458] = "Liberation of Undermine: Boss Mug'Zee killed (weekly)",
+    [89459] = "Liberation of Undermine: Boss Chrome King Gallywix killed (weekly)",
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
     [82945] = "Bountiful Waterworks completed (daily)",
