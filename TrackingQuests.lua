@@ -383,6 +383,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85115] = "Undermine Chest: Muff's Auto-Locker in Blackwater Marina",
     [85072] = "Undermine Chest: Muff's Auto-Locker in Hovel Hill",
     [85117] = "Undermine Chest: Muff's Auto-Locker in Entrepreneur Inc.",
+    [85114] = "Undermine Chest: Muff's Auto-Locker near golf area",
     [85838] = "Undermine Chest: Fireworks Hat 1/2 unlock",
     [85839] = "Undermine Chest: Fireworks Hat 2/2 unlock",
     [85856] = "Undermine Chest: Fireworks Hat looted",
@@ -398,7 +399,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86487] = "Undermine Chest: Crumpled Schematics looted",
     [85858] = "Undermine Chest: Lonely Tub looted",
     [85422] = "Undermine Chest: Abandoned Toolbox looted",
+    [85424] = "Undermine Chest: Papa's Prized Putter looted",
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
+    [90473] = "S.C.R.A.P.: The Vatworks done",
+    [86264] = "S.C.R.A.P.: The Vatworks Chest looted",
+    [87310] = "S.C.R.A.P.: Hovel Hill done",
+    [86262] = "S.C.R.A.P.: Hovel Hill Chest looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
@@ -440,6 +446,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84109] = "Brann reached Level 48 (warband wide, onetime)",
     [84110] = "Brann reached Level 49 (warband wide, onetime)",
     [83329] = "Brann reached Level 50 (warband wide, onetime)",
+    -- [xxxxx] = "Brann reached Level 51 (warband wide, onetime)",
+    [84111] = "Brann reached Level 52 (warband wide, onetime)",
+    [84112] = "Brann reached Level 53 (warband wide, onetime)",
+    [84113] = "Brann reached Level 54 (warband wide, onetime)",
+    [84114] = "Brann reached Level 55 (warband wide, onetime)",
+    [84115] = "Brann reached Level 56 (warband wide, onetime)",
+    [84116] = "Brann reached Level 57 (warband wide, onetime)",
+    [84117] = "Brann reached Level 58 (warband wide, onetime)",
+    [84118] = "Brann reached Level 59 (warband wide, onetime)",
+    [84119] = "Brann reached Level 60 (warband wide, onetime)",
     [86324] = "Zekvirs Lair Tier 2 kill (weekly)",
     [86328] = "Delver's Starter Kit bought",
     [86329] = "Delver's Cosmetic Surprise Bag bought",
@@ -449,6 +465,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- D.R.I.V.E.
     [85784] = "D.R.I.V.E.: Handcrank used",
     [85786] = "D.R.I.V.E.: The Buzzer used",
+    [85783] = "D.R.I.V.E.: Steamboil used",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
