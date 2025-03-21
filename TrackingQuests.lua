@@ -434,6 +434,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82943] = "Bountiful The Underkeep completed (daily)",
     [82941] = "Bountiful Kriegval's Rest completed (daily)",
     [83319] = "Bountiful Excavation Site 9 completed (daily)",
+    [82939] = "Bountiful Fungal Folly completed (daily)",
+    [83317] = "Council of Dornogal Rep bonus on delve complete (weekly?)",
     [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly?)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly?)",
     [83456] = "The Waterworks - Sturdy Chest near Waxface looted (warband wide, onetime)",
@@ -486,10 +488,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
     [39751] = "Classic Timewalking LFG completion",
-    [84736] = "First Restored Coffer Key looted of the week",
-    [84737] = "Second Restored Coffer Key looted of the week",
-    [84738] = "Third Restored Coffer Key looted of the week",
-    [84739] = "Fourth Restored Coffer Key looted of the week",
+    [84736] = "1/4 Restored Coffer Key looted of the week",
+    [84737] = "2/4 Restored Coffer Key looted of the week",
+    [84738] = "3/4 Restored Coffer Key looted of the week",
+    [84739] = "4/4 Restored Coffer Key looted of the week",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mythic+
