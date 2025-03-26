@@ -419,23 +419,31 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Liberation of the Undermine
-    [88846] = "Liberation of Undermine LFR: Trash Skiggy Muckheimer killed (weekly)",
-    [88848] = "Liberation of Undermine Normal: Trash Skiggy Muckheimer killed (weekly)",
-    [89479] = "Liberation of Undermine: Trash First Skiggy Muckheimer kill +100 Gallagio Loyalty Rep (weekly)",
-    [88859] = "Liberation of Undermine LFR: Trash Globikus killed (weekly)",
-    [88861] = "Liberation of Undermine Normal: Trash Globikus killed (weekly)",
-    [89482] = "Liberation of Undermine: Trash First Globikus kill +100 Gallagio Loyalty Rep (weekly)",
-    [88835] = "Liberation of Undermine LFR: Trash Guk Boomdog killed (weekly)",
-    [88833] = "Liberation of Undermine Normal: Trash Guk Boomdog killed (weekly)",
-    [88842] = "Liberation of Undermine LFR: Trash King Flamespite killed (weekly)",
-    [88838] = "Liberation of Undermine LFR: Trash Professor Boomspark killed (weekly)",
-    [89453] = "Liberation of Undermine: Boss Cauldron of Carnage killed (weekly)",
-    [89454] = "Liberation of Undermine: Boss Rik Reverb killed (weekly)",
-    [89455] = "Liberation of Undermine: Boss Stix Bunkjunker killed (weekly)",
-    [89456] = "Liberation of Undermine: Boss Sprocketmonger Lockenstock killed (weekly)",
-    [89457] = "Liberation of Undermine: Boss One-Armed Bandit killed (weekly)",
-    [89458] = "Liberation of Undermine: Boss Mug'Zee killed (weekly)",
-    [89459] = "Liberation of Undermine: Boss Chrome King Gallywix killed (weekly)",
+    [88846] = "Liberation of Undermine Trash: LFR Trash Skiggy Muckheimer killed (weekly)",
+    [88848] = "Liberation of Undermine Trash: Normal Trash Skiggy Muckheimer killed (weekly)",
+    [89479] = "Liberation of Undermine Trash: First Skiggy Muckheimer kill +100 Gallagio Loyalty Rep (weekly)",
+    
+    [88859] = "Liberation of Undermine Trash: LFR Trash Globikus killed (weekly)",
+    [88861] = "Liberation of Undermine Trash: Normal Trash Globikus killed (weekly)",
+    [89482] = "Liberation of Undermine Trash: First Globikus kill +100 Gallagio Loyalty Rep (weekly)",
+    
+    [88835] = "Liberation of Undermine Trash: LFR Trash Guk Boomdog killed (weekly)",
+    [88833] = "Liberation of Undermine Trash: Normal Trash Guk Boomdog killed (weekly)",
+    
+    [88842] = "Liberation of Undermine Trash: LFR Trash King Flamespite killed (weekly)",
+    
+    [88838] = "Liberation of Undermine Trash: LFR Trash Professor Boomspark killed (weekly)",
+    
+    [89480] = "Liberation of Undermine Trash; First Melbo the Magnificent kill +100 Gallagio Loyalty Rep (weekly)",
+    [88849] = "Liberation of Undermine Trash: Heroic Trash Melbo the Magnificent killed (weekly)",
+    
+    [89453] = "Liberation of Undermine Boss: Cauldron of Carnage killed (weekly)",
+    [89454] = "Liberation of Undermine Boss: Rik Reverb killed (weekly)",
+    [89455] = "Liberation of Undermine Boss: Stix Bunkjunker killed (weekly)",
+    [89456] = "Liberation of Undermine Boss: Sprocketmonger Lockenstock killed (weekly)",
+    [89457] = "Liberation of Undermine Boss: One-Armed Bandit killed (weekly)",
+    [89458] = "Liberation of Undermine Boss: Mug'Zee killed (weekly)",
+    [89459] = "Liberation of Undermine Boss: Chrome King Gallywix killed (weekly)",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
@@ -470,6 +478,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83686] = "Tak-Rethan Abyss - Sturdy Chest on coral looted (warband wide, onetime)",
     [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted (warband wide, onetime)",
     [86788] = "Sidestreet Sluice - Sturdy Chest in treasure room looted (warband wide, onetime)",
+    [86790] = "Sidestreet Sluice - Sturdy Chest in near rare crab, bottom left on map The Pits (warband wide, onetime)",
+    [83683] = "Kriegvals Rest - Sturdy Chest near checkpoint (warband wide, onetime)",
     [84101] = "Brann reached Level 40 (warband wide, onetime)",
     [84102] = "Brann reached Level 41 (warband wide, onetime)",
     [84103] = "Brann reached Level 42 (warband wide, onetime)",
