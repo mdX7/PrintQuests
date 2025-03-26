@@ -130,7 +130,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84642] = "Awakening The Machine: Awakened Cache looted (front left)",
     [84646] = "Awakening The Machine: Awakened Cache looted (back left)",
     [84647] = "Awakening The Machine: Awakened Cache looted (back center)",
-    
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Alchemy
+	[81898] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First flask crafted (daily)",
+	[82388] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First potion crafted (daily)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mining
     [83054] = "Mining: Slab of Slate 1/5 looted (weekly)",
@@ -154,7 +159,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83733] = "Mining Book: Algari Treatise on Mining used weekly",
     [82614] = "Mining Book: A Rocky Start used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
-    
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Enchanting
+    [84290] = "Enchanting: Disenchant Fleeting Arcane Manifestation 1/5 (weekly)",
+    [84291] = "Enchanting: Disenchant Fleeting Arcane Manifestation 2/5 (weekly)",
+    [84292] = "Enchanting: Disenchant Fleeting Arcane Manifestation 3/5 (weekly)",
+    [84293] = "Enchanting: Disenchant Fleeting Arcane Manifestation 4/5 (weekly)",
+    [84294] = "Enchanting: Disenchant Fleeting Arcane Manifestation 5/5 (weekly)",
+    [84295] = "Enchanting: Disenchant Gleaming Telluric Crystal (weekly)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
     [83261] = "Engineering: Earthen Induction Coil looted (weekly)",
