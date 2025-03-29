@@ -158,6 +158,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81392] = "Mining Book: Pristine Miner's Notes used",
     [83733] = "Mining Book: Algari Treatise on Mining used weekly",
     [82614] = "Mining Book: A Rocky Start used",
+    [85742] = "Mining Book: Undermine Treatise on Mining used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -177,6 +178,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83063] = "Engineering Book: Machine-Learned Engineering Notes used",
     [84230] = "Engineering Book: Exceptional Engineer's Notes used",
     [84231] = "Engineering Book: Pristine Engineer's Scribblings used",
+    [85737] = "Engineering Book: Undermine Treatise on Engineering used",
     [83728] = "Engineering Book: Algari Treatise on Engineering used weekly",
     [81355] = "Engineering First Time Craft: Convincingly Realistic Jumper Cables",
     [81356] = "Engineering First Time Craft: Algari Repair Bot 11O",
@@ -412,10 +414,26 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85422] = "Undermine Chest: Abandoned Toolbox looted",
     [85424] = "Undermine Chest: Papa's Prized Putter looted",
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
-    [90473] = "S.C.R.A.P.: The Vatworks done",
-    [86264] = "S.C.R.A.P.: The Vatworks Chest looted",
-    [87310] = "S.C.R.A.P.: Hovel Hill done",
-    [86262] = "S.C.R.A.P.: Hovel Hill Chest looted",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- S.C.R.A.P.
+    [87316] = "S.C.R.A.P.: Blackwater Marina done (onetime, per character)",
+    [87315] = "S.C.R.A.P.: Emerald Hills Gold Course done (onetime, per character)",
+    [87310] = "S.C.R.A.P.: Hovel Hill (North) done (onetime, per character)",
+    [87311] = "S.C.R.A.P.: Hovel Hill (South) done (onetime, per character)",
+    [87314] = "S.C.R.A.P.: The Heaps done (onetime, per character)",
+    [87312] = "S.C.R.A.P.: The Vatworks done (onetime, per character)",
+    [87313] = "S.C.R.A.P.: Venturewood done (onetime, per character)",
+    [90471] = "S.C.R.A.P.: Half-Empty Bag looted (weekly)",
+    [90472] = "S.C.R.A.P.: Dented Crate looted (weekly)",
+    [90473] = "S.C.R.A.P.: Uncovered Strongbox looted (weekly)",
+    [86268] = "S.C.R.A.P.: Blackwater Marina Uncovered Strongbox looted",
+    [86267] = "S.C.R.A.P.: Emerald Hills Golf Course Uncovered Strongbox looted",
+    [86265] = "S.C.R.A.P.: Venturewood Uncovered Strongbox looted",
+    [86264] = "S.C.R.A.P.: The Vatworks Uncovered Strongbox looted",
+    [86262] = "S.C.R.A.P.: Hovel Hill (North) Uncovered Strongbox looted",
+    [86263] = "S.C.R.A.P.: Hovel Hill (South) Uncovered Strongbox looted",
+    [53033] = "S.C.R.A.P.: The Heaps Uncovered Strongbox looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Liberation of the Undermine
