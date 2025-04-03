@@ -436,6 +436,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [53033] = "S.C.R.A.P.: The Heaps Uncovered Strongbox looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- C.H.E.T.T.
+    [87296] = "C.H.E.T.T.: Received C.H.E.T.T. List",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- Liberation of the Undermine
     [88846] = "Liberation of Undermine Trash: LFR Trash Skiggy Muckheimer killed (weekly)",
     [88848] = "Liberation of Undermine Trash: Normal Trash Skiggy Muckheimer killed (weekly)",
