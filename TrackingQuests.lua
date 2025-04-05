@@ -35,22 +35,22 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [29466] = "Darkmoon Faire: Fishing - Spoilin' for Salty Sea Dogs",
     [29467] = "Darkmoon Faire: Engineering - Talkin' Tonks",
     [29469] = "Darkmoon Faire: Mining - Rearm, Reuse, Recycle",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Love is in the Air
     [74957] = "Love is in the Air: Increased X-45 Heartbreaker Droprate (daily, accwide)",
     [86172] = "Love is in the Air: Increased Love Witch's Sweeper Droprate (daily, accwide)",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Timewalking
     [78204] = "Turbulent Timeways: Have 5 stacks of Mastery of Timeways",
     [85877] = "Turbulent Timeways II: Have 5 stacks of Mastery of Timeways",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
     [37193] = "The King's Command",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
@@ -59,7 +59,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
     [59139] = "Spider-Eye Ring looted",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Dragonriding Cosmetics
     [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
@@ -73,7 +73,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82176] = "Used Delver's Dirigible Schematic: Lantern Wing",
     [82185] = "Used Delver's Dirigible Schematic: Zeppelin",
     [83308] = "Used Delver's Dirigible Schematic: Void",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
     [85156] = "Angorla stay a while and listen",
@@ -85,7 +85,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85682] = "Magni Bronzebeard Stay a while and listen in front of The Archive",
     [82542] = "Rooktender Lufsela Stay a while and listen in front of Thrall, Shraubendre",
     [84813] = "Rooktender Lufsela Stay a while and listen in Dhar Oztan",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Severed Threads
     [84539] = "Severed Threads: Renown 22",
@@ -119,7 +119,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80545] = "Severed Threads: Weekly Pact selected: The General",
     [80544] = "Severed Threads: Weekly Pact selected: The Weaver",
     [80546] = "Severed Threads: Weekly Pact selected: The Vizier",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Awakening The Machine
     [84631] = "Awakening The Machine: Wave 5/20 cleared",
@@ -133,8 +133,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Alchemy
-	[81898] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First flask crafted (daily)",
-	[82388] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First potion crafted (daily)",
+    [81898] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First flask crafted (daily)",
+    [82388] = "Alchemy, Bulk Production 20/25 Khaz Algar trait: First potion crafted (daily)",
+    [83253] = "Alchemy: Alchemical Sediment looted (weekly)",
+    [83255] = "Alchemy: Deepstone Crucible looted (weekly)",
+    [83725] = "Alchemy: Algari Treatise on Alchemy used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mining
@@ -169,6 +172,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84293] = "Enchanting: Disenchant Fleeting Arcane Manifestation 4/5 (weekly)",
     [84294] = "Enchanting: Disenchant Fleeting Arcane Manifestation 5/5 (weekly)",
     [84295] = "Enchanting: Disenchant Gleaming Telluric Crystal (weekly)",
+    [83727] = "Enchanting: Algari Treatise on Enchanting used (weekly)",
+    [83258] = "Enchanting: Powdered Fulgurance looted (weekly)",
+    [83259] = "Enchanting: Crystalline Repository looted (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
@@ -223,7 +229,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80915] = "Leatherworking First Time Craft: Tracker's Chitin Galoshes",
     [80914] = "Leatherworking First Time Craft: Tracker's Chitin Hauberk",
     [80942] = "Leatherworking First Time Craft: Hideseeker's Hat",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 20th Anniversary
     [86282] = "20th Anniversary Blackrock Depths Miniboss: Pyromancer Loregrain killed LFR",
@@ -276,7 +282,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83824] = "Restoring A Grand Tale - Crafted Green Hills of Stranglethorn",
     [84617] = "Alyx enabled harder challenges - unlock call board",
     [83790] = "Celebration Crate #1 - Opened Gerald",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Isle of Dorn
     [79685] = "Isle of Dorn Rare: Sandres the Relicbearer killed daily",
@@ -312,7 +318,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84033] = "Isle of Dorn Rare: Twice-Stinger the Wretched killed weekly reputation",
     [85159] = "Isle of Dorn Rare: Zovex killed weekly reputation",
     [78619] = "Isle of Dorn Rare: Rustual Titancap killed daily",
-    
+    [83093] = "Isle of Dorn: Dog summoned",
+    [83094] = "Isle of Dorn: Faithful Dog pet obtained",
+    [86818] = "Isle of Dorn: Archmage Aethas Sunreaver at Tranquil Stand stay a while and listen",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Ringing Deeps
     [80003] = "Ringing Deeps Rare: Disturbed Earthgorger killed daily",
@@ -323,19 +332,38 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
     [82464] = "Ringing Deeps Chest: Dusty Prospector Chest looted",
     [82820] = "Ringing Deeps Chest: Blocked Intake looted",
-    [83253] = "Ringing Deeps Chest: Pile of Refuse looted",
     [82052] = "Ringing Deeps: Submerged Sign interacted",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Hallowfall
     [81881] = "Hallowfall Rare: Funglour killed daily",
     [82066] = "Hallowfall: A Scout's Journal interacted",
     [79081] = "Hallowfall: Flamegard's Hope Achievement daily lockout",
     [81972] = "Hallowfall: Windswept Satchel near Priory of the Sacred Flame looted",
-    
+    [82918] = "Hallowfall: Mereldar Fishing Derby catch Bloody Perch (weekly)",
+    [82919] = "Hallowfall: Mereldar Fishing Derby catch Crystalline Sturgeon (weekly)",
+    [82920] = "Hallowfall: Mereldar Fishing Derby catch Bismuth Bitterling (weekly)",
+    [82921] = "Hallowfall: Mereldar Fishing Derby catch Nibbling Minnow (weekly)",
+    [82922] = "Hallowfall: Mereldar Fishing Derby catch Whispering Stargazer (weekly)",
+    [82923] = "Hallowfall: Mereldar Fishing Derby catch Goldengill Trout (weekly)",
+    [82924] = "Hallowfall: Mereldar Fishing Derby catch Specular Rainbowfish (weekly)",
+    [82925] = "Hallowfall: Mereldar Fishing Derby catch Quiet River Bass (weekly)",
+    [82926] = "Hallowfall: Mereldar Fishing Derby catch Dornish Pike (weekly)",
+    [82927] = "Hallowfall: Mereldar Fishing Derby catch Roaring Anglerseeker (weekly)",
+    [82928] = "Hallowfall: Mereldar Fishing Derby catch Arathor Hammerfish (weekly)",
+    [82929] = "Hallowfall: Mereldar Fishing Derby catch Regal Dottyback (weekly)",
+    [82930] = "Hallowfall: Mereldar Fishing Derby catch Kaheti Slum Shark (weekly)",
+    [82931] = "Hallowfall: Mereldar Fishing Derby catch Pale Huskfish (weekly)",
+    [82932] = "Hallowfall: Mereldar Fishing Derby catch Sanguine Dogfish (weekly)",
+    [82933] = "Hallowfall: Mereldar Fishing Derby catch Spiked Sea Raven (weekly)",
+    [82934] = "Hallowfall: Mereldar Fishing Derby catch Queen''s Lurefish (weekly)",
+    [82935] = "Hallowfall: Mereldar Fishing Derby catch Cursed Ghoulfish (weekly)",
+    [82936] = "Hallowfall: Mereldar Fishing Derby catch Awoken Coelacanth (weekly)",
+    [82947] = "Hallowfall: Mereldar Fishing Derby catch Dilly-Dally Dace (weekly)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Azj'kahet
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Siren Isle
     [84801] = "Siren Isle Rare: Ghostmaker killed daily",
@@ -384,7 +412,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86499] = "Ensemble: Bloodscout Outfit",
     [86500] = "Ensemble: Hydraflayer Regalia",
     [86501] = "Ensemble: Tidecrasher Armor",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Undermine
     [85494] = "Undermine Chest: Marooned Floatmingo",
@@ -414,7 +442,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85422] = "Undermine Chest: Abandoned Toolbox looted",
     [85424] = "Undermine Chest: Papa's Prized Putter looted",
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- S.C.R.A.P.
     [87316] = "S.C.R.A.P.: Blackwater Marina done (onetime, per character)",
@@ -438,27 +466,27 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- C.H.E.T.T.
     [87296] = "C.H.E.T.T.: Received C.H.E.T.T. List",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Liberation of the Undermine
     [88846] = "Liberation of Undermine Trash: LFR Trash Skiggy Muckheimer killed (weekly)",
     [88848] = "Liberation of Undermine Trash: Normal Trash Skiggy Muckheimer killed (weekly)",
     [89479] = "Liberation of Undermine Trash: First Skiggy Muckheimer kill +100 Gallagio Loyalty Rep (weekly)",
-    
+
     [88859] = "Liberation of Undermine Trash: LFR Trash Globikus killed (weekly)",
     [88861] = "Liberation of Undermine Trash: Normal Trash Globikus killed (weekly)",
     [89482] = "Liberation of Undermine Trash: First Globikus kill +100 Gallagio Loyalty Rep (weekly)",
-    
+
     [88835] = "Liberation of Undermine Trash: LFR Trash Guk Boomdog killed (weekly)",
     [88833] = "Liberation of Undermine Trash: Normal Trash Guk Boomdog killed (weekly)",
-    
+
     [88842] = "Liberation of Undermine Trash: LFR Trash King Flamespite killed (weekly)",
-    
+
     [88838] = "Liberation of Undermine Trash: LFR Trash Professor Boomspark killed (weekly)",
-    
+
     [89480] = "Liberation of Undermine Trash; First Melbo the Magnificent kill +100 Gallagio Loyalty Rep (weekly)",
     [88849] = "Liberation of Undermine Trash: Heroic Trash Melbo the Magnificent killed (weekly)",
-    
+
     [89453] = "Liberation of Undermine Boss: Cauldron of Carnage killed (weekly)",
     [89454] = "Liberation of Undermine Boss: Rik Reverb killed (weekly)",
     [89455] = "Liberation of Undermine Boss: Stix Bunkjunker killed (weekly)",
@@ -466,7 +494,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89457] = "Liberation of Undermine Boss: One-Armed Bandit killed (weekly)",
     [89458] = "Liberation of Undermine Boss: Mug'Zee killed (weekly)",
     [89459] = "Liberation of Undermine Boss: Chrome King Gallywix killed (weekly)",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Delves
     [82945] = "Bountiful Waterworks completed (daily)",
@@ -529,13 +557,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85204] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Flamethrower",
     [85203] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Pipes",
     [85202] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Harpoon",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
     [85784] = "D.R.I.V.E.: Handcrank used",
     [85786] = "D.R.I.V.E.: The Buzzer used",
     [85783] = "D.R.I.V.E.: Steamboil used",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
     [39751] = "Classic Timewalking LFG completion",
@@ -543,7 +571,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84737] = "2/4 Restored Coffer Key looted of the week",
     [84738] = "3/4 Restored Coffer Key looted of the week",
     [84739] = "4/4 Restored Coffer Key looted of the week",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mythic+
     [85469] = "First weekly completion of an 8+ Mythic Dungeon",
