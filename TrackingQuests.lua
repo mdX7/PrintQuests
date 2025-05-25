@@ -63,16 +63,29 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Dragonriding Cosmetics
     [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
-    [82181] = "Used Delver's Dirigible Schematic: Empennage",
-    [82171] = "Used Delver's Dirigible Schematic: Wing-Mounted Propeller",
-    [82183] = "Used Delver's Dirigible Schematic: Rotor Blades",
     [82167] = "Used Delver's Dirigible Schematic: Front-Mounted Propeller",
-    [82187] = "Used Delver's Dirigible Schematic: Brown Paint",
-    [82179] = "Used Delver's Dirigible Schematic: Exhaust",
+    [82168] = "Used Delver's Dirigible Schematic: Drill",
     [82170] = "Used Delver's Dirigible Schematic: Front-Mounted Lantern",
+    [82171] = "Used Delver's Dirigible Schematic: Wing-Mounted Propeller",
+    [82173] = "Used Delver's Dirigible Schematic: Turbine",
     [82176] = "Used Delver's Dirigible Schematic: Lantern Wing",
+    [82179] = "Used Delver's Dirigible Schematic: Exhaust",
+    [82180] = "Used Delver's Dirigible Schematic: Spoiler",
+    [82181] = "Used Delver's Dirigible Schematic: Empennage",
+    [82182] = "Used Delver's Dirigible Schematic: Glider",
+    [82183] = "Used Delver's Dirigible Schematic: Rotor Blades",
     [82185] = "Used Delver's Dirigible Schematic: Zeppelin",
+    [82187] = "Used Delver's Dirigible Schematic: Brown Paint",
+    [82190] = "Used Delver's Dirigible Schematic: White Paint",
     [83308] = "Used Delver's Dirigible Schematic: Void",
+    [85175] = "Used Delver's Gob-Trotter Schematic: Harpoon",
+    [85177] = "Used Delver's Gob-Trotter Schematic: Flamethrower",
+    [85179] = "Used Delver's Gob-Trotter Schematic: Pipes",
+    [85181] = "Used Delver's Gob-Trotter Schematic: Balloon",
+    [85183] = "Used Delver's Gob-Trotter Schematic: Green",
+    [86198] = "Used Delver's Dirigible Schematic: Pale Paint",
+    [86199] = "Used Delver's Dirigible Schematic: Arathi Decal",
+    [86296] = "Used Delver's Gob-Trotter Schematic: Gold",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
@@ -85,6 +98,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85682] = "Magni Bronzebeard Stay a while and listen in front of The Archive",
     [82542] = "Rooktender Lufsela Stay a while and listen in front of Thrall, Shraubendre",
     [84813] = "Rooktender Lufsela Stay a while and listen in Dhar Oztan",
+    [86400] = "Received free Carved Undermine Crest for Crest Transmutation (86401)",
+    [86878] = "Used Nightfall Sanctum Campsite",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Severed Threads
@@ -140,6 +155,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83725] = "Alchemy: Algari Treatise on Alchemy used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- Blacksmithing
+    [83726] = "Blacksmithing: Algari Treatise on Blacksmithing used (weekly)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- Mining
     [83054] = "Mining: Slab of Slate 1/5 looted (weekly)",
     [83053] = "Mining: Slab of Slate 2/5 looted (weekly)",
@@ -147,15 +166,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83051] = "Mining: Slab of Slate 4/5 looted (weekly)",
     [83050] = "Mining: Slab of Slate 5/5 looted (weekly)",
     [83049] = "Mining: Erosion-Polished Slate looted (weekly)",
-    [80368] = "Mining: First camouflaged Bismuth looted",
-    [80370] = "Mining: First camouflaged Ironclaw looted",
-    [80369] = "Mining: First camouflaged Aqirite looted",
-    [80358] = "Mining: First Ironclaw Seam looted",
-    [80357] = "Mining: First Aqirite Seam looted",
     [80355] = "Mining: First Rich Ironclaw looted",
-    [80367] = "Mining: First EZ-Mine Ironclaw looted",
-    [80373] = "Mining: First Webbed Ironclaw looted",
+    [80356] = "Mining: First Bismuth Seam looted",
+    [80357] = "Mining: First Aqirite Seam looted",
+    [80358] = "Mining: First Ironclaw Seam looted",
+    [80359] = "Mining: First Crystallized Bismuth looted",
     [80362] = "Mining: First Weeping Bismuth looted",
+    [80367] = "Mining: First EZ-Mine Ironclaw looted",
+    [80368] = "Mining: First camouflaged Bismuth looted",
+    [80369] = "Mining: First camouflaged Aqirite looted",
+    [80370] = "Mining: First camouflaged Ironclaw looted",
+    [80373] = "Mining: First Webbed Ironclaw looted",
     [83907] = "Mining: Dornogal Chisel treasure looted",
     [81391] = "Mining Book: Exceptional Miner's Notes used",
     [83062] = "Mining Book: Machine-Learned Mining Notes used",
@@ -227,17 +248,36 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82897] = "Fishing: First Bloody Perch looted",
     [82898] = "Fishing: First Crystalline Sturgeon looted",
     [82899] = "Fishing: First Bismuth Bitterling looted",
+    [82900] = "Fishing: First Nibbling Minnow looted",
     [82902] = "Fishing: First Goldengill Trout looted",
     [82903] = "Fishing: First Specular Rainbowfish looted",
     [82904] = "Fishing: First Quiet River Bass looted",
+    [82905] = "Fishing: First Dornish Pike looted",
+    [82906] = "Fishing: First Roaring Anglerseeker looted",
+    [82907] = "Fishing: First Arathor Hammerfish looted",
     [82909] = "Fishing: First Kaheti Slum Shark looted",
     [82911] = "Fishing: First Sanguine Dogfish looted",
     [82912] = "Fishing: First Spiked Sea Raven looted",
+    [82914] = "Fishing: First Cursed Ghoulfish looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Herbalism
+    [79907] = "Herbalism: First Lush Mycobloom looted",
+    [79914] = "Herbalism: First Lush Luredrop looted",
+    [79917] = "Herbalism: First Irradiated Luredrop looted",
+    [79920] = "Herbalism: First Orbinid looted",
     [79921] = "Herbalism: First Lush Orbinid looted",
+    [79922] = "Herbalism: First Crystallized Orbinid looted",
     [79926] = "Herbalism: First Sporefused Orbinid looted",
+    [83729] = "Herbalism: Algari Treatise on Herbalism used (weekly)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Inscription
+    [83730] = "Inscription: Algari Treatise on Inscription used (weekly)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Jewelcrafting
+    [83731] = "Jewelcrafting: Algari Treatise on Jewelcrafting used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -248,6 +288,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80915] = "Leatherworking First Time Craft: Tracker's Chitin Galoshes",
     [80914] = "Leatherworking First Time Craft: Tracker's Chitin Hauberk",
     [80942] = "Leatherworking First Time Craft: Hideseeker's Hat",
+    [83732] = "Leatherworking: Algari Treatise on Leatherworking used (weekly)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Skinning
+    [83734] = "Skinning: Algari Treatise on Skinning used (weekly)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Tailoring
+    [83735] = "Tailoring: Algari Treatise on Tailoring used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 20th Anniversary
@@ -305,6 +354,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Isle of Dorn
     [79685] = "Isle of Dorn Rare: Sandres the Relicbearer killed daily",
+    [81891] = "Isle of Dorn Rare: Malfunctioning Spire killed",
     [81892] = "Isle of Dorn Rare: Springbubble killed daily",
     [81893] = "Isle of Dorn Rare: Bloodmaw killed daily",
     [81894] = "Isle of Dorn Rare: Warphorn killed daily",
@@ -315,7 +365,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81899] = "Isle of Dorn Rare: Gar'loc killed daily",
     [84028] = "Isle of Dorn Rare: Gar'loc killed weekly reputation",
     [81921] = "Isle of Dorn Rare: Matriarch Charfuria killed daily",
-    [81921] = "Isle of Dorn Rare: Matriarch Charfuria killed weekly reputation",
+    [84039] = "Isle of Dorn Rare: Matriarch Charfuria killed weekly reputation",
     [81920] = "Isle of Dorn Rare: Clawbreaker K'zithix killed daily",
     [84036] = "Isle of Dorn Rare: Clawbreaker K'zithix killed weekly reputation",
     [81905] = "Isle of Dorn Rare: Flamekeeper Graz killed daily",
@@ -369,6 +419,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84044] = "Ringing Deeps Rare: Charmonger Rare killed weekly reputation",
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
+    [80547] = "Ringing Deeps Rare: King Splash Rare killed daily",
     [82464] = "Ringing Deeps Chest: Dusty Prospector Chest looted",
     [82820] = "Ringing Deeps Chest: Blocked Intake looted",
     [82052] = "Ringing Deeps: Submerged Sign interacted",
@@ -381,14 +432,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Hallowfall
-    [81761] = "Hallowfall Rare: Grimslice killed daily",
+    [80009] = "Hallowfall Rare: The Taskmaker killed daily",
+    [84061] = "Hallowfall Rare: The Taskmaker Hallowfall Arathi reputation loot (weekly, account)",
+    [81756] = "Hallowfall Rare: Lytfang the Lost killed daily",
+    [84063] = "Hallowfall Rare: Lytfang the Lost Hallowfall Arathi reputation loot (weekly, account)",
+    [81761] = "Hallowfall Rare: Grimslice killed",
     [81836] = "Hallowfall Rare: Horror of the Shallows killed (daily)",
     [84065] = "Hallowfall Rare: Horror of the Shallows Hallowfall Arathi reputation loot (weekly, account)",
     [81849] = "Hallowfall Rare: Strength of Beledar killed (daily)",
     [84066] = "Hallowfall Rare: Strength of Beledar Hallowfall Arathi reputation loot (weekly, account)",
     [81882] = "Hallowfall Rare: Pride of Beledar killed (daily)",
     [84068] = "Hallowfall Rare: Pride of Beledar Hallowfall Arathi reputation loot (weekly, account)",
-    [81881] = "Hallowfall Rare: Funglour killed daily",
+    [82559] = "Hallowfall Rare: Deathpetal (daily)",
+    [84053] = "Hallowfall Rare: Deathpetal Hallowfall Arathi reputation loot (weekly, account)",
+    [81881] = "Hallowfall Rare: Funglour killed",
     [82066] = "Hallowfall: A Scout's Journal interacted",
     [79081] = "Hallowfall: Flamegard's Hope Achievement daily lockout",
     [81972] = "Hallowfall: Windswept Satchel near Priory of the Sacred Flame looted",
@@ -463,19 +520,50 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90105] = "Reputation reward from Nighfall scenario at max progress (daily, account)",
     [89273] = "Nighfall Rare: Dissenter Glaivefur reputation bonus (daily)",
     [91150] = "Nighfall Rare: Dissenter Oathland reputation bonus (daily)",
+    [91151] = "Nighfall Rare: Whisperer Batalsworn reputation bonus (daily)",
     [91153] = "Nighfall Rare: Dissenter Fervormyt reputation bonus (daily)",
+    [91154] = "Nighfall Rare: Dissenter Tailtrek reputation bonus (daily)",
     [91157] = "Nighfall Rare: Dissenter Fortfervor reputation bonus (daily)",
     [91159] = "Nighfall Rare: Whisperer Siegesage reputation bonus (daily)",
+    [91160] = "Nighfall Rare: Whisperer Warhavuk reputation bonus (daily)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Azj'kahet
+    [80559] = "Azj-Kahet Treasure: Weave-Rat Cache",
+    [82520] = "Azj-Kahet Treasure: Memory Cache",
+    [82525] = "Azj-Kahet Treasure: Concealed Contraband",
+    [82527] = "Azj-Kahet Treasure: Weaving Supplies",
+    [82529] = "Azj-Kahet Treasure: Nest Egg",
+    [82718] = "Azj-Kahet Treasure: Disturbed Soil",
+    [82719] = "Azj-Kahet Treasure: Silk-Spun Supplies",
+    [82720] = "Azj-Kahet Treasure: Nerubian Offerings",
+    [82721] = "Azj-Kahet Treasure: Niffen Stash",
+    [82722] = "Azj-Kahet Treasure: Missing Scout's Pack",
+    [82727] = "Azj-Kahet Treasure: Trapped Trove",
+    [83772] = "Azj-Kahet Treasure: Convoy Treasure",
+    [83724] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to final clone at the end in cave",
+    [83741] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Initialized evil copies",
+    [83744] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in Wildcamp Or'lay",
+    [83745] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in Faerin's Advance",
+    [83746] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in MMarl",
+    [83747] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in The Weaver's Lair",
     [81702] = "Azj-Kahet Rare: Kaheti Silk Hauler killed (daily)",
     [84071] = "Azj-Kahet Rare: Kaheti Silk Hauler The Severed Threads reputation loot (weekly, account)",
     [91162] = "Azj-Kahet Rare: Kaheti Silk Hauler Flame's Radiance reputation loot (daily, account)",
+    [82037] = "Azj-Kahet Rare: Umbraclaw Matra killed (daily)",
+    [84080] = "Azj-Kahet Rare: Umbraclaw Matra The Severed Threads reputation loot (weekly, account)",
+    [91164] = "Azj-Kahet Rare: Umbraclaw Matra Flame's Radiance reputation loot (daily, account)",
+    [82078] = "Azj-Kahet Rare: Kaheti Bladeguard killed (daily)",
+    [84082] = "Azj-Kahet Rare: Kaheti Bladeguard The Severed Threads reputation loot (weekly, account)",
+    [91163] = "Azj-Kahet Rare: Kaheti Bladeguard Flame's Radiance reputation loot (daily, account)",
     [81699] = "Azj-Kahet Rare: Webspeaker Grik'ik killed (daily)",
     [91165] = "Azj-Kahet Rare: Webspeaker Grik'ik Flame's Radiance reputation loot (daily, account)",
     [81703] = "Azj-Kahet Rare: XT-Minecrusher 8700 killed (daily)",
     [84072] = "Azj-Kahet Rare: XT-Minecrusher 8700 The Severed Threads reputation loot (weekly, account)",
+    [82036] = "Azj-Kahet Rare: Harvester Qixt killed (daily)",
+    [84079] = "Azj-Kahet Rare: Harvester Qixt The Severed Threads reputation loot (weekly, account)",
+    [81694] = "Azj-Kahet Rare: Stronghold Scouts",
+    [81695] = "Azj-Kahet Rare: Abyssal Devourer",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Siren Isle
@@ -525,6 +613,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86499] = "Ensemble: Bloodscout Outfit",
     [86500] = "Ensemble: Hydraflayer Regalia",
     [86501] = "Ensemble: Tidecrasher Armor",
+    [82139] = "Ensemble: Pink Tropical",
+    [82232] = "Ensemble: Pink Tropical Swimwear",
+    [86506] = "Ensemble: Salvage Rig Garments",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Undermine
@@ -554,9 +645,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85858] = "Undermine Chest: Lonely Tub looted",
     [85422] = "Undermine Chest: Abandoned Toolbox looted",
     [85424] = "Undermine Chest: Papa's Prized Putter looted",
+    [84951] = "Bilgewater Cartel Contract selected (warband wide, weekly)",
+    [84953] = "Venture Co. Cartel Contract selected (warband wide, weekly)",
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
     [86598] = "Opened Bilgewater's Trove (honored)",
     [86748] = "Opened Bilgewater's Trove (revered)",
+    [86751] = "Opened Blackwater's Trove (revered)",
     [86753] = "Opened Steamwheedle's Trove (honored)",
     [86754] = "Opened Steamwheedle's Trove (revered)",
     [86755] = "Opened Venture Co.'s Trove (honored)",
@@ -574,12 +668,19 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90471] = "S.C.R.A.P.: Half-Empty Bag looted (weekly)",
     [90472] = "S.C.R.A.P.: Dented Crate looted (weekly)",
     [90473] = "S.C.R.A.P.: Uncovered Strongbox looted (weekly)",
+    [87281] = "S.C.R.A.P.: Blackwater Marina Dented Crate visible",
     [86268] = "S.C.R.A.P.: Blackwater Marina Uncovered Strongbox visible",
+    [87279] = "S.C.R.A.P.: Emerald Hills Golf Course Dented Crate visible",
     [86267] = "S.C.R.A.P.: Emerald Hills Golf Course Uncovered Strongbox visible",
+    [87275] = "S.C.R.A.P.: Venturewood Dented Crate visible",
     [86265] = "S.C.R.A.P.: Venturewood Uncovered Strongbox visible",
+    [87274] = "S.C.R.A.P.: The Vatworks Half-Empty Bag visible",
     [86264] = "S.C.R.A.P.: The Vatworks Uncovered Strongbox visible",
+    [87269] = "S.C.R.A.P.: Hovel Hill (North) Dented Crate visible",
     [86262] = "S.C.R.A.P.: Hovel Hill (North) Uncovered Strongbox visible",
     [86263] = "S.C.R.A.P.: Hovel Hill (South) Uncovered Strongbox visible",
+    [87278] = "S.C.R.A.P.: The Heaps Half-Empty Bag visible",
+    [87277] = "S.C.R.A.P.: The Heaps Dented Crate visible",
     [86266] = "S.C.R.A.P.: The Heaps Uncovered Strongbox visible",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -677,6 +778,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86986] = "Brann reached Level 73 (warband wide, onetime)",
     [86987] = "Brann reached Level 74 (warband wide, onetime)",
     [86988] = "Brann reached Level 75 (warband wide, onetime)",
+    [86989] = "Brann reached Level 76 (warband wide, onetime)",
+    [86990] = "Brann reached Level 77 (warband wide, onetime)",
+    [86991] = "Brann reached Level 78 (warband wide, onetime)",
+    [86992] = "Brann reached Level 79 (warband wide, onetime)",
+    [86993] = "Brann reached Level 80 (warband wide, onetime)",
     [86324] = "Zekvirs Lair Tier 2 kill (weekly)",
     [86328] = "Delver's Starter Kit bought",
     [86329] = "Delver's Cosmetic Surprise Bag bought",
@@ -698,6 +804,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84737] = "2/4 Restored Coffer Key looted of the week",
     [84738] = "3/4 Restored Coffer Key looted of the week",
     [84739] = "4/4 Restored Coffer Key looted of the week",
+    [90597] = "Arsenal: Children's Stormwind Guard Weapon Set",
+    [90598] = "Arsenal: Children's Orgrimmar Guard Weapon Set",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mythic+
