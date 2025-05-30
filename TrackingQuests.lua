@@ -89,6 +89,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
+    [81529] = "Learned Royal Patron's Elegance",
+    [81530] = "Learned Verdant Patron's Elegance",
+    [81531] = "Learned Celestial Patron's Elegance",
+    [81534] = "Learned Arcane Peddler's Trinkets",
+    [81535] = "Learned Curious Peddler's Trinkets (Green)",
+    [81536] = "Learned Peculiar Peddler's Trinkets (Blue)",
     [85156] = "Angorla stay a while and listen",
     [85103] = "Apprentice Tanmar stay a while and listen",
     [84009] = "Alleria Stay a while and listen after The Fleet Arrives",
@@ -166,16 +172,22 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83051] = "Mining: Slab of Slate 4/5 looted (weekly)",
     [83050] = "Mining: Slab of Slate 5/5 looted (weekly)",
     [83049] = "Mining: Erosion-Polished Slate looted (weekly)",
+    [80354] = "Mining: First Rich Aqirite looted",
     [80355] = "Mining: First Rich Ironclaw looted",
     [80356] = "Mining: First Bismuth Seam looted",
     [80357] = "Mining: First Aqirite Seam looted",
     [80358] = "Mining: First Ironclaw Seam looted",
     [80359] = "Mining: First Crystallized Bismuth looted",
+    [80361] = "Mining: First Crystallized Ironclaw looted",
     [80362] = "Mining: First Weeping Bismuth looted",
+    [80363] = "Mining: First Weeping Aqirite looted",
+    [80365] = "Mining: First EZ-Mine Bismuth looted",
     [80367] = "Mining: First EZ-Mine Ironclaw looted",
     [80368] = "Mining: First camouflaged Bismuth looted",
     [80369] = "Mining: First camouflaged Aqirite looted",
     [80370] = "Mining: First camouflaged Ironclaw looted",
+    [80371] = "Mining: First Webbed Bismuth looted",
+    [80372] = "Mining: First Webbed Aqirite looted",
     [80373] = "Mining: First Webbed Ironclaw looted",
     [83907] = "Mining: Dornogal Chisel treasure looted",
     [81391] = "Mining Book: Exceptional Miner's Notes used",
@@ -264,11 +276,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Herbalism
     [79907] = "Herbalism: First Lush Mycobloom looted",
     [79914] = "Herbalism: First Lush Luredrop looted",
+    [79915] = "Herbalism: First Crystallized Luredrop looted",
     [79917] = "Herbalism: First Irradiated Luredrop looted",
     [79920] = "Herbalism: First Orbinid looted",
     [79921] = "Herbalism: First Lush Orbinid looted",
     [79922] = "Herbalism: First Crystallized Orbinid looted",
     [79926] = "Herbalism: First Sporefused Orbinid looted",
+    [79928] = "Herbalism: First Lush Blessing Blossom looted",
+    [79929] = "Herbalism: First Crystallized Blessing Blossom looted",
+    [79930] = "Herbalism: First Irradiated Blessing Blossom looted",
+    [81416] = "Herbalism: Deepgrove Petal 1/5 looted (weekly)",
+    [81417] = "Herbalism: Deepgrove Petal 2/5 looted (weekly)",
+    [81418] = "Herbalism: Deepgrove Petal 3/5 looted (weekly)",
+    [81419] = "Herbalism: Deepgrove Petal 4/5 looted (weekly)",
+    [81420] = "Herbalism: Deepgrove Petal 5/5 looted (weekly)",
+    [81421] = "Herbalism: Deepgrove Rose looted (weekly)",
     [83729] = "Herbalism: Algari Treatise on Herbalism used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -562,6 +584,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84072] = "Azj-Kahet Rare: XT-Minecrusher 8700 The Severed Threads reputation loot (weekly, account)",
     [82036] = "Azj-Kahet Rare: Harvester Qixt killed (daily)",
     [84079] = "Azj-Kahet Rare: Harvester Qixt The Severed Threads reputation loot (weekly, account)",
+    [82290] = "Azj-Kahet Rare: The One Left (daily)",
+    [85167] = "Azj-Kahet Rare: The One Left The Severed Threads reputation loot (account)",
     [81694] = "Azj-Kahet Rare: Stronghold Scouts",
     [81695] = "Azj-Kahet Rare: Abyssal Devourer",
 
@@ -586,6 +610,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84799] = "Siren Isle Rare: Plank-Master Bluebelly daily",
     [84800] = "Siren Isle Rare: Chef Chum Platter daily",
     [86732] = "Siren Isle Chest: Stone Carvers Scramseax looted",
+    [86764] = "Siren Isle Treasure: Kul Tiran Lumberer's Hatchet",
+    [86766] = "Siren Isle Treasure: Ashvane Issued Workboots",
+    [86767] = "Siren Isle Treasure: Minnow's Favorite Blade",
     [86566] = "Siren Isle Quest: Snapdragon Progress Update (24h lockout)",
     [86485] = "Siren Isle Quest: complete A Loyal Friend questchain",
     [86373] = "Siren Isle Loot: Teal Snapdragon Treat",
@@ -606,16 +633,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85801] = "Siren Isle Thrayir: Torrential Runestone used",
     [85802] = "Siren Isle Thrayir: Whirling Runestone used",
     [85803] = "Siren Isle Thrayir: Thunderous Runestone used",
-    [86532] = "Ensemble: Bilgeswabby's Garb",
-    [86533] = "Ensemble: Pilfered Mariner's Garb",
-    [86534] = "Ensemble: Salt-Stained Garb",
+    [82139] = "Ensemble: Pink Tropical",
+    [82232] = "Ensemble: Pink Tropical Swimwear",
     [86498] = "Ensemble: Rune Scribe's Vestments",
     [86499] = "Ensemble: Bloodscout Outfit",
     [86500] = "Ensemble: Hydraflayer Regalia",
     [86501] = "Ensemble: Tidecrasher Armor",
-    [82139] = "Ensemble: Pink Tropical",
-    [82232] = "Ensemble: Pink Tropical Swimwear",
+    [86504] = "Ensemble: Paradise Beach Loungewear",
+    [86505] = "Ensemble: Southsea Cruise Loungewear",
     [86506] = "Ensemble: Salvage Rig Garments",
+    [86507] = "Ensemble: Rusty Bruiser's Outfit",
+    [86508] = "Ensemble: Sun-Soaked Clothing",
+    [86532] = "Ensemble: Bilgeswabby's Garb",
+    [86533] = "Ensemble: Pilfered Mariner's Garb",
+    [86534] = "Ensemble: Salt-Stained Garb",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Undermine
@@ -810,4 +841,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mythic+
     [85469] = "First weekly completion of an 8+ Mythic Dungeon",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Horrific Visions
+    [90709] = "Used Warbound Purifying Kit",
+    [90129] = "Retrieved Voidfire Deathcycle from Vision",
+    [90529] = "Horrific Visions Revisited: Valley of Honor Voidfire Deathcycle reagent unlocked",
+    [90530] = "Horrific Visions Revisited: Valley of Wisdom Voidfire Deathcycle reagent unlocked",
 }
