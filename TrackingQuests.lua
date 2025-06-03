@@ -613,6 +613,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86764] = "Siren Isle Treasure: Kul Tiran Lumberer's Hatchet",
     [86766] = "Siren Isle Treasure: Ashvane Issued Workboots",
     [86767] = "Siren Isle Treasure: Minnow's Favorite Blade",
+    [86240] = "Siren Isle: Given Well Loved Squeaky Toy to Marmaduke",
     [86566] = "Siren Isle Quest: Snapdragon Progress Update (24h lockout)",
     [86485] = "Siren Isle Quest: complete A Loyal Friend questchain",
     [86373] = "Siren Isle Loot: Teal Snapdragon Treat",
@@ -845,7 +846,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Horrific Visions
     [90709] = "Used Warbound Purifying Kit",
+    [90710] = "Used Enchanted Warbound Purifying Kit",
     [90129] = "Retrieved Voidfire Deathcycle from Vision",
     [90529] = "Horrific Visions Revisited: Valley of Honor Voidfire Deathcycle reagent unlocked",
     [90530] = "Horrific Visions Revisited: Valley of Wisdom Voidfire Deathcycle reagent unlocked",
+    [90130] = "Voidfire Deathcycle: installed wheels",
+    [90131] = "Voidfire Deathcycle: installed seat",
+    [90132] = "Voidfire Deathcycle: installed handlebars",
+    [90133] = "Voidfire Deathcycle: installed engine",
+    [90135] = "Voidfire Deathcycle: installed battery",
+    [90136] = "Voidfire Deathcycle: completed (pressed red button)",
+    [90523] = "Voidfire Deathcycle: installed exhaust",
 }
