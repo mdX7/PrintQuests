@@ -26,6 +26,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [86371] = "Looted Delver's Bounty (weekly)",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
     [85395] = "Fractured Spark of Fortunes related 5/x?",
+    [87510] = "Dastardly Duos: First completion?",
+    [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503)",
+    [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
