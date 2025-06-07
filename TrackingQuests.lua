@@ -40,14 +40,20 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [87389] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
     [88905] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
     
-    [87382] = "Horrific Visions Revisited: Stormwind full clear with Long Night mask; Champion vendor unlock?",
-    [88908] = "Horrific Visions Revisited: Stormwind full clear with Long Night mask; Champion vendor unlock?",
+    [87382] = "Horrific Visions Revisited: Stormwind full clear with 1 mask",
+    [88908] = "Horrific Visions Revisited: Stormwind full clear with 1 mask",
     
-    [87383] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination mask",
-    [88909] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination mask",
+    [87383] = "Horrific Visions Revisited: Stormwind full clear with 2 masks",
+    [88909] = "Horrific Visions Revisited: Stormwind full clear with 2 masks",
     
-    [87384] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination + Pain mask",
-    [88910] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination + Pain mask",
+    [87384] = "Horrific Visions Revisited: Stormwind full clear with 3 masks",
+    [88910] = "Horrific Visions Revisited: Stormwind full clear with 3 masks",
+    
+    [87385] = "Horrific Visions Revisited: Stormwind full clear with 4 masks",
+    [88911] = "Horrific Visions Revisited: Stormwind full clear with 4 masks",
+    
+    [87386] = "Horrific Visions Revisited: Stormwind full clear with 5 masks",
+    [88912] = "Horrific Visions Revisited: Stormwind full clear with 5 masks",
     
     [87429] = "Horrific Visions Revisited: Stormwind First Corrupted area clear?",
     [87430] = "Horrific Visions Revisited: Stormwind First Lost area clear?",
