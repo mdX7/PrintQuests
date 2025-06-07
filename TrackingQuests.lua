@@ -29,6 +29,28 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [87510] = "Dastardly Duos: First completion?",
     [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503)",
     [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement",
+    
+    [87381] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
+    [88906] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
+    
+    [87387] = "Horrific Visions Revisited: Stormwind full clear: Veteran vendor unlock?",
+    [88907] = "Horrific Visions Revisited: Stormwind full clear: Long Night Mask dropped?",
+    [87427] = "Horrific Visions Revisited: Stormwind Mage District clear",
+    
+    [87389] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
+    [88905] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
+    
+    [87382] = "Horrific Visions Revisited: Stormwind full clear with Long Night mask; Champion vendor unlock?",
+    [88908] = "Horrific Visions Revisited: Stormwind full clear with Long Night mask; Champion vendor unlock?",
+    
+    [87383] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination mask",
+    [88909] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination mask",
+    
+    [87384] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination + Pain mask",
+    [88910] = "Horrific Visions Revisited: Stormwind full clear with Long Night + Dark Imagination + Pain mask",
+    
+    [87429] = "Horrific Visions Revisited: Stormwind First Corrupted area clear?",
+    [87430] = "Horrific Visions Revisited: Stormwind First Lost area clear?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -847,7 +869,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85469] = "First weekly completion of an 8+ Mythic Dungeon",
 
     -- -----------------------------------------------------------------------------------------------------------------------
-    -- Horrific Visions
+    -- Horrifix Visions
+    [58893] = "Horrific Visions: Stormwind Mage District clear",
+    [58897] = "Horrific Visions: Stormwind Trade District clear",
+    [58890] = "Horrific Visions: Stormwind Old Town clear",
+    [58894] = "Horrific Visions: Stormwind Dwarven District clear",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Horrific Visions Revisited
+    [87428] = "Horrific Visions Revisited: Stormwind on ended (completion/fail)",
+    [87431] = "Horrific Visions Revisited: Stormwind on completion",
     [90709] = "Used Warbound Purifying Kit",
     [90710] = "Used Enchanted Warbound Purifying Kit",
     [90129] = "Retrieved Voidfire Deathcycle from Vision",
@@ -860,4 +891,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90135] = "Voidfire Deathcycle: installed battery",
     [90136] = "Voidfire Deathcycle: completed (pressed red button)",
     [90523] = "Voidfire Deathcycle: installed exhaust",
+    
 }
