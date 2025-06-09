@@ -88,6 +88,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- Mardum
     [40232] = "Voras Silk Drape looted",
+    [40301] = "Lekos Leash looted",
+    [40251] = "Inquisitors Glowering Eye looted",
+    [40910] = "Mardum treasure: Small Treasure Chest - Vault of the Betrayer",
+    [40915] = "Mardum treasure: Small Treasure Chest - The Demon Ward",
+    [40916] = "Mardum treasure: Small Treasure Chest - Chamber of Night",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Exiles Reach
