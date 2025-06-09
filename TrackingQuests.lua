@@ -86,6 +86,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
+    -- Mardum
+    [40232] = "Voras Silk Drape looted",
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Exiles Reach
     [58883] = "Stitched Leather Boots looted",
