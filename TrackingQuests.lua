@@ -497,12 +497,19 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84050] = "Ringing Deeps Rare: Disturbed Earthgorger killed weekly reputation",
     [80506] = "Ringing Deeps Rare: Zilthara Rare killed daily",
     [84041] = "Ringing Deeps Rare: Zilthara Rare The Assembly of the Deeps reputation loot (weekly, account)",
+    [80536] = "Ringing Deeps Rare: Deepflayer Broodmother Rare killed daily",
+    [85162] = "Ringing Deeps Rare: Deepflayer Broodmother Rare The Assembly of the Deeps reputation loot (weekly, account)",
     [80560] = "Ringing Deeps Rare: Cragmund Rare killed daily",
     [84042] = "Ringing Deeps Rare: Cragmund Rare The Assembly of the Deeps reputation loot (weekly, account)",
     [81562] = "Ringing Deeps Rare: Charmonger Rare killed daily",
     [84044] = "Ringing Deeps Rare: Charmonger Rare killed weekly reputation",
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
+    [81648] = "Ringing Deeps Rare: Hungerer of the Deeps Rare killed daily",
+    [84048] = "Ringing Deeps Rare: Hungerer of the Deeps Rare killed weekly reputation",
+    [81652] = "Ringing Deeps Rare: Spore-Infused Shalewing Rare killed daily",
+    [84049] = "Ringing Deeps Rare: Spore-Infused Shalewing Rare killed weekly reputation",
+    [80505] = "Ringing Deeps Rare: Candleflyer Captain Rare killed",
     [80547] = "Ringing Deeps Rare: King Splash Rare killed daily",
     [82464] = "Ringing Deeps Chest: Dusty Prospector Chest looted",
     [82820] = "Ringing Deeps Chest: Blocked Intake looted",
@@ -516,6 +523,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Hallowfall
+    [79271] = "Hallowfall Rare: Sloshmuck killed daily",
+    [84062] = "Hallowfall Rare: Sloshmuck Hallowfall Arathi reputation loot (weekly, account)",
     [80009] = "Hallowfall Rare: The Taskmaker killed daily",
     [84061] = "Hallowfall Rare: The Taskmaker Hallowfall Arathi reputation loot (weekly, account)",
     [81756] = "Hallowfall Rare: Lytfang the Lost killed daily",
@@ -762,8 +771,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90471] = "S.C.R.A.P.: Half-Empty Bag looted (weekly)",
     [90472] = "S.C.R.A.P.: Dented Crate looted (weekly)",
     [90473] = "S.C.R.A.P.: Uncovered Strongbox looted (weekly)",
+    [87282] = "S.C.R.A.P.: Blackwater Marina Half-Empty Bag visible",
     [87281] = "S.C.R.A.P.: Blackwater Marina Dented Crate visible",
     [86268] = "S.C.R.A.P.: Blackwater Marina Uncovered Strongbox visible",
+    [87280] = "S.C.R.A.P.: Emerald Hills Golf Half-Empty Bag visible",
     [87279] = "S.C.R.A.P.: Emerald Hills Golf Course Dented Crate visible",
     [86267] = "S.C.R.A.P.: Emerald Hills Golf Course Uncovered Strongbox visible",
     [87275] = "S.C.R.A.P.: Venturewood Dented Crate visible",
@@ -921,6 +932,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90129] = "Retrieved Voidfire Deathcycle from Vision",
     [90529] = "Horrific Visions Revisited: Valley of Honor Voidfire Deathcycle reagent unlocked",
     [90530] = "Horrific Visions Revisited: Valley of Wisdom Voidfire Deathcycle reagent unlocked",
+    [89472] = "Horrific Visions Revisited: Black Blood Infused Bar reagent looted",
     [90130] = "Voidfire Deathcycle: installed wheels",
     [90131] = "Voidfire Deathcycle: installed seat",
     [90132] = "Voidfire Deathcycle: installed handlebars",
@@ -928,5 +940,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90135] = "Voidfire Deathcycle: installed battery",
     [90136] = "Voidfire Deathcycle: completed (pressed red button)",
     [90523] = "Voidfire Deathcycle: installed exhaust",
-    
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Durable Information Securing Container
+    [90945] = "D.I.S.C. Unlocked Charged Bolts",
+    [90946] = "D.I.S.C. Unlocked Cauterizing Bolts",
+    [90947] = "D.I.S.C. Unlocked Critical Chain",
+    [90948] = "D.I.S.C. Unlocked Spark Burst",
+    [90949] = "D.I.S.C. Unlocked Static Charge",
+    [90950] = "D.I.S.C. Unlocked Electric Current",
+    [90951] = "D.I.S.C. Unlocked Charged Touch",
+    [90952] = "D.I.S.C. Unlocked Energy Shield",
+    [90953] = "D.I.S.C. Unlocked Charged Crystal",
 }
