@@ -86,6 +86,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
+    -- Hunter Campaign
+    [40621] = "Choose Beast Mastery Legendary Weapon questchain",
+    [40619] = "Choose Survival Legendary Weapon questchain",
+    [40620] = "Choose Marksmanship Legendary Weapon questchain",
+
     -- Mardum
     [40232] = "Voras Silk Drape looted",
     [40301] = "Lekos Leash looted",
