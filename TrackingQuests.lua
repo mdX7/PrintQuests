@@ -35,28 +35,28 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [87387] = "Horrific Visions Revisited: Stormwind full clear: Veteran vendor unlock?",
     [88907] = "Horrific Visions Revisited: Stormwind full clear: Long Night Mask dropped?",
-    [87427] = "Horrific Visions Revisited: Stormwind Mage District clear",
+    [87427] = "Horrific Visions Revisited: Mage District / Valley of Wisdom clear",
     
     [87389] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
     [88905] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
     
-    [87382] = "Horrific Visions Revisited: Stormwind full clear with 1 mask",
-    [88908] = "Horrific Visions Revisited: Stormwind full clear with 1 mask",
+    [87382] = "Horrific Visions Revisited: Full clear with 1 mask",
+    [88908] = "Horrific Visions Revisited: Full clear with 1 mask",
     
-    [87383] = "Horrific Visions Revisited: Stormwind full clear with 2 masks",
-    [88909] = "Horrific Visions Revisited: Stormwind full clear with 2 masks",
+    [87383] = "Horrific Visions Revisited: Full clear with 2 masks",
+    [88909] = "Horrific Visions Revisited: Full clear with 2 masks",
     
-    [87384] = "Horrific Visions Revisited: Stormwind full clear with 3 masks",
-    [88910] = "Horrific Visions Revisited: Stormwind full clear with 3 masks",
+    [87384] = "Horrific Visions Revisited: Full clear with 3 masks",
+    [88910] = "Horrific Visions Revisited: Full clear with 3 masks",
     
-    [87385] = "Horrific Visions Revisited: Stormwind full clear with 4 masks",
-    [88911] = "Horrific Visions Revisited: Stormwind full clear with 4 masks",
+    [87385] = "Horrific Visions Revisited: Full clear with 4 masks",
+    [88911] = "Horrific Visions Revisited: Full clear with 4 masks",
     
-    [87386] = "Horrific Visions Revisited: Stormwind full clear with 5 masks",
-    [88912] = "Horrific Visions Revisited: Stormwind full clear with 5 masks",
+    [87386] = "Horrific Visions Revisited: Full clear with 5 masks",
+    [88912] = "Horrific Visions Revisited: Full clear with 5 masks",
     
-    [87429] = "Horrific Visions Revisited: Stormwind First Corrupted area clear?",
-    [87430] = "Horrific Visions Revisited: Stormwind First Lost area clear?",
+    [87429] = "Horrific Visions Revisited: Corrupted area clear?",
+    [87430] = "Horrific Visions Revisited: Lost area clear?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -925,11 +925,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [58897] = "Horrific Visions: Stormwind Trade District clear",
     [58890] = "Horrific Visions: Stormwind Old Town clear",
     [58894] = "Horrific Visions: Stormwind Dwarven District clear",
+    [58895] = "Horrific Visions: Orgrimmar The Drag clear",
+    [58892] = "Horrific Visions: Orgrimmar Valley of Honor clear",
+    [58891] = "Horrific Visions: Orgrimmar Valley of Wisdom clear",
+    [58896] = "Horrific Visions: Orgrimmar Valley of Spirits clear",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Horrific Visions Revisited
-    [87428] = "Horrific Visions Revisited: Stormwind on ended (completion/fail)",
-    [87431] = "Horrific Visions Revisited: Stormwind on completion",
+    [87428] = "Horrific Visions Revisited: Ended (completion/fail)",
+    [87431] = "Horrific Visions Revisited: Completion",
     [90709] = "Used Warbound Purifying Kit",
     [90710] = "Used Enchanted Warbound Purifying Kit",
     [90129] = "Retrieved Voidfire Deathcycle from Vision",
