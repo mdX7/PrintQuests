@@ -86,10 +86,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
-    -- Hunter Campaign
+    -- Artifact Campaign
     [40621] = "Choose Beast Mastery Legendary Weapon questchain",
     [40619] = "Choose Survival Legendary Weapon questchain",
     [40620] = "Choose Marksmanship Legendary Weapon questchain",
+    [40708] = "Choose Holy (Priest) Legendary weapon questchain",
+    [40707] = "Choose Shadow Legendary weapon questchain",
+    [40709] = "Choose Discipline Legendary weapon questchain",
 
     -- Mardum
     [40232] = "Voras Silk Drape looted",
