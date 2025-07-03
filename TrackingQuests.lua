@@ -77,6 +77,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [78204] = "Turbulent Timeways: Have 5 stacks of Mastery of Timeways",
     [85877] = "Turbulent Timeways II: Have 5 stacks of Mastery of Timeways",
 
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Greedy Emissary
+    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10",
+    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10",
+    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10",
+    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10",
+    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10",
+    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10",
+    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10",
+    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10",
+    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10",
+    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10",
+    [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
+    [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
