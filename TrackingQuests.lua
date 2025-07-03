@@ -20,15 +20,17 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
     [86325] = "Zekvirs Lair kill?",
     [85463] = "Renown: The Cartels of Undermine Level 2",
-    [85089] = "Undermine Worldboss kill?",
-    [89401] = "Undermine Worldboss kill?",
     [86438] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
     [86371] = "Looted Delver's Bounty (weekly)",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
     [85395] = "Fractured Spark of Fortunes related 5/x?",
+    [86695] = "First daily Pristine Mysterious Satchel",
+    [90134] = "Pristine Mysterious Satchel? mail feet? epic item? Fortuitous Satchel?",
+    [90752] = "First daily Bottle of Mysterious Wisdom attempt",
     [87510] = "Dastardly Duos: First completion?",
     [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503)",
     [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement",
+    [90466] = "Dastardly Duos: Podium Upgrade: Yards Traveled",
     
     [87381] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
     [88906] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
@@ -73,9 +75,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86172] = "Love is in the Air: Increased Love Witch's Sweeper Droprate (daily, accwide)",
 
     -----------------------------------------------------------------------------------------------------------------------
+    -- Midsummer
+    [83134] = "Midsummer: cosmetic weapon drop rate from Satchel of Chilled Goods (daily, account)",
+
+    -----------------------------------------------------------------------------------------------------------------------
     -- Timewalking
     [78204] = "Turbulent Timeways: Have 5 stacks of Mastery of Timeways",
     [85877] = "Turbulent Timeways II: Have 5 stacks of Mastery of Timeways",
+    [89211] = "Turbulent Timeways III: Have 5 stacks of Mastery of Timeways",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Greedy Emissary
@@ -116,6 +123,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40910] = "Mardum treasure: Small Treasure Chest - Vault of the Betrayer",
     [40915] = "Mardum treasure: Small Treasure Chest - The Demon Ward",
     [40916] = "Mardum treasure: Small Treasure Chest - Chamber of Night",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Battle for Azeroth
+    [90909] = "Ensemble: Ashvane Smuggler's Attire",
+    [90925] = "Ensemble: Bloodsail Smuggler's Attire",
+    [90939] = "Ensemble: Golden Fleet's Sailing Garb",
+    [90940] = "Ensemble: Zocalo Merchant's Wear",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Exiles Reach
@@ -664,6 +678,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82037] = "Azj-Kahet Rare: Umbraclaw Matra killed (daily)",
     [84080] = "Azj-Kahet Rare: Umbraclaw Matra The Severed Threads reputation loot (weekly, account)",
     [91164] = "Azj-Kahet Rare: Umbraclaw Matra Flame's Radiance reputation loot (daily, account)",
+    [82077] = "Azj-Kahet Rare: Deepcrawler Tx'kesh killed (daily)",
+    [84081] = "Azj-Kahet Rare: Deepcrawler Tx'kesh The Severed Threads reputation loot (weekly, account)",
+    [91161] = "Azj-Kahet Rare: Deepcrawler Tx'kesh Flame's Radiance reputation loot (daily, account)",
     [82078] = "Azj-Kahet Rare: Kaheti Bladeguard killed (daily)",
     [84082] = "Azj-Kahet Rare: Kaheti Bladeguard The Severed Threads reputation loot (weekly, account)",
     [91163] = "Azj-Kahet Rare: Kaheti Bladeguard Flame's Radiance reputation loot (daily, account)",
@@ -740,6 +757,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Undermine
+    [85089] = "Undermine Worldboss kill (weekly, character)",
+    [89401] = "Undermine Worldboss loot (weekly, account)",
     [85494] = "Undermine Chest: Marooned Floatmingo",
     [85426] = "Undermine Chest: Potent Potable",
     [85495] = "Undermine Chest: Uncracked Cold Ones",
@@ -798,6 +817,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87275] = "S.C.R.A.P.: Venturewood Dented Crate visible",
     [86265] = "S.C.R.A.P.: Venturewood Uncovered Strongbox visible",
     [87274] = "S.C.R.A.P.: The Vatworks Half-Empty Bag visible",
+    [87273] = "S.C.R.A.P.: The Vatworks Dented Crate visible",
     [86264] = "S.C.R.A.P.: The Vatworks Uncovered Strongbox visible",
     [87269] = "S.C.R.A.P.: Hovel Hill (North) Dented Crate visible",
     [86262] = "S.C.R.A.P.: Hovel Hill (North) Uncovered Strongbox visible",
@@ -935,7 +955,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85469] = "First weekly completion of an 8+ Mythic Dungeon",
 
     -- -----------------------------------------------------------------------------------------------------------------------
-    -- Horrifix Visions
+    -- Horrific Visions
     [58893] = "Horrific Visions: Stormwind Mage District clear",
     [58897] = "Horrific Visions: Stormwind Trade District clear",
     [58890] = "Horrific Visions: Stormwind Old Town clear",
