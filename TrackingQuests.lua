@@ -15,7 +15,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85168] = "Anniversary Worldboss: Second Worldboss kill of day/week? Lord Kazzak",
     [84614] = "Khaz Algar Worldboss killed? Aggregation of Horrors",
     [83280] = "Related to Spark of Omens, weekly",
-    [83158] = "... on Waterworks Delve completed?",
     [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8",
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
     [86325] = "Zekvirs Lair kill?",
@@ -27,9 +26,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [86695] = "First daily Pristine Mysterious Satchel",
     [90134] = "Pristine Mysterious Satchel? mail feet? epic item? Fortuitous Satchel?",
     [90752] = "First daily Bottle of Mysterious Wisdom attempt",
-    [87510] = "Dastardly Duos: First completion?",
-    [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503)",
-    [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement",
+    [87510] = "Dastardly Duos: First completion? (warband wide)",
+    [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503) (warband wide)",
+    [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement (warband wide)",
     [90466] = "Dastardly Duos: Podium Upgrade: Yards Traveled",
     
     [87381] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
@@ -86,16 +85,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Greedy Emissary
-    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10",
-    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10",
-    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10",
-    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10",
-    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10",
-    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10",
-    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10",
-    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10",
-    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10",
-    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10",
+    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (warband wide)",
+    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (warband wide)",
+    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10 (warband wide)",
+    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10 (warband wide)",
+    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10 (warband wide)",
+    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10 (warband wide)",
+    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10 (warband wide)",
+    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10 (warband wide)",
+    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (warband wide)",
+    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (warband wide)",
     [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
     [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
     
@@ -108,6 +107,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
+    -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
     [40621] = "Choose Beast Mastery Legendary Weapon questchain",
     [40619] = "Choose Survival Legendary Weapon questchain",
@@ -116,6 +116,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40707] = "Choose Shadow Legendary weapon questchain",
     [40709] = "Choose Discipline Legendary weapon questchain",
 
+    -----------------------------------------------------------------------------------------------------------------------
     -- Mardum
     [40232] = "Voras Silk Drape looted",
     [40301] = "Lekos Leash looted",
@@ -438,21 +439,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [47461] = "Anniversary Worldboss: Lord Kazzak Kill",
     [47463] = "Anniversary Worldboss: Dragon of Nightmare Kill",
     [86202] = "Opened first Bronze Celebration Chest of the week",
-    [85661] = "Bought first T2 Set",
-    [85828] = "Bought second T2 Set",
-    [85841] = "Learned Death Knight T2 Set",
-    [85842] = "Learned Demon Hunter T2 Set",
-    [85843] = "Learned Druid T2 Set",
-    [85844] = "Learned Evoker T2 Set",
-    [85845] = "Learned Hunter T2 Set",
-    [85846] = "Learned Mage T2 Set",
-    [85847] = "Learned Monk T2 Set",
-    [85848] = "Learned Paladin T2 Set",
-    [85849] = "Learned Priest T2 Set",
-    [85850] = "Learned Rogue T2 Set",
-    [85851] = "Learned Shaman T2 Set",
-    [85852] = "Learned Warlock T2 Set",
-    [85853] = "Learned Warrior T2 Set",
+    [85661] = "Bought first T2 Set (warband wide)",
+    [85828] = "Bought second T2 Set (warband wide)",
+    [85841] = "Learned Death Knight T2 Set (warband wide)",
+    [85842] = "Learned Demon Hunter T2 Set (warband wide)",
+    [85843] = "Learned Druid T2 Set (warband wide)",
+    [85844] = "Learned Evoker T2 Set (warband wide)",
+    [85845] = "Learned Hunter T2 Set (warband wide)",
+    [85846] = "Learned Mage T2 Set (warband wide)",
+    [85847] = "Learned Monk T2 Set (warband wide)",
+    [85848] = "Learned Paladin T2 Set (warband wide)",
+    [85849] = "Learned Priest T2 Set (warband wide)",
+    [85850] = "Learned Rogue T2 Set (warband wide)",
+    [85851] = "Learned Shaman T2 Set (warband wide)",
+    [85852] = "Learned Warlock T2 Set (warband wide)",
+    [85853] = "Learned Warrior T2 Set (warband wide)",
     [83831] = "Guest Relations completed Tutorial (A Whiff of Help) (accwide)",
     [85414] = "Guest Relations Pirate Gastronomy: Asked Maru about Rogue's thistle",
     [85415] = "Guest Relations Pirate Gastronomy: Asked Maru about Banana rum berries",
@@ -933,6 +934,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85203] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Pipes",
     [85202] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Harpoon",
     [90780] = "Looted Cracked Keystone (242919)",
+    [83158] = "Adventurer's Warbound Battlegear dropped (warband wide)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
