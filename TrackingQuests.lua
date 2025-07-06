@@ -125,6 +125,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40915] = "Mardum treasure: Small Treasure Chest - The Demon Ward",
     [40916] = "Mardum treasure: Small Treasure Chest - Chamber of Night",
 
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Return to Karazhan
+    [45393] = "Return to Karazhan: Moroes encounter end scene played",
+    [45394] = "Return to Karazhan: Maiden of Virtue encounter end scene played",
+    [45395] = "Return to Karazhan: Shade of Medivh encounter end scene played",
+    [45396] = "Return to Karazhan: Mana Devourer encounter end scene played",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Battle for Azeroth
     [90909] = "Ensemble: Ashvane Smuggler's Attire",
