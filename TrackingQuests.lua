@@ -117,6 +117,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40709] = "Choose Discipline Legendary weapon questchain",
 
     -----------------------------------------------------------------------------------------------------------------------
+    -- Rogue Orderhall
+    [50804] = "Rogue Orderhall: Entered Hall of Shadows for the first time",
+
+    -----------------------------------------------------------------------------------------------------------------------
     -- Mardum
     [40232] = "Voras Silk Drape looted",
     [40301] = "Lekos Leash looted",
