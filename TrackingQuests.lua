@@ -83,7 +83,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85877] = "Turbulent Timeways II: Have 5 stacks of Mastery of Timeways",
     [89211] = "Turbulent Timeways III: Have 5 stacks of Mastery of Timeways",
 
-    -- -----------------------------------------------------------------------------------------------------------------------
+    ------------------------------------------------------------------------------------------------------------------------
     -- Greedy Emissary
     [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (warband wide, weekly)",
     [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (warband wide, weekly)",
@@ -99,6 +99,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
     [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
     
+    ------------------------------------------------------------------------------------------------------------------------
+    -- Dastardly Duos
+    [90461] = "Dastardly Duos: Gain Measure: Longest Time in Spotlights used",
+    [90459] = "Dastardly Duos: Gain Measure: Scrappiest used",
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
