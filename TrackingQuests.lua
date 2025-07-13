@@ -29,33 +29,32 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [87510] = "Dastardly Duos: First completion? (warband wide)",
     [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503) (warband wide)",
     [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement (warband wide)",
-    [90466] = "Dastardly Duos: Podium Upgrade: Yards Traveled",
-    
+
     [87381] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
     [88906] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
-    
+
     [87387] = "Horrific Visions Revisited: Stormwind full clear: Veteran vendor unlock?",
     [88907] = "Horrific Visions Revisited: Stormwind full clear: Long Night Mask dropped?",
     [87427] = "Horrific Visions Revisited: Mage District / Valley of Wisdom clear",
-    
+
     [87389] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
     [88905] = "Horrific Visions Revisited: Stormwind 2nd full clear?",
-    
+
     [87382] = "Horrific Visions Revisited: Full clear with 1 mask",
     [88908] = "Horrific Visions Revisited: Full clear with 1 mask",
-    
+
     [87383] = "Horrific Visions Revisited: Full clear with 2 masks",
     [88909] = "Horrific Visions Revisited: Full clear with 2 masks",
-    
+
     [87384] = "Horrific Visions Revisited: Full clear with 3 masks",
     [88910] = "Horrific Visions Revisited: Full clear with 3 masks",
-    
+
     [87385] = "Horrific Visions Revisited: Full clear with 4 masks",
     [88911] = "Horrific Visions Revisited: Full clear with 4 masks",
-    
+
     [87386] = "Horrific Visions Revisited: Full clear with 5 masks",
     [88912] = "Horrific Visions Revisited: Full clear with 5 masks",
-    
+
     [87429] = "Horrific Visions Revisited: Corrupted area clear?",
     [87430] = "Horrific Visions Revisited: Lost area clear?",
 }
@@ -85,24 +84,30 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     ------------------------------------------------------------------------------------------------------------------------
     -- Greedy Emissary
-    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (warband wide, weekly)",
-    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (warband wide, weekly)",
-    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10 (warband wide, weekly)",
-    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10 (warband wide, weekly)",
-    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10 (warband wide, weekly)",
-    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10 (warband wide, weekly)",
-    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10 (warband wide, weekly)",
-    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10 (warband wide, weekly)",
-    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (warband wide, weekly)",
-    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (warband wide, weekly)",
+    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (weekly, account)",
+    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (weekly, account)",
+    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10 (weekly, account)",
+    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10 (weekly, account)",
+    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10 (weekly, account)",
+    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10 (weekly, account)",
+    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10 (weekly, account)",
+    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10 (weekly, account)",
+    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (weekly, account)",
+    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (weekly, account)",
     [91091] = "Greedy Emissary: Looted Blood-Wrapped Treasure Bag",
     [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
     [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
-    
+
     ------------------------------------------------------------------------------------------------------------------------
     -- Dastardly Duos
-    [90461] = "Dastardly Duos: Gain Measure: Longest Time in Spotlights used",
-    [90459] = "Dastardly Duos: Gain Measure: Scrappiest used",
+    [90459] = "Dastardly Duos: Podium Upgrade: Scrappiest",
+    [90460] = "Dastardly Duos: Podium Upgrade: Longest Survival Run",
+    [90461] = "Dastardly Duos: Podium Upgrade: Longest Time in Spotlights",
+    [90462] = "Dastardly Duos: Podium Upgrade: Most Yards Traveled",
+    [90463] = "Dastardly Duos: Podium Upgrade: Scrappy",
+    [90464] = "Dastardly Duos: Podium Upgrade: Current Survival Run Length",
+    [90465] = "Dastardly Duos: Podium Upgrade: Time in Spotlight Last Game",
+    [90466] = "Dastardly Duos: Podium Upgrade: Yards Moved Last Game",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
@@ -555,6 +560,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84044] = "Ringing Deeps Rare: Charmonger Rare killed weekly reputation",
     [81511] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed daily",
     [84045] = "Ringing Deeps Rare: Coalesced Monstrosity Rare killed weekly reputation",
+    [81633] = "Ringing Deeps Rare: Lurker of the Deeps Rare killed daily",
+    [85163] = "Ringing Deeps Rare: Lurker of the Deeps Rare killed weekly reputation",
     [81648] = "Ringing Deeps Rare: Hungerer of the Deeps Rare killed daily",
     [84048] = "Ringing Deeps Rare: Hungerer of the Deeps Rare killed weekly reputation",
     [81652] = "Ringing Deeps Rare: Spore-Infused Shalewing Rare killed daily",
@@ -667,6 +674,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91153] = "Nighfall Rare: Dissenter Fervormyt reputation bonus (daily)",
     [91154] = "Nighfall Rare: Dissenter Tailtrek reputation bonus (daily)",
     [91157] = "Nighfall Rare: Dissenter Fortfervor reputation bonus (daily)",
+    [91158] = "Nighfall Rare: Dissenter Troosilver reputation bonus (daily)",
     [91159] = "Nighfall Rare: Whisperer Siegesage reputation bonus (daily)",
     [91160] = "Nighfall Rare: Whisperer Warhavuk reputation bonus (daily)",
 
@@ -839,6 +847,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86264] = "S.C.R.A.P.: The Vatworks Uncovered Strongbox visible",
     [87269] = "S.C.R.A.P.: Hovel Hill (North) Dented Crate visible",
     [86262] = "S.C.R.A.P.: Hovel Hill (North) Uncovered Strongbox visible",
+    [87272] = "S.C.R.A.P.: Hovel Hill (South) Half-Empty Bag visible",
     [86263] = "S.C.R.A.P.: Hovel Hill (South) Uncovered Strongbox visible",
     [87278] = "S.C.R.A.P.: The Heaps Half-Empty Bag visible",
     [87277] = "S.C.R.A.P.: The Heaps Dented Crate visible",
