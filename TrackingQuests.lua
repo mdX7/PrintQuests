@@ -85,16 +85,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Greedy Emissary
-    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (warband wide)",
-    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (warband wide)",
-    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10 (warband wide)",
-    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10 (warband wide)",
-    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10 (warband wide)",
-    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10 (warband wide)",
-    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10 (warband wide)",
-    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10 (warband wide)",
-    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (warband wide)",
-    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (warband wide)",
+    [91079] = "Greedy Emissary: Opened Hellcaller Chest 1/10 (warband wide, weekly)",
+    [91080] = "Greedy Emissary: Opened Hellcaller Chest 2/10 (warband wide, weekly)",
+    [91081] = "Greedy Emissary: Opened Hellcaller Chest 3/10 (warband wide, weekly)",
+    [91082] = "Greedy Emissary: Opened Hellcaller Chest 4/10 (warband wide, weekly)",
+    [91083] = "Greedy Emissary: Opened Hellcaller Chest 5/10 (warband wide, weekly)",
+    [91166] = "Greedy Emissary: Opened Hellcaller Chest 6/10 (warband wide, weekly)",
+    [91167] = "Greedy Emissary: Opened Hellcaller Chest 7/10 (warband wide, weekly)",
+    [91168] = "Greedy Emissary: Opened Hellcaller Chest 8/10 (warband wide, weekly)",
+    [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (warband wide, weekly)",
+    [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (warband wide, weekly)",
+    [91091] = "Greedy Emissary: Looted Blood-Wrapped Treasure Bag",
     [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
     [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
     
