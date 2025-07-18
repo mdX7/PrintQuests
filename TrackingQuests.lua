@@ -920,6 +920,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted (warband wide, onetime)",
     [86788] = "Sidestreet Sluice - Sturdy Chest in treasure room looted (warband wide, onetime)",
     [86790] = "Sidestreet Sluice - Sturdy Chest in near rare crab, bottom left on map The Pits (warband wide, onetime)",
+    [86789] = "Sidestreet Sluice - Sturdy Chest in The High Decks (warband wide, onetime)",
     [83683] = "Kriegvals Rest - Sturdy Chest near checkpoint (warband wide, onetime)",
     [84101] = "Brann reached Level 40 (warband wide, onetime)",
     [84102] = "Brann reached Level 41 (warband wide, onetime)",
