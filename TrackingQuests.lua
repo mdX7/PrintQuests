@@ -816,11 +816,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84954] = "Blackwater Cartel Contract selected (warband wide, weekly)",
     [86598] = "Opened Bilgewater's Trove (honored)",
     [86748] = "Opened Bilgewater's Trove (revered)",
+    [86749] = "Opened Bilgewater's Trove (exalted)",
     [86751] = "Opened Blackwater's Trove (revered)",
+    [86597] = "Opened Blackwater's Trove (exalted)",
     [86753] = "Opened Steamwheedle's Trove (honored)",
     [86754] = "Opened Steamwheedle's Trove (revered)",
+    [86596] = "Opened Steamwheedle's Trove (exalted)",
     [86755] = "Opened Venture Co.'s Trove (honored)",
     [86756] = "Opened Venture Co.'s Trove (revered)",
+    [86599] = "Opened Venture Co.'s Trove (exalted)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- S.C.R.A.P.
@@ -840,14 +844,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87280] = "S.C.R.A.P.: Emerald Hills Golf Half-Empty Bag visible",
     [87279] = "S.C.R.A.P.: Emerald Hills Golf Course Dented Crate visible",
     [86267] = "S.C.R.A.P.: Emerald Hills Golf Course Uncovered Strongbox visible",
+    [87276] = "S.C.R.A.P.: Venturewood Half-Empty Bag visible",
     [87275] = "S.C.R.A.P.: Venturewood Dented Crate visible",
     [86265] = "S.C.R.A.P.: Venturewood Uncovered Strongbox visible",
     [87274] = "S.C.R.A.P.: The Vatworks Half-Empty Bag visible",
     [87273] = "S.C.R.A.P.: The Vatworks Dented Crate visible",
     [86264] = "S.C.R.A.P.: The Vatworks Uncovered Strongbox visible",
+    [87270] = "S.C.R.A.P.: Hovel Hill (North) Half-Empty Bag visible",
     [87269] = "S.C.R.A.P.: Hovel Hill (North) Dented Crate visible",
     [86262] = "S.C.R.A.P.: Hovel Hill (North) Uncovered Strongbox visible",
     [87272] = "S.C.R.A.P.: Hovel Hill (South) Half-Empty Bag visible",
+    [87271] = "S.C.R.A.P.: Hovel Hill (South) Dented Crate visible",
     [86263] = "S.C.R.A.P.: Hovel Hill (South) Uncovered Strongbox visible",
     [87278] = "S.C.R.A.P.: The Heaps Half-Empty Bag visible",
     [87277] = "S.C.R.A.P.: The Heaps Dented Crate visible",
@@ -965,9 +972,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
-    [85784] = "D.R.I.V.E.: Handcrank used",
-    [85786] = "D.R.I.V.E.: The Buzzer used",
+    [86771] = "D.R.I.V.E.: Paint: Body Roll Blue used",
+    [86772] = "D.R.I.V.E.: Paint: Goblin Green used",
+    [86773] = "D.R.I.V.E.: Paint: Redlining Red used",
+    [86774] = "D.R.I.V.E.: Paint: Yellow Cake Yellow used",
     [85783] = "D.R.I.V.E.: Steamboil used",
+    [85784] = "D.R.I.V.E.: Handcrank used",
+    [85785] = "D.R.I.V.E.: The Ol' Low-and-Slow used",
+    [85786] = "D.R.I.V.E.: The Buzzer used",
+    [85787] = "D.R.I.V.E.: Maniacal Melodies used",
+    [85788] = "D.R.I.V.E.: The Whole Brass Band used",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
