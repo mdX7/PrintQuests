@@ -19,7 +19,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
     [86325] = "Zekvirs Lair kill?",
     [85463] = "Renown: The Cartels of Undermine Level 2",
-    [86438] = "Skittering Breach/Excavation Site 9: The Underpin invasion",
     [86371] = "Looted Delver's Bounty (weekly)",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
     [85395] = "Fractured Spark of Fortunes related 5/x?",
@@ -906,6 +905,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85187] = "Bountiful Excavation Site 9 completed (daily)",
     [82939] = "Bountiful Fungal Folly completed (daily)",
     [78508] = "Bountiful Skittering Breach completed (daily)",
+    [85668] = "Bountiful Sidestreet Sluice completed (daily)",
     [83317] = "Council of Dornogal Rep bonus on delve complete (weekly, account)",
     [83318] = "Assembly of the Deeps Rep bonus on delve complete (weekly, account)",
     [83320] = "Hallowfall Arathi Rep bonus on delve complete (weekly, account)",
@@ -976,8 +976,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85204] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Flamethrower",
     [85203] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Pipes",
     [85202] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Harpoon",
+    [85201] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Balloon",
+    [85200] = "Delver's Journey Season 2: Delver's Dirigible Schematic: Green Paint",
+    [85210] = "Delver's Journey Season 2: Unlocked Delve-O-Bot 7001",
+    [85206] = "Delver's Journey Season 2: Unlocked Warbound Set",
+    [85207] = "Delver's Journey Season 2: Unlocked purchaseable Restored Coffer Keys",
+    [85205] = "Delver's Journey Season 2: Discounted Restored Coffer Key unlocked",
     [90780] = "Looted Cracked Keystone (242919)",
     [83158] = "Adventurer's Warbound Battlegear dropped (account)",
+    [86438] = "Delves Season 2: Opened first purple Nemesis Strongbox and first Underpin invasion (account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
