@@ -94,6 +94,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91169] = "Greedy Emissary: Opened Hellcaller Chest 9/10 (weekly, account)",
     [91170] = "Greedy Emissary: Opened Hellcaller Chest 10/10 (weekly, account)",
     [91091] = "Greedy Emissary: Looted Blood-Wrapped Treasure Bag",
+    [91092] = "Greedy Emissary: Looted Treasure Nabbin' Bag",
     [76215] = "Greedy Emissary: Killed Treasure Goblin, daily",
     [76216] = "Greedy Emissary: Tyraels Charger Bonus Loot / first Goblin kill, daily",
 
