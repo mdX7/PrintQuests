@@ -18,6 +18,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [84819] = "Looting Zekvir Hulking Raptorial Claw in Waterworks Tier 8",
     [84818] = "Looting Zekvir Hulking Raptorial Claw in Kriegval's Rest Tier 8",
     [86325] = "Zekvirs Lair kill?",
+    [86873] = "Sidestreet Sluice Tier 11 (Overcharged, Bountiful) clear + finished Delvers Journey Season 2?",
+
     [85463] = "Renown: The Cartels of Undermine Level 2",
     [86371] = "Looted Delver's Bounty (weekly)",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
@@ -916,6 +918,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- [xxxxx] = "Earthcrawl Mines - Sturdy Chest near Web General Ab'enar looted (account, onetime)",
     -- [xxxxx] = "Earthcrawl Mines - Sturdy Chest: In square shaped room looted (account, onetime)",
     [83679] = "Skittering Breach - Sturdy Chest in first building looted (account, onetime)",
+    [83696] = "Skittering Breach - Sturdy Chest at the edge of building near boss platform (account, onetime)",
     [83663] = "The Underkeep - Sturdy Chest in passage between left and bottom room looted (account, onetime)",
     [83663] = "The Underkeep - Sturdy Chest in Researcher Ven'kex room looted (account, onetime)",
     [83691] = "Myromancer Cavern - Sturdy Chest under water looted (account, onetime)",
