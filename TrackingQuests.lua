@@ -929,6 +929,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83669] = "Tak-Rethan Abyss - Sturdy Chest on left side of map looted (account, onetime)",
     [83686] = "Tak-Rethan Abyss - Sturdy Chest on coral looted (account, onetime)",
     [83688] = "Nightfall Sanctum - Sturdy Chest next to entrance looted (account, onetime)",
+    [83701] = "Nightfall Sanctum - Sturdy Chest top left on map, near tower (account, onetime)",
     [86788] = "Sidestreet Sluice - Sturdy Chest in treasure room looted (account, onetime)",
     [86790] = "Sidestreet Sluice - Sturdy Chest in near rare crab, bottom left on map The Pits (account, onetime)",
     [86789] = "Sidestreet Sluice - Sturdy Chest in The High Decks (account, onetime)",
