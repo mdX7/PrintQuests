@@ -1061,4 +1061,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90951] = "D.I.S.C. Unlocked Charged Touch",
     [90952] = "D.I.S.C. Unlocked Energy Shield",
     [90953] = "D.I.S.C. Unlocked Charged Crystal",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- K'aresh
+    [90600] = "Stay awhile and Listen - Xalatath, Alleria and Locus-Walker in Myzas Oasis",
 }
