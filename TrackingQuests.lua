@@ -58,6 +58,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
     [87429] = "Horrific Visions Revisited: Corrupted area clear?",
     [87430] = "Horrific Visions Revisited: Lost area clear?",
+    
+    [86407] = "Underpin Tier ? defeated?",
+    [86439] = "Underpin Tier ? defeated??",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
