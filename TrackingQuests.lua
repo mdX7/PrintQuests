@@ -407,6 +407,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [79928] = "Herbalism: First Lush Blessing Blossom looted",
     [79929] = "Herbalism: First Crystallized Blessing Blossom looted",
     [79930] = "Herbalism: First Irradiated Blessing Blossom looted",
+    [92132] = "Herbalism: First Phantom Bloom looted",
+    [92133] = "Herbalism: First Lush Phantom Bloom looted",
     [81416] = "Herbalism: Deepgrove Petal 1/5 looted (weekly)",
     [81417] = "Herbalism: Deepgrove Petal 2/5 looted (weekly)",
     [81418] = "Herbalism: Deepgrove Petal 3/5 looted (weekly)",
@@ -1065,4 +1067,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
     [90600] = "Stay awhile and Listen - Xalatath, Alleria and Locus-Walker in Myzas Oasis",
+    [85840] = "K'aresh treasure: Sand-Worn Coffer",
+    [85837] = "K'aresh treasure: Forlorn Wind Chime",
 }
