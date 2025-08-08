@@ -1070,4 +1070,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85840] = "K'aresh treasure: Sand-Worn Coffer",
     [85837] = "K'aresh treasure: Forlorn Wind Chime",
     [86467] = "K'aresh treasure: Mailroom Distribution",
+    [86323] = "K'aresh treasure: Cruedly Stitched Sack",
+    [86308] = "K'aresh treasure: Shattered Crystal",
 }
