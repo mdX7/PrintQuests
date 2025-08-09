@@ -31,8 +31,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [90775] = "Dastardly Duos: Awarded after turning in Who are the Dastardly Duos (86503) (account)",
     [87527] = "Dastardly Duos: Gained after getting Duos Underdog achievement (account)",
 
-    [87381] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
-    [88906] = "Horrific Visions Revisited: Stormwind on completion / Alleria kill (Dwarven District, Trade District fully cleared)",
+    [87381] = "Horrific Visions Revisited: On completion (weekly)",
+    [88906] = "Horrific Visions Revisited: On completion (weekly)",
 
     [87387] = "Horrific Visions Revisited: Stormwind full clear: Veteran vendor unlock?",
     [88907] = "Horrific Visions Revisited: Stormwind full clear: Long Night Mask dropped?",
@@ -59,8 +59,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [87429] = "Horrific Visions Revisited: Corrupted area clear?",
     [87430] = "Horrific Visions Revisited: Lost area clear?",
     
-    [86407] = "Underpin Tier ? defeated?",
-    [86439] = "Underpin Tier ? defeated??",
+    [92626] = "After turning in The Shadowguard Shattered (84967)",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -995,6 +994,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90780] = "Looted Cracked Keystone (242919)",
     [83158] = "Adventurer's Warbound Battlegear dropped (account)",
     [86438] = "Delves Season 2: Opened first purple Nemesis Strongbox and first Underpin invasion (account)",
+    [86407] = "Underpin Delve defeated (weekly)",
+    [86439] = "Underpin Delve defeated: Unlock Hataclysm gossip option for Brann in Dornogal",
+    [82117] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Thrusters",
+    [82189] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Red Paint",
+    [82192] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Alliance Decal",
+    [82194] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Horde Decal",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -1065,8 +1070,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90953] = "D.I.S.C. Unlocked Charged Crystal",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- The K'aresh Trust
+    [85111] = "The K'aresh Trust Renown unlock",
+    [92627] = "The K'aresh Trust Renown 3: Unlock Warrants",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
-    [90600] = "Stay awhile and Listen - Xalatath, Alleria and Locus-Walker in Myzas Oasis",
+    [90600] = "Stay awhile and Listen - Xal'atath, Alleria and Locus-Walker in Myzas Oasis",
     [85840] = "K'aresh treasure: Sand-Worn Coffer",
     [85837] = "K'aresh treasure: Forlorn Wind Chime",
     [86467] = "K'aresh treasure: Mailroom Distribution",
