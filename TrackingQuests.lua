@@ -60,6 +60,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [87430] = "Horrific Visions Revisited: Lost area clear?",
     
     [92626] = "After turning in The Shadowguard Shattered (84967)",
+    
+    [91812] = "Completed after rewarding The Tabiqa (84910) (accwide)",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -310,6 +312,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80371] = "Mining: First Webbed Bismuth looted",
     [80372] = "Mining: First Webbed Aqirite looted",
     [80373] = "Mining: First Webbed Ironclaw looted",
+    [92134] = "Mining: First Desolate Deposit looted",
+    [92135] = "Mining: First Rich Desolate Deposit looted",
     [83907] = "Mining: Dornogal Chisel treasure looted",
     [81391] = "Mining Book: Exceptional Miner's Notes used",
     [83062] = "Mining Book: Machine-Learned Mining Notes used",
@@ -1072,11 +1076,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- The K'aresh Trust
     [85111] = "The K'aresh Trust Renown unlock",
-    [92627] = "The K'aresh Trust Renown 3: Unlock Warrants",
+    [92627] = "The K'aresh Trust Renown 2",
+    [92628] = "The K'aresh Trust Renown 3: Unlocks Warrants",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
     [90600] = "Stay awhile and Listen - Xal'atath, Alleria and Locus-Walker in Myzas Oasis",
+    [85774] = "Stay awhile and Listen - Xal'atath in Eco-Dome: Rhovan",
+    [86815] = "Stay awhile and Listen - Xal'atath in Castigaar Upper Camp",
     [85840] = "K'aresh treasure: Sand-Worn Coffer",
     [85837] = "K'aresh treasure: Forlorn Wind Chime",
     [86467] = "K'aresh treasure: Mailroom Distribution",
