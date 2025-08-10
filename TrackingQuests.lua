@@ -1082,4 +1082,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86467] = "K'aresh treasure: Mailroom Distribution",
     [86323] = "K'aresh treasure: Cruedly Stitched Sack",
     [86308] = "K'aresh treasure: Shattered Crystal",
+    [86322] = "K'aresh treasure: Skeletal Tail Bones",
+    [86492] = "K'aresh treasure: Ixthar's Favorite Crystal",
+    [86301] = "K'aresh treasure: Wastelander Stash",
+    [91352] = "K'aresh treasure: Lightly-Dented Luggage",
 }
