@@ -378,6 +378,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81341] = "Engineering First Time Craft: P.0.W. x2",
     [81314] = "Engineering First Time Craft: Aqirite Brainwave Projector",
     [81307] = "Engineering First Time Craft: Blasting Bracers",
+    [86630] = "Engineering: Wormhole Generator: Undermine unlocked",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Fishing
@@ -708,6 +709,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83745] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in Faerin's Advance",
     [83746] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in MMarl",
     [83747] = "Azj-Kahet Achievement: No Harm Ever Came From Reading A Book: Talked to clone in The Weaver's Lair",
+    [81700] = "Azj-Kahet Rare: Vilewing killed",
     [81702] = "Azj-Kahet Rare: Kaheti Silk Hauler killed (daily)",
     [84071] = "Azj-Kahet Rare: Kaheti Silk Hauler The Severed Threads reputation loot (weekly, account)",
     [91162] = "Azj-Kahet Rare: Kaheti Silk Hauler Flame's Radiance reputation loot (daily, account)",
@@ -942,6 +944,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86790] = "Sidestreet Sluice - Sturdy Chest in near rare crab, bottom left on map The Pits (account, onetime)",
     [86789] = "Sidestreet Sluice - Sturdy Chest in The High Decks (account, onetime)",
     [83683] = "Kriegvals Rest - Sturdy Chest near checkpoint (account, onetime)",
+    [83692] = "Archival Assault - Sturdy chest top of central area (account, onetime)",
+    [83693] = "Archival Assault - Sturdy chest on top of stairs after Leymor boss area (account, onetime)",
     [84101] = "Brann reached Level 40 (account, onetime)",
     [84102] = "Brann reached Level 41 (account, onetime)",
     [84103] = "Brann reached Level 42 (account, onetime)",
