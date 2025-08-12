@@ -1025,10 +1025,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
     [39751] = "Classic Timewalking LFG completion",
-    [84736] = "1/4 Restored Coffer Key looted of the week",
-    [84737] = "2/4 Restored Coffer Key looted of the week",
-    [84738] = "3/4 Restored Coffer Key looted of the week",
-    [84739] = "4/4 Restored Coffer Key looted of the week",
+    [84736] = "1/4 Restored Coffer Key looted of the week (Season 1+2)",
+    [84737] = "2/4 Restored Coffer Key looted of the week (Season 1+2)",
+    [84738] = "3/4 Restored Coffer Key looted of the week (Season 1+2)",
+    [84739] = "4/4 Restored Coffer Key looted of the week (Season 1+2)",
+    [91175] = "1/4 Restored Coffer Key looted of the week (Season 3)",
+    [91176] = "2/4 Restored Coffer Key looted of the week (Season 3)",
+    [91177] = "3/4 Restored Coffer Key looted of the week (Season 3)",
+    [91178] = "4/4 Restored Coffer Key looted of the week (Season 3)",
     [90597] = "Arsenal: Children's Stormwind Guard Weapon Set",
     [90598] = "Arsenal: Children's Orgrimmar Guard Weapon Set",
 
