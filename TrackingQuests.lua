@@ -228,6 +228,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82542] = "Rooktender Lufsela Stay a while and listen in front of Thrall, Shraubendre",
     [84813] = "Rooktender Lufsela Stay a while and listen in Dhar Oztan",
     [86400] = "Received free Carved Undermine Crest for Crest Transmutation (86401)",
+    [91744] = "Received free Carved Ethereal Crest for Crest Transmutation S3 (86365)",
     [86878] = "Used Nightfall Sanctum Campsite",
 
     -- -----------------------------------------------------------------------------------------------------------------------
