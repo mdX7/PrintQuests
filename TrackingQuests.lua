@@ -1093,6 +1093,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90600] = "Stay awhile and Listen - Xal'atath, Alleria and Locus-Walker in Myzas Oasis",
     [85774] = "Stay awhile and Listen - Xal'atath in Eco-Dome: Rhovan",
     [86815] = "Stay awhile and Listen - Xal'atath in Castigaar Upper Camp",
+    [90614] = "Stay awhile and Listen - Locus Walker, Xal'atath and Alleria infront of the entrance of Manaforge Omega",
     [85840] = "K'aresh treasure: Sand-Worn Coffer",
     [85837] = "K'aresh treasure: Forlorn Wind Chime",
     [86467] = "K'aresh treasure: Mailroom Distribution",
