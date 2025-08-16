@@ -62,6 +62,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92626] = "After turning in The Shadowguard Shattered (84967)",
     
     [91812] = "Completed after rewarding The Tabiqa (84910) (accwide)",
+    
+    [92032] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
+    [92033] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -1127,4 +1130,32 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86492] = "K'aresh treasure: Ixthar's Favorite Crystal",
     [86301] = "K'aresh treasure: Wastelander Stash",
     [91352] = "K'aresh treasure: Lightly-Dented Luggage",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Manaforge Omega
+    [91021] = "Manaforge Omega: Killed Darkmage Zadus",
+    [90977] = "Manaforge Omega LFR: Killed Darkmage Zadus",
+    [90978] = "Manaforge Omega Normal: Killed Darkmage Zadus",
+    [90979] = "Manaforge Omega Heroic: Killed Darkmage Zadus",
+    [91019] = "Manaforge Omega: Killed Watcher Gaz'Kreth",
+    -- [xxxxx] = "Manaforge Omega LFR: Killed Watcher Gaz'Kreth",
+    [90982] = "Manaforge Omega Normal: Killed Watcher Gaz'Kreth",
+    [90983] = "Manaforge Omega Heroic: Killed Watcher Gaz'Kreth",
+    [91020] = "Manaforge Omega: Killed The Bone Melter",
+    -- [xxxxx] = "Manaforge Omega LFR: Killed The Bone Melter",
+    [90990] = "Manaforge Omega Normal: Killed The Bone Melter",
+    [90991] = "Manaforge Omega Heroic: Killed The Bone Melter",
+    [91018] = "Manaforge Omega: Killed Enforcer Jak'tull",
+    -- [xxxxx] = "Manaforge Omega LFR: Killed Enforcer Jak'tull",
+    [90986] = "Manaforge Omega Normal: Killed Enforcer Jak'tull",
+    [90987] = "Manaforge Omega Heroic: Killed Enforcer Jak'tull",
+    
+    [91010] = "Manaforge Omega: Killed boss Sentinel Plexus",
+    [91012] = "Manaforge Omega: Killed boss Loomithar",
+    [91011] = "Manaforge Omega: Killed boss Soulbinder Naazindhr",
+    [91013] = "Manaforge Omega: Killed boss Forgeweaver Araz",
+    [91014] = "Manaforge Omega: Killed boss The Soul Hunters",
+    [91015] = "Manaforge Omega: Killed boss Fractillus",
+    [91016] = "Manaforge Omega: Killed boss Salhadaar",
+    [91017] = "Manaforge Omega: Killed boss Dimensius",
 }
