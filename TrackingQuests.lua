@@ -55,9 +55,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
     [87386] = "Horrific Visions Revisited: Full clear with 5 masks",
     [88912] = "Horrific Visions Revisited: Full clear with 5 masks",
-
-    [87429] = "Horrific Visions Revisited: Corrupted area clear?",
-    [87430] = "Horrific Visions Revisited: Lost area clear?",
     
     [92626] = "After turning in The Shadowguard Shattered (84967)",
     
@@ -1083,6 +1080,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Horrific Visions Revisited
     [87428] = "Horrific Visions Revisited: Ended (completion/fail)",
     [87431] = "Horrific Visions Revisited: Completion",
+    [87429] = "Horrific Visions Revisited: Lost area clear",
+    [87430] = "Horrific Visions Revisited: Corrupted area clear",
     [90709] = "Used Warbound Purifying Kit",
     [90710] = "Used Enchanted Warbound Purifying Kit",
     [90129] = "Retrieved Voidfire Deathcycle from Vision",
@@ -1160,4 +1159,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91015] = "Manaforge Omega: Killed boss Fractillus",
     [91016] = "Manaforge Omega: Killed boss Salhadaar",
     [91017] = "Manaforge Omega: Killed boss Dimensius",
+    [91064] = "Stay awhile and listen: Alleria Windrunnner after defeating Dimensius",
 }
