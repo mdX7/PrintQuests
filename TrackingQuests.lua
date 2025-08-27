@@ -286,6 +286,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Blacksmithing
+    [83256] = "Blacksmithing: Dense Bladestone looted (weekly)",
     [83726] = "Blacksmithing: Algari Treatise on Blacksmithing used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -402,6 +403,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Herbalism
     [79907] = "Herbalism: First Lush Mycobloom looted",
+    [79909] = "Herbalism: First Altered Mycobloom looted",
     [79914] = "Herbalism: First Lush Luredrop looted",
     [79915] = "Herbalism: First Crystallized Luredrop looted",
     [79917] = "Herbalism: First Irradiated Luredrop looted",
@@ -1116,6 +1118,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
+    [90954] = "Learned Reshii Regalia transmog set",
     [90600] = "Stay awhile and Listen - Xal'atath, Alleria and Locus-Walker in Myzas Oasis",
     [85774] = "Stay awhile and Listen - Xal'atath in Eco-Dome: Rhovan",
     [86815] = "Stay awhile and Listen - Xal'atath in Castigaar Upper Camp",
@@ -1153,6 +1156,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- [xxxxx] = "Manaforge Omega LFR: Enforcer Jak'tull BoE loot (weekly)",
     [90986] = "Manaforge Omega Normal: Enforcer Jak'tull BoE loot (weekly)",
     [90987] = "Manaforge Omega Heroic: Enforcer Jak'tull BoE loot (weekly)",
+    [91046] = "Manaforge Omega: Looted Loombeast Silk from Loomithar (weekly)",
 
     [91010] = "Manaforge Omega: Killed boss Sentinel Plexus (weekly)",
     [91012] = "Manaforge Omega: Killed boss Loomithar (weekly)",
@@ -1163,5 +1167,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91016] = "Manaforge Omega: Killed boss Salhadaar (weekly)",
     [91017] = "Manaforge Omega: Killed boss Dimensius (weekly)",
     [91064] = "Stay awhile and listen: Alleria Windrunnner after defeating Dimensius",
+    [91941] = "Ensemble: Vicious Charhound's Felcovers",
     [91951] = "Ensemble: Shawls of Channeled Fury",
 }
