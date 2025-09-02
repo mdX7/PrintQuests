@@ -1139,6 +1139,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91075] = "K'aresh first Wriggling Pinnacle Cache opened (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- Tazavesh
+    [92651] = "Tazavesh: Failed Hardmode attempt",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- Manaforge Omega
     [91021] = "Manaforge Omega: Darkmage Zadus reputation (weekly)",
     [90977] = "Manaforge Omega LFR: Darkmage Zadus BoE loot (weekly)",
