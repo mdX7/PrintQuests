@@ -182,6 +182,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82185] = "Used Delver's Dirigible Schematic: Zeppelin",
     [82187] = "Used Delver's Dirigible Schematic: Brown Paint",
     [82190] = "Used Delver's Dirigible Schematic: White Paint",
+    [82193] = "Used Delver's Dirigible Schematic: Explorer Decal",
     [83308] = "Used Delver's Dirigible Schematic: Void",
     [85175] = "Used Delver's Gob-Trotter Schematic: Harpoon",
     [85177] = "Used Delver's Gob-Trotter Schematic: Flamethrower",
@@ -191,6 +192,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86198] = "Used Delver's Dirigible Schematic: Pale Paint",
     [86199] = "Used Delver's Dirigible Schematic: Arathi Decal",
     [86296] = "Used Delver's Gob-Trotter Schematic: Gold",
+    [88814] = "Used Delver's Mana-Skimmer Schematic: Canister",
+    [88815] = "Used Delver's Mana-Skimmer Schematic: Quad Glider",
+    [88816] = "Used Delver's Mana-Skimmer Schematic: Emitter",
+    [88817] = "Used Delver's Mana-Skimmer Schematic: Void Paint",
+    [88819] = "Used Delver's Mana-Skimmer Schematic: Hyperdrive",
+    [88820] = "Used Delver's Mana-Skimmer Schematic: Energy Thrusters",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Dornogal
@@ -1119,6 +1126,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
     [90954] = "Learned Reshii Regalia transmog set",
+    [91916] = "Learned Ethereal Sash Cache",
     [90600] = "Stay awhile and Listen - Xal'atath, Alleria and Locus-Walker in Myzas Oasis",
     [85774] = "Stay awhile and Listen - Xal'atath in Eco-Dome: Rhovan",
     [86815] = "Stay awhile and Listen - Xal'atath in Castigaar Upper Camp",
@@ -1171,6 +1179,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91016] = "Manaforge Omega: Killed boss Salhadaar (weekly)",
     [91017] = "Manaforge Omega: Killed boss Dimensius (weekly)",
     [91064] = "Stay awhile and listen: Alleria Windrunnner after defeating Dimensius",
+    [91939] = "Ensemble: Hollow Sentinel's Wingdrapes",
     [91941] = "Ensemble: Vicious Charhound's Felcovers",
     [91951] = "Ensemble: Shawls of Channeled Fury",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 11.2 misc
+    [91521] = "Used K'areshi Voidstone (account)",
 }
