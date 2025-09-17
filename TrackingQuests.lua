@@ -237,6 +237,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86400] = "Received free Carved Undermine Crest for Crest Transmutation (86401)",
     [91744] = "Received free Carved Ethereal Crest for Crest Transmutation S3 (86365)",
     [86878] = "Used Nightfall Sanctum Campsite",
+    [85685] = "Weekly Fractured Spark of Starlight",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Severed Threads
@@ -294,6 +295,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Blacksmithing
     [83256] = "Blacksmithing: Dense Bladestone looted (weekly)",
+    [83257] = "Blacksmithing: Coreway Billet looted (weekly)",
     [83726] = "Blacksmithing: Algari Treatise on Blacksmithing used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -414,6 +416,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [79914] = "Herbalism: First Lush Luredrop looted",
     [79915] = "Herbalism: First Crystallized Luredrop looted",
     [79917] = "Herbalism: First Irradiated Luredrop looted",
+    [79919] = "Herbalism: First Sporefused Luredrop looted",
     [79920] = "Herbalism: First Orbinid looted",
     [79921] = "Herbalism: First Lush Orbinid looted",
     [79922] = "Herbalism: First Crystallized Orbinid looted",
@@ -1058,6 +1061,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Misc
+    [39695] = "Used Vantus Rune (weekly)",
     [39751] = "Classic Timewalking LFG completion",
     [84736] = "1/4 Restored Coffer Key looted of the week (Season 1+2)",
     [84737] = "2/4 Restored Coffer Key looted of the week (Season 1+2)",
@@ -1144,6 +1148,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91352] = "K'aresh treasure: Lightly-Dented Luggage",
     [87352] = "K'aresh world boss kill (weekly, character)",
     [90783] = "K'aresh world boss loot (weekly, account)",
+    [90725] = "K'aresh Ba'eth's Request questline progress blocker (daily)",
     [91075] = "K'aresh first Wriggling Pinnacle Cache opened (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -1180,7 +1185,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91017] = "Manaforge Omega: Killed boss Dimensius (weekly)",
     [91064] = "Stay awhile and listen: Alleria Windrunnner after defeating Dimensius",
     [91939] = "Ensemble: Hollow Sentinel's Wingdrapes",
+    [91940] = "Ensemble: Plumes of the Mother Eagle",
     [91941] = "Ensemble: Vicious Charhound's Felcovers",
+    [91942] = "Ensemble: Spellweaver's Immaculate Runecloaks",
+    [91943] = "Ensemble: Midnight Herald's Shrouds",
+    [91944] = "Ensemble: Augur's Ephemeral Brilliance",
+    [91945] = "Ensemble: Breeze of Fallen Storms",
+    [91946] = "Ensemble: Gilded Cloaks of the Lucent Battalion",
+    [91947] = "Ensemble: Memories of a Dying Star",
+    [91948] = "Ensemble: Capes of the Sudden Eclipse",
+    [91950] = "Ensemble: Inquisitor's All-Seeing Madness",
     [91951] = "Ensemble: Shawls of Channeled Fury",
 
     -- -----------------------------------------------------------------------------------------------------------------------
