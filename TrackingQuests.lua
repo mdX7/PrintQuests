@@ -159,6 +159,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90925] = "Ensemble: Bloodsail Smuggler's Attire",
     [90939] = "Ensemble: Golden Fleet's Sailing Garb",
     [90940] = "Ensemble: Zocalo Merchant's Wear",
+    [54852] = "Kul Tiran unlock questline: Named ship Anduin's Wrath",
+    [54853] = "Kul Tiran unlock questline: Named ship Dawnsailor",
+    [54854] = "Kul Tiran unlock questline: Named ship Tiffin's Melody",
+    [54855] = "Kul Tiran unlock questline: Named ship The Lionheart",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Exiles Reach
