@@ -62,6 +62,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [92032] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
     [92033] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
+    
+    [91934] = "After turning in Infinite Research Special Assignment, Here to Slay (93116)",
+    [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -124,6 +127,32 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Legion Intro
     [44659] = "Skip the Legion Introductory quests",
 
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Stormheim
+    [44508] = "Stormheim Worldboss: Nithogg Kill",
+    [38774] = "Stormheim Rare: Tiptog the Lost killed",
+    [40081] = "Stormheim Rare: Tarben killed",
+    [40095] = "Stormheim Treasure Chest: Hellmouth Shallows, underwater",
+    [38763] = "Stormheim Glimmering Treasure Chest: Terrace of the Watchers",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Highmountain
+    [40681] = "Highmountain Rare: Sekhan killed",
+    [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Suramar
+    [43495] = "Highmountain Rare: Cadraeus killed",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Trial of Valor
+    [46663] = "Trial of Valor Heroic: Odyn defeated",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Legion Remixw
+    [91851] = "Achieved Heroic Broken Isles World Quests I",
+    [92638] = "Druid: Learned Feldruid's Scornwing Idol",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
     [40621] = "Choose Beast Mastery Legendary Weapon questchain",
