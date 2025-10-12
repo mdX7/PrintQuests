@@ -160,6 +160,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40708] = "Choose Holy (Priest) Legendary weapon questchain",
     [40707] = "Choose Shadow Legendary weapon questchain",
     [40709] = "Choose Discipline Legendary weapon questchain",
+    [42167] = "Demonology warlock artifact quest Ritual Reagents (42128) - Killed Docile Stag with dark magic",
+    [42205] = "Demonology warlock artifact quest Dark Whispers (42125) - Calydus summoned portal",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Rogue Orderhall
