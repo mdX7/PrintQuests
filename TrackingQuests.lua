@@ -21,7 +21,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [86873] = "Sidestreet Sluice Tier 11 (Overcharged, Bountiful) clear + finished Delvers Journey Season 2?",
 
     [85463] = "Renown: The Cartels of Undermine Level 2",
-    [86371] = "Looted Delver's Bounty (weekly)",
     [87286] = "Excavation Site 9: The Underpin invasion (triggered), 2nd invasion that week",
     [85395] = "Fractured Spark of Fortunes related 5/x?",
     [86695] = "First daily Pristine Mysterious Satchel",
@@ -1078,6 +1077,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82189] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Red Paint",
     [82192] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Alliance Decal",
     [82194] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Horde Decal",
+    [86371] = "Looted Delver's Bounty (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
