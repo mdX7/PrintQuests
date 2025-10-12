@@ -137,20 +137,32 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Highmountain
     [40681] = "Highmountain Rare: Sekhan killed",
+    [39465] = "Highmountain Rare: Skullhat killed",
+    [39806] = "Highmountain Rare: Crawshuk the Hungry killed",
+    [39646] = "Highmountain Rare: Majestic Elderhorn killed",
+    [39762] = "Highmountain Rare: Shara Felbreath killed",
+    [40242] = "Highmountain Rare: Mellok, Son of Torok killed",
+    [39994] = "Highmountain Rare: Crab Rider Grmlrml killed",
+    [40096] = "Highmountain Rare: Mrrklr killed",
     [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
+    [40479] = "Highmountain Treasure Chest: The Witchwood",
+    [40496] = "Highmountain Treasure Chest: Rockcrawler Chasm",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
-    [43495] = "Highmountain Rare: Cadraeus killed",
+    [43495] = "Suramar Rare: Cadraeus killed",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
+    [45429] = "Trial of Valor Normal: Odyn defeated",
     [46663] = "Trial of Valor Heroic: Odyn defeated",
+    [46664] = "Trial of Valor Mythic: Odyn defeated",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remixw
     [91851] = "Achieved Heroic Broken Isles World Quests I",
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
+    [93155] = "Legionslayer III achieved",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
