@@ -62,7 +62,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92032] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
     [92033] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
     
-    [91934] = "After turning in Infinite Research Special Assignment, Here to Slay (93116)",
     [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
 }
 
@@ -133,6 +132,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40081] = "Stormheim Rare: Tarben killed",
     [40095] = "Stormheim Treasure Chest: Hellmouth Shallows, underwater",
     [38763] = "Stormheim Glimmering Treasure Chest: Terrace of the Watchers",
+    [40108] = "Stormheim Glimmering Treasure Chest: Watchman's Rock",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Highmountain
@@ -144,9 +144,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40242] = "Highmountain Rare: Mellok, Son of Torok killed",
     [39994] = "Highmountain Rare: Crab Rider Grmlrml killed",
     [40096] = "Highmountain Rare: Mrrklr killed",
+    [40405] = "Highmountain Rare: Bristlemaul killed",
+    [40347] = "Highmountain Rare: Gurbog da Basher killed",
     [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
     [40479] = "Highmountain Treasure Chest: The Witchwood",
     [40496] = "Highmountain Treasure Chest: Rockcrawler Chasm",
+    [42453] = "Highmountain Treasure Chest: Understone Breach",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
@@ -160,9 +163,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remixw
-    [91851] = "Achieved Heroic Broken Isles World Quests I",
+    [91851] = "Heroic Broken Isles World Quests I achieved",
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
     [93155] = "Legionslayer III achieved",
+    [91934] = "Turned in any Infinite Research Special Assignment",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
