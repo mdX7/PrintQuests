@@ -146,11 +146,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40096] = "Highmountain Rare: Mrrklr killed",
     [40405] = "Highmountain Rare: Bristlemaul killed",
     [40347] = "Highmountain Rare: Gurbog da Basher killed",
+    [44503] = "Highmountain Rare: Drugon the Frostblood killed",
     [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
     [40479] = "Highmountain Treasure Chest: The Witchwood",
     [40496] = "Highmountain Treasure Chest: Rockcrawler Chasm",
     [42453] = "Highmountain Treasure Chest: Understone Breach",
 
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Azsuna
+    [37537] = "Azsuna Rare: Ravyn-Drath killed",
+    [42221] = "Azsuna Rare: Chief Bitterbrine killed",
+    [38217] = "Azsuna Rare: Tide Behemoth killed",
+    [37989] = "Azsuna Rare: Syphonus killed",
+    [42284] = "Azsuna Small Treasure Chest: Nar'thalas Academy",
+    [38365] = "Azsuna Disupted Treasure: Old Coast Path",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
     [43495] = "Suramar Rare: Cadraeus killed",
@@ -160,9 +170,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [45429] = "Trial of Valor Normal: Odyn defeated",
     [46663] = "Trial of Valor Heroic: Odyn defeated",
     [46664] = "Trial of Valor Mythic: Odyn defeated",
+    [45228] = "Ensemble: Garb of the Chosen Dead",
     
     -- -----------------------------------------------------------------------------------------------------------------------
-    -- Legion Remixw
+    -- Legion Remix
     [91851] = "Heroic Broken Isles World Quests I achieved",
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
     [93155] = "Legionslayer III achieved",
