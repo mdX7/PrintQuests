@@ -126,6 +126,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [44659] = "Skip the Legion Introductory quests",
 
     -----------------------------------------------------------------------------------------------------------------------
+    -- Artifacts
+    [40781] = "Druid: Balance chosed 1st",
+    [43977] = "Druid: Guardian chosen 2nd",
+    [44433] = "Druid: Feral chosen 3rd",
+    
+    -----------------------------------------------------------------------------------------------------------------------
     -- Stormheim
     [44508] = "Stormheim Worldboss: Nithogg Kill",
     [38774] = "Stormheim Rare: Tiptog the Lost killed",
@@ -133,6 +139,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40095] = "Stormheim Treasure Chest: Hellmouth Shallows, underwater",
     [38763] = "Stormheim Glimmering Treasure Chest: Terrace of the Watchers",
     [40108] = "Stormheim Glimmering Treasure Chest: Watchman's Rock",
+    [43350] = "Halls of Valor: Securing the Aegis (40072) turnin",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Highmountain
@@ -152,6 +159,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40496] = "Highmountain Treasure Chest: Rockcrawler Chasm",
     [42453] = "Highmountain Treasure Chest: Understone Breach",
 
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Val'sharah
+    [39121] = "Val'sharah Rare: Kiranys Duskwhisper killed",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
     [37537] = "Azsuna Rare: Ravyn-Drath killed",
