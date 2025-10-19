@@ -138,7 +138,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40081] = "Stormheim Rare: Tarben killed",
     [38626] = "Stormheim Rare: Bloodstalker Alpha killed",
     [40093] = "Stormheim Small Treasure Chest: Tideskorn Harbor",
+    [40091] = "Stormheim Small Treasure Chest: Skold-Ashil",
     [40095] = "Stormheim Treasure Chest: Hellmouth Shallows, underwater",
+    [43195] = "Stormheim Treasure Chest: Gloomshore",
     [38763] = "Stormheim Glimmering Treasure Chest: Terrace of the Watchers",
     [40108] = "Stormheim Glimmering Treasure Chest: Watchman's Rock",
     [43350] = "Halls of Valor: Securing the Aegis (40072) turnin",
@@ -156,6 +158,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40405] = "Highmountain Rare: Bristlemaul killed",
     [40347] = "Highmountain Rare: Gurbog da Basher killed",
     [44503] = "Highmountain Rare: Drugon the Frostblood killed",
+    [40487] = "Highmountain Small Treasure Chest: Skyhorn",
     [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
     [40479] = "Highmountain Treasure Chest: The Witchwood",
     [40496] = "Highmountain Treasure Chest: Rockcrawler Chasm",
@@ -163,6 +166,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Val'sharah
+    [38893] = "Val'sharah Small Treasure Chest: The Undergorge",
+    [39079] = "Val'sharah Small Treasure Chest: Heathrow Manor",
+    [38386] = "Val'sharah Small Treasure Chest: Shadowfen",
+    [39084] = "Val'sharah Treasure Chest: Black Rook Hold",
+    [38781] = "Val'sharah Treasure Chest: Andu'talah in a cave",
     [39121] = "Val'sharah Rare: Kiranys Duskwhisper killed",
     [93243] = "Val'sharah Rare: Thondrax killed",
     
@@ -172,11 +180,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [42221] = "Azsuna Rare: Chief Bitterbrine killed",
     [38217] = "Azsuna Rare: Tide Behemoth killed",
     [37989] = "Azsuna Rare: Syphonus killed",
+    [37831] = "Azsuna Small Treasure Chest: El'dranil Shallows, in murloc tent",
+    [42281] = "Azsuna Small Treasure Chest: El'dranil Shallows",
+    [37596] = "Azsuna Small Treasure Chest: El'dranil Shallows",
+    [42287] = "Azsuna Small Treasure Chest: El'dranil Shallows, underwater",
     [42284] = "Azsuna Small Treasure Chest: Nar'thalas Academy",
+    [42958] = "Azsuna Small Treasure Chest: Felblaze Ingress, in tree",
+    [40752] = "Azsuna Small Treasure Chest: Garden of Elune",
     [38365] = "Azsuna Disupted Treasure: Old Coast Path",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
+    [43846] = "Suramar Small Treasure Chest: Feathermane Hunting Grounds",
     [43495] = "Suramar Rare: Cadraeus killed",
     
     -----------------------------------------------------------------------------------------------------------------------
