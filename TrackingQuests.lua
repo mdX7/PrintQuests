@@ -136,6 +136,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [44508] = "Stormheim Worldboss: Nithogg Kill",
     [38774] = "Stormheim Rare: Tiptog the Lost killed",
     [40081] = "Stormheim Rare: Tarben killed",
+    [38626] = "Stormheim Rare: Bloodstalker Alpha killed",
+    [40093] = "Stormheim Small Treasure Chest: Tideskorn Harbor",
     [40095] = "Stormheim Treasure Chest: Hellmouth Shallows, underwater",
     [38763] = "Stormheim Glimmering Treasure Chest: Terrace of the Watchers",
     [40108] = "Stormheim Glimmering Treasure Chest: Watchman's Rock",
@@ -162,6 +164,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Val'sharah
     [39121] = "Val'sharah Rare: Kiranys Duskwhisper killed",
+    [93243] = "Val'sharah Rare: Thondrax killed",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
