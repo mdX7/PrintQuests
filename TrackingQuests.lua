@@ -133,7 +133,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Stormheim
-    [44508] = "Stormheim Worldboss: Nithogg Kill",
+    [44508] = "Stormheim Worldboss: Nithogg killed",
     [38774] = "Stormheim Rare: Tiptog the Lost killed",
     [40081] = "Stormheim Rare: Tarben killed",
     [38626] = "Stormheim Rare: Bloodstalker Alpha killed",
@@ -191,8 +191,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
+    [44507] = "Suramar Worldboss: Na'zak the Fiend killed",
+    [44501] = "Suramar Worldboss: Ana-Mouz killed",
     [43846] = "Suramar Small Treasure Chest: Feathermane Hunting Grounds",
+    [43835] = "Suramar Small Treasure Chest: The Fel Breach",
+    [44678] = "Suramar Ancient Mana Shard: Meredil",
     [43495] = "Suramar Rare: Cadraeus killed",
+    [43580] = "Suramar Rare: Apothecary Faldren killed",
+    [43603] = "Suramar Rare: Randril killed",
+    [43481] = "Suramar Rare: Arcanist Lylandre killed",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
