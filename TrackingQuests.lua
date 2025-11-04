@@ -63,6 +63,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92033] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
     
     [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
+    
+    [94420] = "After killing Attumen the Huntsman/Completing +11 Lower Kara",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -200,6 +202,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43580] = "Suramar Rare: Apothecary Faldren killed",
     [43603] = "Suramar Rare: Randril killed",
     [43481] = "Suramar Rare: Arcanist Lylandre killed",
+    [43449] = "Suramar Rare: Oreth the Vile killed",
+    [43351] = "Suramar Rare: Mal'Dreth the Corruptor killed",
+    [43954] = "Suramar Rare: Anax killed",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
@@ -207,6 +212,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [46663] = "Trial of Valor Heroic: Odyn defeated",
     [46664] = "Trial of Valor Mythic: Odyn defeated",
     [45228] = "Ensemble: Garb of the Chosen Dead",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- The Nighthold
+    [45323] = "The Nighthold: Krosus defeated",
+    [45328] = "The Nighthold Normal: Krosus defeated",
+    [46330] = "The Nighthold Heroic: Krosus defeated",
+    [46331] = "The Nighthold Mythic: Krosus defeated",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remix
@@ -243,7 +255,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Return to Karazhan
     [45393] = "Return to Karazhan: Moroes encounter end scene played",
     [45394] = "Return to Karazhan: Maiden of Virtue encounter end scene played",
-    [45395] = "Return to Karazhan: Shade of Medivh encounter end scene played",
+    [45395] = "Return to Karazhan: The Curator encounter end scene played",
     [45396] = "Return to Karazhan: Mana Devourer encounter end scene played",
     
     -----------------------------------------------------------------------------------------------------------------------
