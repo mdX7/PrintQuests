@@ -1400,7 +1400,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85111] = "The K'aresh Trust Renown unlock",
     [92627] = "The K'aresh Trust Renown 2",
     [92628] = "The K'aresh Trust Renown 3: Unlocks Warrants",
-    
+    [91915] = "Learned K'areshi Ribbon Stash",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- K'aresh
     [90954] = "Learned Reshii Regalia transmog set",
