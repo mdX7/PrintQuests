@@ -204,9 +204,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [44501] = "Suramar Worldboss: Ana-Mouz killed",
     [43846] = "Suramar Small Treasure Chest: Feathermane Hunting Grounds",
     [43835] = "Suramar Small Treasure Chest: The Fel Breach",
+    [43854] = "Suramar Small Treasure Chest: Inside Tel'anor Cave",
+    [43834] = "Suramar Treasure Chest: The Lightbreaker",
+    [43850] = "Suramar Treasure Chest: Cliffclutch Roost",
     [43747] = "Suramar Shimmering Ancient Mana Cluster: Falanaar Tunnels",
     [44678] = "Suramar Ancient Mana Shard: Meredil",
     [42742] = "Suramar Kel'danath's Manaflask used: +100 Ancient Mana max",
+    [43986] = "Suramar Enchanted Burial Urn used: +100 Ancient Mana max",
     [43495] = "Suramar Rare: Cadraeus killed",
     [43580] = "Suramar Rare: Apothecary Faldren killed",
     [43603] = "Suramar Rare: Randril killed",
@@ -219,6 +223,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Broken Shore
     [47086] = "Broken Shore Worldboss: Malificus defeated",
     [47084] = "Broken Shore Worldboss: Apocron defeated",
+    [46951] = "Broken Shore Rare: Fillurlokkr defeated",
+    [47036] = "Broken Shore Rare: Duke Sithizi defeated",
+    [47036] = "Broken Shore Rare: Emberfire defeated",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
@@ -390,6 +397,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87165] = "Ensemble: Moonfall Robes", 
     [92889] = "Arsenal: Odyn's Spears", 
     [92615] = "Arsenal: Arms of the Felforged Knight", 
+    [92588] = "Fallen King's Corrupted Blades", 
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
