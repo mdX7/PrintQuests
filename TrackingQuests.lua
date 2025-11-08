@@ -69,6 +69,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [48064] = "Tomb of Sargeras: Goroth Intro?",
     
     [47195] = "Stormheim Legion Assault finished? First Assault finished?",
+    
+    [91962] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 1/2",
+    [93033] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 2/2",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
