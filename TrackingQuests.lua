@@ -64,7 +64,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
     
-    [94420] = "After killing Attumen the Huntsman/Completing +11 Lower Kara",
+    [94420] = "After completing +11 Lower Kara/+30 Upper Kara",
     
     [48064] = "Tomb of Sargeras: Goroth Intro?",
     
@@ -188,6 +188,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
+    [44502] = "Azsuna Worldboss: Calamir killed",
     [37537] = "Azsuna Rare: Ravyn-Drath killed",
     [42221] = "Azsuna Rare: Chief Bitterbrine killed",
     [38217] = "Azsuna Rare: Tide Behemoth killed",
@@ -221,6 +222,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43449] = "Suramar Rare: Oreth the Vile killed",
     [43351] = "Suramar Rare: Mal'Dreth the Corruptor killed",
     [43954] = "Suramar Rare: Anax killed",
+    [43795] = "Suramar: Rovendros freed in Teloth'aran",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Broken Shore
