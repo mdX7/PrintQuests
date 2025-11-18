@@ -72,6 +72,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [91962] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 1/2",
     [93033] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 2/2",
+    
+    [47661] = "Broken Shore: Entered zone? 1/2",
+    [47699] = "Broken Shore: Entered zone? 2/2",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -188,6 +191,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
+    [44506] = "Azsuna Worldboss: Levantus killed",
     [44502] = "Azsuna Worldboss: Calamir killed",
     [37537] = "Azsuna Rare: Ravyn-Drath killed",
     [42221] = "Azsuna Rare: Chief Bitterbrine killed",
@@ -222,6 +226,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43449] = "Suramar Rare: Oreth the Vile killed",
     [43351] = "Suramar Rare: Mal'Dreth the Corruptor killed",
     [43954] = "Suramar Rare: Anax killed",
+    [43794] = "Suramar Rare: Ambassador D'vwinn killed",
+    [43793] = "Suramar Rare: Miasu killed",
     [43795] = "Suramar: Rovendros freed in Teloth'aran",
     
     -----------------------------------------------------------------------------------------------------------------------
