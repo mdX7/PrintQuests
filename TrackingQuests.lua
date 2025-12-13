@@ -64,8 +64,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
     
-    [94420] = "After completing +11 Lower Kara/+30 Upper Kara",
-    
     [48064] = "Tomb of Sargeras: Goroth Intro?",
     
     [47195] = "Stormheim Legion Assault finished? First Assault finished?",
@@ -75,6 +73,10 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [47661] = "Broken Shore: Entered zone? 1/2",
     [47699] = "Broken Shore: Entered zone? 2/2",
+    
+    [45405] = "Suramar Insurrection: Turned in Breaching the Sanctum (44719)",
+    
+    [95270] = "Legion Remix: Lost Legion Infernal something?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -142,6 +144,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40781] = "Druid: Balance chosed 1st",
     [43977] = "Druid: Guardian chosen 2nd",
     [44433] = "Druid: Feral chosen 3rd",
+    [44326] = "Druid Hidden Artifact Appearance: Daily Dreamway Event Roll",
+    [44328] = "Druid Hidden Artifact Appearance: Hinterlands - Owlcat Stone active",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Stormheim
@@ -215,7 +219,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43854] = "Suramar Small Treasure Chest: Inside Tel'anor Cave",
     [43834] = "Suramar Treasure Chest: The Lightbreaker",
     [43850] = "Suramar Treasure Chest: Cliffclutch Roost",
+    [43863] = "Suramar Treasure Chest: Azuregale Bale (in a cave)",
     [43747] = "Suramar Shimmering Ancient Mana Cluster: Falanaar Tunnels",
+    [43743] = "Suramar Shimmering Ancient Mana Cluster: Elor'shan",
     [44678] = "Suramar Ancient Mana Shard: Meredil",
     [42742] = "Suramar Kel'danath's Manaflask used: +100 Ancient Mana max",
     [43986] = "Suramar Enchanted Burial Urn used: +100 Ancient Mana max",
@@ -227,7 +233,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43351] = "Suramar Rare: Mal'Dreth the Corruptor killed",
     [43954] = "Suramar Rare: Anax killed",
     [43794] = "Suramar Rare: Ambassador D'vwinn killed",
-    [43793] = "Suramar Rare: Miasu killed",
+    [43793] = "Suramar Rare: Miasu killed", 
     [43795] = "Suramar: Rovendros freed in Teloth'aran",
     
     -----------------------------------------------------------------------------------------------------------------------
@@ -266,8 +272,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
     [93155] = "Legionslayer III achieved",
     [91934] = "Used Infinite Research reset choices gossip (blocks gossip until completing another research)",
+    [94420] = "Mythic+ Key completed (daily)",
     [94421] = "Mythic+30 Key completed successfully",
     [92540] = "Any Broken Shore Worldboss defeated",
+    [93154] = "Heroic Broken Isles World Quests IV achieved",
     [87185] = "Ensemble: Bloodforged Battleplate",
     [87177] = "Ensemble: Raiment of Night Eternal", 
     [87182] = "Ensemble: Ravensteel Mail", 
