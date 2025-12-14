@@ -75,8 +75,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [47699] = "Broken Shore: Entered zone? 2/2",
     
     [45405] = "Suramar Insurrection: Turned in Breaching the Sanctum (44719)",
-    
-    [95270] = "Legion Remix: Lost Legion Infernal something?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -251,6 +249,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48362] = "Eredath Ancient Eredar Chest: Conservatory of the Arcane",
     [48350] = "Eredath Ancient Eredar Chest: Arinor Gardens",
     [48451] = "Vindicaar Matrix Core: Lights Judgment active",
+    [49166] = "Greater Invasion Point: Defeated Inquisitor Meto",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
@@ -283,7 +282,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94420] = "Mythic+ Key completed (daily)",
     [94421] = "Mythic+30 Key completed successfully",
     [92540] = "Any Broken Shore Worldboss defeated",
+    [92541] = "Defeated any Greater Invasion boss (daily)",
     [93154] = "Heroic Broken Isles World Quests IV achieved",
+    [95270] = "Legion Remix: Lost Legion Infernal killed (daily)",
     [87185] = "Ensemble: Bloodforged Battleplate",
     [87177] = "Ensemble: Raiment of Night Eternal", 
     [87182] = "Ensemble: Ravensteel Mail", 
