@@ -245,6 +245,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [47036] = "Broken Shore Rare: Emberfire defeated",
     
     -----------------------------------------------------------------------------------------------------------------------
+    -- Argus
+    [47753] = "Krokuun Eredar War Supplies: Darkfall Ridge",
+    [48336] = "Krokuun Eredar War Supplies: Shattered Fields (near entrance to Xenedar)",
+    [48362] = "Eredath Ancient Eredar Chest: Conservatory of the Arcane",
+    [48350] = "Eredath Ancient Eredar Chest: Arinor Gardens",
+    [48451] = "Vindicaar Matrix Core: Lights Judgment active",
+    
+    -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
     [45429] = "Trial of Valor Normal: Odyn defeated",
     [46663] = "Trial of Valor Heroic: Odyn defeated",
@@ -416,6 +424,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87165] = "Ensemble: Moonfall Robes", 
     [92889] = "Arsenal: Odyn's Spears", 
     [92615] = "Arsenal: Arms of the Felforged Knight", 
+    [92586] = "Felscorned Scythe of the Unmaker", 
     [92588] = "Fallen King's Corrupted Blades", 
     
     -----------------------------------------------------------------------------------------------------------------------
