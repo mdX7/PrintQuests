@@ -261,11 +261,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48385] = "Antoran Wastes Legion War Supplies: Fiend's Run",
     [49020] = "Antoran Wastes Legion Treasure Hoard: Collector's Hovel",
     [48451] = "Vindicaar Matrix Core: Lights Judgment active",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Argus Invasions
     [49166] = "Greater Invasion Point: Defeated Inquisitor Meto",
+    [49167] = "Greater Invasion Point: Defeated Mistress Alluradel",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
     [45429] = "Trial of Valor: Odyn defeated",
+    [46662] = "Trial of Valor Normal: Odyn defeated",
     [46663] = "Trial of Valor Heroic: Odyn defeated",
     [46664] = "Trial of Valor Mythic: Odyn defeated",
     [45228] = "Ensemble: Garb of the Chosen Dead",
@@ -296,7 +301,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92540] = "Any Broken Shore Worldboss defeated",
     [92541] = "Defeated any Greater Invasion boss (daily)",
     [93154] = "Heroic Broken Isles World Quests IV achieved",
-    [95270] = "Legion Remix: Lost Legion Infernal killed (daily)",
+    [95270] = "Legion Remix: Lost Legion Infernal Greater Bronze Cache (daily)",
     [87185] = "Ensemble: Bloodforged Battleplate",
     [87177] = "Ensemble: Raiment of Night Eternal", 
     [87182] = "Ensemble: Ravensteel Mail", 
