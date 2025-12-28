@@ -239,6 +239,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Broken Shore
     [47086] = "Broken Shore Worldboss: Malificus defeated",
     [47084] = "Broken Shore Worldboss: Apocron defeated",
+    [47090] = "Broken Shore Worldboss: Si'vash defeated",
     [46951] = "Broken Shore Rare: Fillurlokkr defeated",
     [47036] = "Broken Shore Rare: Duke Sithizi defeated",
     [47036] = "Broken Shore Rare: Emberfire defeated",
@@ -259,6 +260,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48388] = "Antoran Wastes Legion War Supplies: Shaper's Rise",
     [48391] = "Antoran Wastes Legion War Supplies: Ven'orn's Lair",
     [48385] = "Antoran Wastes Legion War Supplies: Fiend's Run",
+    [48389] = "Antoran Wastes Legion War Supplies: Pits of Punishment",
     [49020] = "Antoran Wastes Legion Treasure Hoard: Collector's Hovel",
     [48451] = "Vindicaar Matrix Core: Lights Judgment active",
     
@@ -266,10 +268,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Argus Invasions
     [49166] = "Greater Invasion Point: Defeated Inquisitor Meto",
     [49167] = "Greater Invasion Point: Defeated Mistress Alluradel",
+    [49170] = "Greater Invasion Point: Defeated Occularus",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
     [45429] = "Trial of Valor: Odyn defeated",
+    [46661] = "Trial of Valor LFR: Odyn defeated",
     [46662] = "Trial of Valor Normal: Odyn defeated",
     [46663] = "Trial of Valor Heroic: Odyn defeated",
     [46664] = "Trial of Valor Mythic: Odyn defeated",
