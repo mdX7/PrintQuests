@@ -252,9 +252,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48336] = "Krokuun Eredar War Supplies: Shattered Fields (near entrance to Xenedar)",
     [48000] = "Krokuun Eredar War Supplies: Petrified Forest",
     [48339] = "Krokuun Eredar War Supplies: Grova of Naroua",
+    [48886] = "Krokuun Lost Krokuul Chest: Krokuun",
     [48362] = "Eredath Ancient Eredar Chest: Conservatory of the Arcane",
     [48350] = "Eredath Ancient Eredar Chest: Arinor Gardens",
     [48371] = "Eredath Ancient Eredar Chest: The Seat of the Triumvirate",
+    [48351] = "Eredath Treasure Chest: Isolon",
+    [48744] = "Eredath Chest of Ill-Gotten Gains: Circle of Aspirants",
+    [48745] = "Eredath Student's Surprising Surplus: Eredath",
+    [48747] = "Eredath Void-Tinged Chest: Umbra Hollows",
+    [48743] = "Eredath Eredar Treasure Chest: Eredath",
+    [48748] = "Eredath Augari Secret Stash: Eredath",
     [49021] = "Antoran Wastes Timeworn Fel Chest: Antoran Wastes",
     [48387] = "Antoran Wastes Legion War Supplies: Shattered Chasm",
     [48382] = "Antoran Wastes Legion War Supplies: Felfire Armory",
@@ -271,6 +278,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [49166] = "Greater Invasion Point: Defeated Inquisitor Meto",
     [49167] = "Greater Invasion Point: Defeated Mistress Alluradel",
     [49170] = "Greater Invasion Point: Defeated Occularus",
+    [49169] = "Greater Invasion Point: Defeated Matron Folnuna",
+    [49171] = "Greater Invasion Point: Defeated Soranathor",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
