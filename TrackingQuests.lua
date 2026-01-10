@@ -68,8 +68,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [47195] = "Stormheim Legion Assault finished? First Assault finished?",
     
-    [91962] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 1/2",
-    [93033] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? 2/2",
+    [91962] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? (character)",
+    [93033] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? (account)",
     
     [47661] = "Broken Shore: Entered zone? 1/2",
     [47699] = "Broken Shore: Entered zone? 2/2",
@@ -574,6 +574,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Rogue Orderhall
     [50804] = "Rogue Orderhall: Entered Hall of Shadows for the first time",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Warlock Orderhall
+    [42118] = "Warlock Orderhall: Selected Kira Iresoul on quest Selecting a Sixth (41796)",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Warrior Orderhall
+    [41359] = "Warrior Orderhall: Unlocked Highmountain jump target",
+    [44060] = "Warrior Orderhall: Unlocked Azsuna jump target",
+    [44061] = "Warrior Orderhall: Unlocked Val'sharah jump target",
+    [44062] = "Warrior Orderhall: Unlocked Suramar jump target",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Mardum
