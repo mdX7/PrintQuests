@@ -322,6 +322,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remix
+    [92192] = "Watched Legion Attack on Dalaran after interacting with Moratari",
+    [90686] = "Opened loot window with Legion Armor Scraps (241211)",
+    [90864] = "Finished Legion Remix intro, enables skipping (account)",
     [90716] = "Looted Bronze Simulacrum",
     [91851] = "Heroic Broken Isles World Quests I achieved",
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
