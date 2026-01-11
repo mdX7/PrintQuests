@@ -75,6 +75,11 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [47699] = "Broken Shore: Entered zone? 2/2",
     
     [45405] = "Suramar Insurrection: Turned in Breaching the Sanctum (44719)",
+    
+    [43144] = "Suramar Building an Army: Looted Spellmask of Alla'onus 1/2",
+    [43128] = "Suramar Building an Army: Looted Spellmask of Alla'onus 2/2",
+    
+    [90787] = "First time interaction with Legion Obelisk (character)",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -129,6 +134,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90466] = "Dastardly Duos: Podium Upgrade: Yards Moved Last Game",
 
     -----------------------------------------------------------------------------------------------------------------------
+    -- Pepe
+    [43695] = "Pepe: Used A Tiny Pair of Goggles (The Tangerine Traveler)",
+    
+
+    -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
     [37186] = "The Art of War",
     [37193] = "The King's Command",
@@ -144,6 +154,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [44433] = "Druid: Feral chosen 3rd",
     [44326] = "Druid Hidden Artifact Appearance: Daily Dreamway Event Roll",
     [44328] = "Druid Hidden Artifact Appearance: Hinterlands - Owlcat Stone active",
+    [44327] = "Druid Hidden Artifact Appearance: Feralas - Owlcat Stone active",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Stormheim
@@ -236,6 +247,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43793] = "Suramar Rare: Miasu killed", 
     [43795] = "Suramar: Rovendros freed in Teloth'aran",
     
+    [43141] = "Suramar Building an Army: Looted Leyline Broodling",
+    [43143] = "Suramar Building an Army: Looted Ancient Mana Basin",
+    [93121] = "Suramar Building an Army: Built a Heroic Army (Heroic World Tier, min 200 Score)",
+    
     -----------------------------------------------------------------------------------------------------------------------
     -- Broken Shore
     [47086] = "Broken Shore Worldboss: Malificus defeated",
@@ -307,6 +322,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remix
+    [90716] = "Looted Bronze Simulacrum",
     [91851] = "Heroic Broken Isles World Quests I achieved",
     [92638] = "Druid: Learned Feldruid's Scornwing Idol",
     [93155] = "Legionslayer III achieved",
