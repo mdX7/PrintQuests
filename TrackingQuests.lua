@@ -80,6 +80,10 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [43128] = "Suramar Building an Army: Looted Spellmask of Alla'onus 2/2",
     
     [90787] = "First time interaction with Legion Obelisk (character)",
+    
+    [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
+    
+    [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -184,6 +188,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [40405] = "Highmountain Rare: Bristlemaul killed",
     [40347] = "Highmountain Rare: Gurbog da Basher killed",
     [44503] = "Highmountain Rare: Drugon the Frostblood killed",
+    [40414] = "Highmountain Rare: Devouring Darkness killed",
     [40487] = "Highmountain Small Treasure Chest: Skyhorn",
     [40471] = "Highmountain Treasure Chest: Hall of Chieftains, underwater",
     [40479] = "Highmountain Treasure Chest: The Witchwood",
@@ -194,6 +199,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Val'sharah
     [44509] = "Val'sharah Worldboss: Shar'thos killed",
+    [39121] = "Val'sharah Rare: Kiranys Duskwhisper killed",
+    [93243] = "Val'sharah Rare: Thondrax killed",
+    [38772] = "Val'sharah Rare: Theryssia killed",
     [38893] = "Val'sharah Small Treasure Chest: The Undergorge",
     [39079] = "Val'sharah Small Treasure Chest: Heathrow Manor",
     [38386] = "Val'sharah Small Treasure Chest: Shadowfen",
@@ -201,8 +209,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [39087] = "Val'sharah Small Treasure Chest: Moonclaw Vale ",
     [39084] = "Val'sharah Treasure Chest: Black Rook Hold",
     [38781] = "Val'sharah Treasure Chest: Andu'talah in a cave",
-    [39121] = "Val'sharah Rare: Kiranys Duskwhisper killed",
-    [93243] = "Val'sharah Rare: Thondrax killed",
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
@@ -212,6 +218,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [42221] = "Azsuna Rare: Chief Bitterbrine killed",
     [38217] = "Azsuna Rare: Tide Behemoth killed",
     [37989] = "Azsuna Rare: Syphonus killed",
+    [42376] = "Azsuna Rare: Inquisitor Tivos killed",
     [37831] = "Azsuna Small Treasure Chest: El'dranil Shallows, in murloc tent",
     [42281] = "Azsuna Small Treasure Chest: El'dranil Shallows",
     [37596] = "Azsuna Small Treasure Chest: El'dranil Shallows",
@@ -336,6 +343,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92541] = "Defeated any Greater Invasion boss (daily)",
     [93154] = "Heroic Broken Isles World Quests IV achieved",
     [95270] = "Legion Remix: Lost Legion Infernal Greater Bronze Cache + Pamphlet (daily)",
+    [95270] = "Legion Remix: Killed Infernal of the End Times",
     [87185] = "Ensemble: Bloodforged Battleplate",
     [87177] = "Ensemble: Raiment of Night Eternal", 
     [87182] = "Ensemble: Ravensteel Mail", 
@@ -581,6 +589,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
+    [62655] = "Artifact Campaign: Changed spec after starting artifact weapon campaign",
     [40621] = "Choose Beast Mastery Legendary Weapon questchain",
     [40619] = "Choose Survival Legendary Weapon questchain",
     [40620] = "Choose Marksmanship Legendary Weapon questchain",
@@ -590,13 +599,44 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [42167] = "Demonology warlock artifact quest Ritual Reagents (42128) - Killed Docile Stag with dark magic",
     [42205] = "Demonology warlock artifact quest Dark Whispers (42125) - Calydus summoned portal",
 
+    -- --------------------------------------------------------------------------------------------------------------------
+    -- Orderhall Generic
+    [43837] = "Orderhall: Unlocked Recruiter NPC",
+    [43901] = "Orderhall: Unlocked Apprentice Recruiter NPC",
+    [92107] = "Orderhall: First quest skip by Moratari",
+    [42118] = "Orderhall: Finished Orderhall Campaign (without mount)",
+
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Priest Orderhall
+    [44059] = "Priest Orderhall: Netherlight Temple attack started",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Shaman Orderhall
+    [43423] = "Mage Orderhall: Rewarded A Heroes Weapon",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Mage Orderhall
+    [47234] = "Mage Orderhall: Rewarded A Heroes Weapon",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Paladin Orderhall
+    [43688] = "Paladin Orderhall: Turned in Shard of Darkness",
+    [43666] = "Paladin Orderhall: Unlocked hidden artifact appearance: Corrupted Ashbringer",
+    
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Hunter Orderhall
+    [43158] = "Hunter Orderhall: Unlocked Death Hunter Moorgoth Vendor",
+    [43418] = "Hunter Orderhall: Rewarded A Heroes Weapon",
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Rogue Orderhall
     [50804] = "Rogue Orderhall: Entered Hall of Shadows for the first time",
+    [46790] = "Rogue Orderhall: Rewarded A Heroes Weapon",
+    [43672] = "Rogue Orderhall: Unlocked hidden artifact appearance: Venombite",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Warlock Orderhall
-    [42118] = "Warlock Orderhall: Selected Kira Iresoul on quest Selecting a Sixth (41796)",
+    [42085] = "Warlock Orderhall: Selected Lulubelle Fizzlebang on quest Selecting a Sixth (41796)",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Warrior Orderhall
