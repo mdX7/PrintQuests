@@ -677,6 +677,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [58883] = "Stitched Leather Boots looted",
     [59139] = "Spider-Eye Ring looted",
 
+    -----------------------------------------------------------------------------------------------------------------------
+    -- Forbidden Reach
+    [66010] = "The Forbidden Reach Treasure: Mysterious Wand",
+    [66965] = "The Forbidden Reach Treasure: Abandoned Weapon Rack",
+    [67013] = "The Forbidden Reach Treasure: Eviscerated Argali",
+    [65908] = "The Forbidden Reach Treasure: Suspicious Bottle",
+    [65909] = "The Forbidden Reach Treasure: Bag of Enchanted Wind",
+    [66974] = "The Forbidden Reach Treasure: Lost Draconic Hourglass",
+    [64859] = "The Forbidden Reach Rare: Stormspine",
+    [66966] = "The Forbidden Reach Rare: Deathrip",
+    [66967] = "The Forbidden Reach Rare: Scytherin",
+    [66975] = "The Forbidden Reach Rare: Ketess the Pillager",
+    [65910] = "The Forbidden Reach Rare: Tripletath the Lost",
+    [66973] = "The Forbidden Reach Rare: Tazenrath",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Dragonriding Cosmetics
     [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
@@ -750,6 +765,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91744] = "Received free Carved Ethereal Crest for Crest Transmutation S3 (86365)",
     [86878] = "Used Nightfall Sanctum Campsite",
     [85685] = "Weekly Fractured Spark of Starlight",
+    [93399] = "Shut up Geyarah conversation in Dornogal",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Severed Threads
@@ -827,6 +843,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80361] = "Mining: First Crystallized Ironclaw looted",
     [80362] = "Mining: First Weeping Bismuth looted",
     [80363] = "Mining: First Weeping Aqirite looted",
+    [80364] = "Mining: First Weeping Ironclaw looted",
     [80365] = "Mining: First EZ-Mine Bismuth looted",
     [80367] = "Mining: First EZ-Mine Ironclaw looted",
     [80368] = "Mining: First camouflaged Bismuth looted",
@@ -1062,6 +1079,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [84033] = "Isle of Dorn Rare: Twice-Stinger the Wretched killed weekly reputation",
     [85159] = "Isle of Dorn Rare: Zovex killed weekly reputation",
     [78619] = "Isle of Dorn Rare: Rustual Titancap killed daily",
+    [83620] = "Isle of Dorn Rare: Alunira removed shield",
+    [85158] = "Isle of Dorn Rare: Alunira weekly reputation (account)",
     [83093] = "Isle of Dorn: Dog summoned",
     [83094] = "Isle of Dorn: Faithful Dog pet obtained",
     [86818] = "Isle of Dorn: Archmage Aethas Sunreaver at Tranquil Stand stay a while and listen",
@@ -1635,6 +1654,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90953] = "D.I.S.C. Unlocked Charged Crystal",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- 11.1.7 misc
+    [91524] = "Stay awhile and listen: Captain Roderick Brewston after quest objectives of 84649 complete (rewarded not required)",
+    [91532] = "Stay awhile and listen: Faerin Lothar after quest objectives of 84651 and 84652 complete (rewarded not required)",
+    [91534] = "Stay awhile and listen: Eitrigg after quest objectives of 84704 complete (rewarded not required)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- The K'aresh Trust
     [85111] = "The K'aresh Trust Renown unlock",
     [92627] = "The K'aresh Trust Renown 2",
@@ -1721,4 +1746,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 11.2 misc
     [91521] = "Used K'areshi Voidstone (account)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 11.2.7 misc
+    [89227] = "Stay awhile and listen: Li Li on quest 84466",
+    [89270] = "Stay awhile and listen: Aysa Cloudsinger on quest 84467",
+    [87322] = "Stay awhile and listen: Arator on quest 85002",
+    [87378] = "Stay awhile and listen: Alleria Windrunner on quest 85213",
+    [91850] = "Stay awhile and listen: Sylvanas Windrunner on quest 84943",
+    [87418] = "Stay awhile and listen: Arator on quest 84949",
 }
