@@ -11,6 +11,37 @@ frame:RegisterEvent("QUEST_LOG_UPDATE")
 
 local function PrintQuest(printType, questID)
     local questName = C_QuestLog.GetTitleForQuestID(questID)
+    
+    -- dont print quests which are spammed since 12.0.0
+    if (questID == 94713 or 
+        questID == 94714 or 
+        questID == 94717 or 
+        questID == 94718 or 
+        questID == 94720 or 
+        questID == 94721 or 
+        questID == 95003 or 
+        questID == 94763 or 
+        questID == 94761 or 
+        questID == 94758 or 
+        questID == 94757 or 
+        questID == 94753 or 
+        questID == 94752 or 
+        questID == 94751 or 
+        questID == 94731 or 
+        questID == 94725 or 
+        questID == 94722 or 
+        questID == 94719 or 
+        questID == 94711 or 
+        questID == 94708 or 
+        questID == 94728 or 
+        questID == 92857 or -- Ta'readon's Mount Voucher
+        questID == 94759 or 
+        questID == 94760 or 
+        questID == 94762 or 
+        questID == 95044) then
+        return
+    end
+    
     if questName then
         print("Quest ".. printType ..": |cFF00FF00" .. questName .. "|r (ID: " .. questID .. ")")
     elseif PrintQuests.ConfidentlyNamedTrackingQuests[questID] then
