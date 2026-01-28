@@ -1,8 +1,10 @@
-## Interface: 110007,120000,120001,120005,120007,120100,120105,120107,120200,120205,120207
+## Interface: 120001, 110207, 120000
+
 ## Title: PrintQuests
 ## Version: 1.0.4
 ## Notes: Prints quests in chat
 ## Author: ModoX
 ## IconTexture: Interface\ICONS\Ability_druid_maul
+
 PrintQuests.lua
 TrackingQuests.lua
