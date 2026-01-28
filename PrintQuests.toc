@@ -1,4 +1,4 @@
-## Interface: 110007,120000,120001,120005,120007,120100,120105,120107,120200,120205,120207
+## Interface: 110007,120000,120001
 ## Title: PrintQuests
 ## Version: 1.0.4
 ## Notes: Prints quests in chat
