@@ -1756,4 +1756,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87378] = "Stay awhile and listen: Alleria Windrunner on quest 85213",
     [91850] = "Stay awhile and listen: Sylvanas Windrunner on quest 84943",
     [87418] = "Stay awhile and listen: Arator on quest 84949",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 12.0.0 pre-expansion event
+    [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
+    [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
 }
