@@ -98,6 +98,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Love is in the Air
     [74957] = "Love is in the Air: Increased X-45 Heartbreaker Droprate (daily, accwide)",
     [86172] = "Love is in the Air: Increased Love Witch's Sweeper Droprate (daily, accwide)",
+    [86726] = "Love is in the Air: Ensemble: Ornaments of the Spring Butterfly",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Midsummer
