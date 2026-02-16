@@ -97,8 +97,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Love is in the Air
     [74957] = "Love is in the Air: Increased X-45 Heartbreaker Droprate (daily, accwide)",
+    [79104] = "Love is in the Air: Renewed Proto-Drake: Love Armor Droprate (daily, accwide)",
     [86172] = "Love is in the Air: Increased Love Witch's Sweeper Droprate (daily, accwide)",
     [86726] = "Love is in the Air: Ensemble: Ornaments of the Spring Butterfly",
+    [94766] = "Love is in the Air: Increased Spring Butterfly Droprate (daily, accwide)",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Midsummer
@@ -695,6 +697,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Dragonriding Cosmetics
+    [79088] = "Used Renewed Proto-Drake: Love Armor",
     [79112] = "Used Winding Slitherdrake: Lunar Festival Armor",
     [82167] = "Used Delver's Dirigible Schematic: Front-Mounted Propeller",
     [82168] = "Used Delver's Dirigible Schematic: Drill",
