@@ -84,6 +84,12 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
     
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
+    
+    [93817] = "Enable Midnight (12.0) intro skip?",
+    
+    [82772] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 1/3",
+    [85719] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 2/3",
+    [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -866,6 +872,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82614] = "Mining Book: A Rocky Start used",
     [85742] = "Mining Book: Undermine Treatise on Mining used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
+    [88471] = "Mining: First Brilliant Silver looted",
+    [88484] = "Mining: First Lightfused Brilliant Silver looted",
+    [88475] = "Mining: First Refulgent Copper looted",
+    [88476] = "Mining: First Rich Refulgent Copper looted",
+    [88487] = "Mining: First Lightfused Refulgent Copper looted",
+    [88477] = "Mining: First Umbral Tin looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Enchanting
@@ -1582,6 +1594,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82194] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Horde Decal",
     [94713] = "Delver's Journey Season 3: Delver's Mana-Bound Ethergate unlocked",
     [86371] = "Looted Delver's Bounty (weekly)",
+    [94001] = "The Shadow Enclave - Sturdy Chest south, behind tent (account, onetime)",
+    [94002] = "The Shadow Enclave - Sturdy Chest middle (account, onetime)",
+    [94028] = "The Shadow Enclave - Sturdy Chest north (account, onetime)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
