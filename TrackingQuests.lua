@@ -54,35 +54,35 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
     [87386] = "Horrific Visions Revisited: Full clear with 5 masks",
     [88912] = "Horrific Visions Revisited: Full clear with 5 masks",
-    
+
     [92626] = "After turning in The Shadowguard Shattered (84967)",
-    
+
     [91812] = "Completed after rewarding The Tabiqa (84910) (accwide)",
-    
+
     [92032] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
     [92033] = "Related to entering Manaforge Omega or auto accept of Meet the Vandals (92031)",
-    
+
     [92835] = "After triggering Obelisk to spawn Challenger in Normal World Tier",
-    
+
     [48064] = "Tomb of Sargeras: Goroth Intro?",
-    
+
     [47195] = "Stormheim Legion Assault finished? First Assault finished?",
-    
+
     [91962] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? (character)",
     [93033] = "Legion Remix: Entered Infinite Bazaar platform in Dalaran? (account)",
-    
+
     [47661] = "Broken Shore: Entered zone? 1/2",
     [47699] = "Broken Shore: Entered zone? 2/2",
-    
+
     [45405] = "Suramar Insurrection: Turned in Breaching the Sanctum (44719)",
-    
+
     [43144] = "Suramar Building an Army: Looted Spellmask of Alla'onus 1/2",
     [43128] = "Suramar Building an Army: Looted Spellmask of Alla'onus 2/2",
-    
+
     [90787] = "First time interaction with Legion Obelisk (character)",
-    
+
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
-    
+
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
     
     [93817] = "Enable Midnight (12.0) intro skip?",
@@ -149,7 +149,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Pepe
     [43695] = "Pepe: Used A Tiny Pair of Goggles (The Tangerine Traveler)",
-    
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Pandaria Intro
@@ -168,7 +167,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [44326] = "Druid Hidden Artifact Appearance: Daily Dreamway Event Roll",
     [44328] = "Druid Hidden Artifact Appearance: Hinterlands - Owlcat Stone active",
     [44327] = "Druid Hidden Artifact Appearance: Feralas - Owlcat Stone active",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Stormheim
     [44508] = "Stormheim Worldboss: Nithogg killed",
@@ -218,7 +217,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [39087] = "Val'sharah Small Treasure Chest: Moonclaw Vale ",
     [39084] = "Val'sharah Treasure Chest: Black Rook Hold",
     [38781] = "Val'sharah Treasure Chest: Andu'talah in a cave",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Azsuna
     [44506] = "Azsuna Worldboss: Levantus killed",
@@ -236,7 +235,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [42958] = "Azsuna Small Treasure Chest: Felblaze Ingress, in tree",
     [40752] = "Azsuna Small Treasure Chest: Garden of Elune",
     [38365] = "Azsuna Disupted Treasure: Old Coast Path",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Suramar
     [44507] = "Suramar Worldboss: Na'zak the Fiend killed",
@@ -260,13 +259,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [43351] = "Suramar Rare: Mal'Dreth the Corruptor killed",
     [43954] = "Suramar Rare: Anax killed",
     [43794] = "Suramar Rare: Ambassador D'vwinn killed",
-    [43793] = "Suramar Rare: Miasu killed", 
+    [43793] = "Suramar Rare: Miasu killed",
     [43795] = "Suramar: Rovendros freed in Teloth'aran",
-    
+
     [43141] = "Suramar Building an Army: Looted Leyline Broodling",
     [43143] = "Suramar Building an Army: Looted Ancient Mana Basin",
     [93121] = "Suramar Building an Army: Built a Heroic Army (Heroic World Tier, min 200 Score)",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Broken Shore
     [47086] = "Broken Shore Worldboss: Malificus defeated",
@@ -275,7 +274,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [46951] = "Broken Shore Rare: Fillurlokkr defeated",
     [47036] = "Broken Shore Rare: Duke Sithizi defeated",
     [47036] = "Broken Shore Rare: Emberfire defeated",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Argus
     [43369] = "Krokuun Rare: Siegemaster Voraan",
@@ -303,7 +302,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48389] = "Antoran Wastes Legion War Supplies: Pits of Punishment",
     [49020] = "Antoran Wastes Legion Treasure Hoard: Collector's Hovel",
     [48451] = "Vindicaar Matrix Core: Lights Judgment active",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Argus Invasions
     [49166] = "Greater Invasion Point: Defeated Inquisitor Meto",
@@ -311,7 +310,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [49170] = "Greater Invasion Point: Defeated Occularus",
     [49169] = "Greater Invasion Point: Defeated Matron Folnuna",
     [49171] = "Greater Invasion Point: Defeated Soranathor",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Trial of Valor
     [45429] = "Trial of Valor: Odyn defeated",
@@ -320,14 +319,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [46663] = "Trial of Valor Heroic: Odyn defeated",
     [46664] = "Trial of Valor Mythic: Odyn defeated",
     [45228] = "Ensemble: Garb of the Chosen Dead",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- The Nighthold
     [45323] = "The Nighthold: Krosus defeated",
     [45328] = "The Nighthold Normal: Krosus defeated",
     [46330] = "The Nighthold Heroic: Krosus defeated",
     [46331] = "The Nighthold Mythic: Krosus defeated",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Tomb of Sargeras
     [48651] = "Tomb of Sargeras: Kil'jaeden defeated",
@@ -335,7 +334,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [48083] = "Tomb of Sargeras Normal: Kil'jaeden defeated",
     [48084] = "Tomb of Sargeras Heroic: Kil'jaeden defeated",
     [48085] = "Tomb of Sargeras Mythic: Kil'jaeden defeated",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Legion Remix
     [92192] = "Watched Legion Attack on Dalaran after interacting with Moratari",
@@ -354,143 +353,143 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [95270] = "Legion Remix: Lost Legion Infernal Greater Bronze Cache + Pamphlet (daily)",
     [95270] = "Legion Remix: Killed Infernal of the End Times",
     [87185] = "Ensemble: Bloodforged Battleplate",
-    [87177] = "Ensemble: Raiment of Night Eternal", 
-    [87182] = "Ensemble: Ravensteel Mail", 
-    [87169] = "Ensemble: Chains of Nightmare's Embrace", 
-    [87180] = "Ensemble: Guise of the Nightstalker", 
-    [87184] = "Ensemble: Honorforged Valorplate", 
-    [87186] = "Ensemble: Nightforged Felplate", 
-    [87167] = "Ensemble: Nighthide Coat", 
-    [87176] = "Ensemble: Sanguine Oath Vestments", 
-    [87183] = "Ensemble: Scalemail of Devouring Night", 
-    [87164] = "Ensemble: Seawitch's Terrorcloth", 
-    [87172] = "Ensemble: Suramar Silver Plating", 
-    [87179] = "Ensemble: Thirsting Hides", 
-    [87175] = "Ensemble: Vesture of Borrowed Souls", 
-    [65716] = "Ensemble: Barkbinds of the Archdruid's Nightmare", 
-    [87055] = "Ensemble: Battleplate of the Highlord 1/4", 
-    [87056] = "Ensemble: Battleplate of the Highlord 2/4", 
-    [87057] = "Ensemble: Battleplate of the Highlord 3/4", 
+    [87177] = "Ensemble: Raiment of Night Eternal",
+    [87182] = "Ensemble: Ravensteel Mail",
+    [87169] = "Ensemble: Chains of Nightmare's Embrace",
+    [87180] = "Ensemble: Guise of the Nightstalker",
+    [87184] = "Ensemble: Honorforged Valorplate",
+    [87186] = "Ensemble: Nightforged Felplate",
+    [87167] = "Ensemble: Nighthide Coat",
+    [87176] = "Ensemble: Sanguine Oath Vestments",
+    [87183] = "Ensemble: Scalemail of Devouring Night",
+    [87164] = "Ensemble: Seawitch's Terrorcloth",
+    [87172] = "Ensemble: Suramar Silver Plating",
+    [87179] = "Ensemble: Thirsting Hides",
+    [87175] = "Ensemble: Vesture of Borrowed Souls",
+    [65716] = "Ensemble: Barkbinds of the Archdruid's Nightmare",
+    [87055] = "Ensemble: Battleplate of the Highlord 1/4",
+    [87056] = "Ensemble: Battleplate of the Highlord 2/4",
+    [87057] = "Ensemble: Battleplate of the Highlord 3/4",
     [87058] = "Ensemble: Battleplate of the Highlord 4/4",
-    [87188] = "Ensemble: Blazing Dreamscribed Robes", 
-    [45233] = "Ensemble: Chains of the Chosen Dead", 
-    [87075] = "Ensemble: Demonbane Armor 1/4", 
-    [87076] = "Ensemble: Demonbane Armor 2/4", 
-    [87077] = "Ensemble: Demonbane Armor 3/4", 
-    [87078] = "Ensemble: Demonbane Armor 4/4", 
-    [87071] = "Ensemble: Diabolic Raiment 1/4", 
-    [87072] = "Ensemble: Diabolic Raiment 2/4", 
-    [87073] = "Ensemble: Diabolic Raiment 3/4", 
-    [87074] = "Ensemble: Diabolic Raiment 4/4", 
-    [87038] = "Ensemble: Doomblade Battlegear 1/4", 
-    [87039] = "Ensemble: Doomblade Battlegear 2/4", 
-    [87040] = "Ensemble: Doomblade Battlegear 3/4", 
-    [87041] = "Ensemble: Doomblade Battlegear 4/4", 
-    [87051] = "Ensemble: Dreadwyrm Battleplate 1/4", 
-    [87052] = "Ensemble: Dreadwyrm Battleplate 2/4", 
-    [87053] = "Ensemble: Dreadwyrm Battleplate 3/4", 
-    [87054] = "Ensemble: Dreadwyrm Battleplate 4/4", 
-    [72081] = "Ensemble: Dream Defender's Emerald Guardplate", 
-    [87190] = "Ensemble: Dreamseeker Vestments", 
-    [87189] = "Ensemble: Dreamwatcher Vestments", 
-    [87210] = "Ensemble: Dreamweald Dragonscale", 
-    [87042] = "Ensemble: Eagletalon Battlegear 1/4", 
-    [87043] = "Ensemble: Eagletalon Battlegear 2/4", 
-    [87044] = "Ensemble: Eagletalon Battlegear 3/4", 
-    [87045] = "Ensemble: Eagletalon Battlegear 4/4", 
-    [87192] = "Ensemble: Earthrune Robes", 
-    [87087] = "Ensemble: Fanged Slayer's Armor 1/4", 
-    [87088] = "Ensemble: Fanged Slayer's Armor 2/4", 
-    [87089] = "Ensemble: Fanged Slayer's Armor 3/4", 
-    [87090] = "Ensemble: Fanged Slayer's Armor 4/4", 
-    [87196] = "Ensemble: Fel-Bloodied Battlegear", 
-    [43279] = "Ensemble: Fel-Chain Mail Armor", 
-    [43281] = "Ensemble: Fel-Infused Cloth Armor", 
-    [72086] = "Ensemble: Fel-Marked Scales", 
-    [43278] = "Ensemble: Felforged Plate Armor", 
-    [43280] = "Ensemble: Felshroud Leather Armor", 
+    [87188] = "Ensemble: Blazing Dreamscribed Robes",
+    [45233] = "Ensemble: Chains of the Chosen Dead",
+    [87075] = "Ensemble: Demonbane Armor 1/4",
+    [87076] = "Ensemble: Demonbane Armor 2/4",
+    [87077] = "Ensemble: Demonbane Armor 3/4",
+    [87078] = "Ensemble: Demonbane Armor 4/4",
+    [87071] = "Ensemble: Diabolic Raiment 1/4",
+    [87072] = "Ensemble: Diabolic Raiment 2/4",
+    [87073] = "Ensemble: Diabolic Raiment 3/4",
+    [87074] = "Ensemble: Diabolic Raiment 4/4",
+    [87038] = "Ensemble: Doomblade Battlegear 1/4",
+    [87039] = "Ensemble: Doomblade Battlegear 2/4",
+    [87040] = "Ensemble: Doomblade Battlegear 3/4",
+    [87041] = "Ensemble: Doomblade Battlegear 4/4",
+    [87051] = "Ensemble: Dreadwyrm Battleplate 1/4",
+    [87052] = "Ensemble: Dreadwyrm Battleplate 2/4",
+    [87053] = "Ensemble: Dreadwyrm Battleplate 3/4",
+    [87054] = "Ensemble: Dreadwyrm Battleplate 4/4",
+    [72081] = "Ensemble: Dream Defender's Emerald Guardplate",
+    [87190] = "Ensemble: Dreamseeker Vestments",
+    [87189] = "Ensemble: Dreamwatcher Vestments",
+    [87210] = "Ensemble: Dreamweald Dragonscale",
+    [87042] = "Ensemble: Eagletalon Battlegear 1/4",
+    [87043] = "Ensemble: Eagletalon Battlegear 2/4",
+    [87044] = "Ensemble: Eagletalon Battlegear 3/4",
+    [87045] = "Ensemble: Eagletalon Battlegear 4/4",
+    [87192] = "Ensemble: Earthrune Robes",
+    [87087] = "Ensemble: Fanged Slayer's Armor 1/4",
+    [87088] = "Ensemble: Fanged Slayer's Armor 2/4",
+    [87089] = "Ensemble: Fanged Slayer's Armor 3/4",
+    [87090] = "Ensemble: Fanged Slayer's Armor 4/4",
+    [87196] = "Ensemble: Fel-Bloodied Battlegear",
+    [43279] = "Ensemble: Fel-Chain Mail Armor",
+    [43281] = "Ensemble: Fel-Infused Cloth Armor",
+    [72086] = "Ensemble: Fel-Marked Scales",
+    [43278] = "Ensemble: Felforged Plate Armor",
+    [43280] = "Ensemble: Felshroud Leather Armor",
     [87212] = "Ensemble: Firewurm Dragonscale",
-    [45237] = "Ensemble: Funerary Plate of the Chosen Dead",  
-    [87198] = "Ensemble: Gladeraider's Battlegarb", 
-    [87099] = "Ensemble: Gravewarden Armaments 1/4", 
-    [87100] = "Ensemble: Gravewarden Armaments 2/4", 
-    [87101] = "Ensemble: Gravewarden Armaments 3/4", 
-    [87102] = "Ensemble: Gravewarden Armaments 4/4", 
-    [87209] = "Ensemble: Highpeak Dragonscale", 
-    [87214] = "Ensemble: Jarl's Battlehorns", 
-    [87204] = "Ensemble: Jarl's Battlescales", 
-    [87022] = "Ensemble: Legacy of Azj'aqir 1/4", 
-    [87023] = "Ensemble: Legacy of Azj'aqir 2/4", 
-    [87024] = "Ensemble: Legacy of Azj'aqir 3/4", 
-    [87025] = "Ensemble: Legacy of Azj'aqir 4/4", 
-    [87191] = "Ensemble: Nightrune Robes", 
-    [87103] = "Ensemble: Radiant Lightbringer Armor 1/4", 
-    [87104] = "Ensemble: Radiant Lightbringer Armor 2/4", 
-    [87105] = "Ensemble: Radiant Lightbringer Armor 3/4", 
-    [87106] = "Ensemble: Radiant Lightbringer Armor 4/4", 
-    [87014] = "Ensemble: Regalia of Everburning Knowledge 1/4", 
-    [87015] = "Ensemble: Regalia of Everburning Knowledge 2/4", 
-    [87016] = "Ensemble: Regalia of Everburning Knowledge 3/4", 
-    [87017] = "Ensemble: Regalia of Everburning Knowledge 4/4", 
-    [87046] = "Ensemble: Regalia of Shackled Elements 1/4", 
-    [87047] = "Ensemble: Regalia of Shackled Elements 2/4", 
-    [87049] = "Ensemble: Regalia of Shackled Elements 3/4", 
-    [87050] = "Ensemble: Regalia of Shackled Elements 4/4", 
-    [87063] = "Ensemble: Regalia of the Arcane Tempest 1/4", 
-    [87064] = "Ensemble: Regalia of the Arcane Tempest 2/4", 
-    [87065] = "Ensemble: Regalia of the Arcane Tempest 3/4", 
-    [87066] = "Ensemble: Regalia of the Arcane Tempest 4/4", 
-    [45225] = "Ensemble: Regalia of the Chosen Dead", 
-    [87095] = "Ensemble: Regalia of the Skybreaker 1/4", 
-    [87096] = "Ensemble: Regalia of the Skybreaker 2/4", 
-    [87097] = "Ensemble: Regalia of the Skybreaker 3/4", 
-    [87098] = "Ensemble: Regalia of the Skybreaker 4/4", 
-    [87206] = "Ensemble: Ruby Drake Hunter's Kit", 
-    [87197] = "Ensemble: Searaider's Battlegarb", 
-    [87193] = "Ensemble: Skyrune Robes", 
-    [87215] = "Ensemble: Storm Champion's Warharness", 
-    [87079] = "Ensemble: Stormheart Raiment 1/4", 
-    [87080] = "Ensemble: Stormheart Raiment 2/4", 
-    [87081] = "Ensemble: Stormheart Raiment 3/4", 
-    [87082] = "Ensemble: Stormheart Raiment 4/4", 
-    [92400] = "Ensemble: Tidesoaked Battlegear", 
-    [87107] = "Ensemble: Titanic Onslaught Armor 1/4", 
-    [87108] = "Ensemble: Titanic Onslaught Armor 2/4", 
-    [87109] = "Ensemble: Titanic Onslaught Armor 3/4", 
-    [87110] = "Ensemble: Titanic Onslaught Armor 4/4", 
-    [87187] = "Ensemble: Verdant Dreamscribed Robes", 
-    [87026] = "Ensemble: Vestment of Second Sight 1/4", 
-    [87027] = "Ensemble: Vestment of Second Sight 2/4", 
-    [87028] = "Ensemble: Vestment of Second Sight 3/4", 
-    [87029] = "Ensemble: Vestment of Second Sight 4/4", 
-    [87067] = "Ensemble: Vestments of Blind Absolution 1/4", 
-    [87068] = "Ensemble: Vestments of Blind Absolution 2/4", 
-    [87069] = "Ensemble: Vestments of Blind Absolution 3/4", 
-    [87070] = "Ensemble: Vestments of Blind Absolution 4/4", 
-    [87034] = "Ensemble: Vestments of Enveloped Dissonance 1/4", 
-    [87035] = "Ensemble: Vestments of Enveloped Dissonance 2/4", 
-    [87036] = "Ensemble: Vestments of Enveloped Dissonance 3/4", 
-    [87037] = "Ensemble: Vestments of Enveloped Dissonance 4/4", 
-    [87163] = "Ensemble: Vestments of the Manasinged", 
-    [87018] = "Ensemble: Vestments of the Purifier 1/4", 
-    [87019] = "Ensemble: Vestments of the Purifier 2/4", 
-    [87020] = "Ensemble: Vestments of the Purifier 3/4", 
-    [87021] = "Ensemble: Vestments of the Purifier 4/4", 
-    [87059] = "Ensemble: Warplate of the Obsidian Aspect 1/4", 
-    [87060] = "Ensemble: Warplate of the Obsidian Aspect 2/4", 
-    [87061] = "Ensemble: Warplate of the Obsidian Aspect 3/4", 
-    [87062] = "Ensemble: Warplate of the Obsidian Aspect 4/4", 
-    [87091] = "Ensemble: Wildstalker Armor 1/4", 
-    [87092] = "Ensemble: Wildstalker Armor 2/4", 
-    [87093] = "Ensemble: Wildstalker Armor 3/4", 
-    [87094] = "Ensemble: Wildstalker Armor 4/4", 
-    [92614] = "Ensemble: Windrunner Quivers", 
-    [87083] = "Ensemble: Xuen's Battlegear 1/4", 
-    [87084] = "Ensemble: Xuen's Battlegear 2/4", 
-    [87085] = "Ensemble: Xuen's Battlegear 3/4", 
-    [87086] = "Ensemble: Xuen's Battlegear 4/4", 
-    [87166] = "Ensemble: Battlegear of the Dreadhide Stalker", 
-    [87165] = "Ensemble: Moonfall Robes", 
+    [45237] = "Ensemble: Funerary Plate of the Chosen Dead",
+    [87198] = "Ensemble: Gladeraider's Battlegarb",
+    [87099] = "Ensemble: Gravewarden Armaments 1/4",
+    [87100] = "Ensemble: Gravewarden Armaments 2/4",
+    [87101] = "Ensemble: Gravewarden Armaments 3/4",
+    [87102] = "Ensemble: Gravewarden Armaments 4/4",
+    [87209] = "Ensemble: Highpeak Dragonscale",
+    [87214] = "Ensemble: Jarl's Battlehorns",
+    [87204] = "Ensemble: Jarl's Battlescales",
+    [87022] = "Ensemble: Legacy of Azj'aqir 1/4",
+    [87023] = "Ensemble: Legacy of Azj'aqir 2/4",
+    [87024] = "Ensemble: Legacy of Azj'aqir 3/4",
+    [87025] = "Ensemble: Legacy of Azj'aqir 4/4",
+    [87191] = "Ensemble: Nightrune Robes",
+    [87103] = "Ensemble: Radiant Lightbringer Armor 1/4",
+    [87104] = "Ensemble: Radiant Lightbringer Armor 2/4",
+    [87105] = "Ensemble: Radiant Lightbringer Armor 3/4",
+    [87106] = "Ensemble: Radiant Lightbringer Armor 4/4",
+    [87014] = "Ensemble: Regalia of Everburning Knowledge 1/4",
+    [87015] = "Ensemble: Regalia of Everburning Knowledge 2/4",
+    [87016] = "Ensemble: Regalia of Everburning Knowledge 3/4",
+    [87017] = "Ensemble: Regalia of Everburning Knowledge 4/4",
+    [87046] = "Ensemble: Regalia of Shackled Elements 1/4",
+    [87047] = "Ensemble: Regalia of Shackled Elements 2/4",
+    [87049] = "Ensemble: Regalia of Shackled Elements 3/4",
+    [87050] = "Ensemble: Regalia of Shackled Elements 4/4",
+    [87063] = "Ensemble: Regalia of the Arcane Tempest 1/4",
+    [87064] = "Ensemble: Regalia of the Arcane Tempest 2/4",
+    [87065] = "Ensemble: Regalia of the Arcane Tempest 3/4",
+    [87066] = "Ensemble: Regalia of the Arcane Tempest 4/4",
+    [45225] = "Ensemble: Regalia of the Chosen Dead",
+    [87095] = "Ensemble: Regalia of the Skybreaker 1/4",
+    [87096] = "Ensemble: Regalia of the Skybreaker 2/4",
+    [87097] = "Ensemble: Regalia of the Skybreaker 3/4",
+    [87098] = "Ensemble: Regalia of the Skybreaker 4/4",
+    [87206] = "Ensemble: Ruby Drake Hunter's Kit",
+    [87197] = "Ensemble: Searaider's Battlegarb",
+    [87193] = "Ensemble: Skyrune Robes",
+    [87215] = "Ensemble: Storm Champion's Warharness",
+    [87079] = "Ensemble: Stormheart Raiment 1/4",
+    [87080] = "Ensemble: Stormheart Raiment 2/4",
+    [87081] = "Ensemble: Stormheart Raiment 3/4",
+    [87082] = "Ensemble: Stormheart Raiment 4/4",
+    [92400] = "Ensemble: Tidesoaked Battlegear",
+    [87107] = "Ensemble: Titanic Onslaught Armor 1/4",
+    [87108] = "Ensemble: Titanic Onslaught Armor 2/4",
+    [87109] = "Ensemble: Titanic Onslaught Armor 3/4",
+    [87110] = "Ensemble: Titanic Onslaught Armor 4/4",
+    [87187] = "Ensemble: Verdant Dreamscribed Robes",
+    [87026] = "Ensemble: Vestment of Second Sight 1/4",
+    [87027] = "Ensemble: Vestment of Second Sight 2/4",
+    [87028] = "Ensemble: Vestment of Second Sight 3/4",
+    [87029] = "Ensemble: Vestment of Second Sight 4/4",
+    [87067] = "Ensemble: Vestments of Blind Absolution 1/4",
+    [87068] = "Ensemble: Vestments of Blind Absolution 2/4",
+    [87069] = "Ensemble: Vestments of Blind Absolution 3/4",
+    [87070] = "Ensemble: Vestments of Blind Absolution 4/4",
+    [87034] = "Ensemble: Vestments of Enveloped Dissonance 1/4",
+    [87035] = "Ensemble: Vestments of Enveloped Dissonance 2/4",
+    [87036] = "Ensemble: Vestments of Enveloped Dissonance 3/4",
+    [87037] = "Ensemble: Vestments of Enveloped Dissonance 4/4",
+    [87163] = "Ensemble: Vestments of the Manasinged",
+    [87018] = "Ensemble: Vestments of the Purifier 1/4",
+    [87019] = "Ensemble: Vestments of the Purifier 2/4",
+    [87020] = "Ensemble: Vestments of the Purifier 3/4",
+    [87021] = "Ensemble: Vestments of the Purifier 4/4",
+    [87059] = "Ensemble: Warplate of the Obsidian Aspect 1/4",
+    [87060] = "Ensemble: Warplate of the Obsidian Aspect 2/4",
+    [87061] = "Ensemble: Warplate of the Obsidian Aspect 3/4",
+    [87062] = "Ensemble: Warplate of the Obsidian Aspect 4/4",
+    [87091] = "Ensemble: Wildstalker Armor 1/4",
+    [87092] = "Ensemble: Wildstalker Armor 2/4",
+    [87093] = "Ensemble: Wildstalker Armor 3/4",
+    [87094] = "Ensemble: Wildstalker Armor 4/4",
+    [92614] = "Ensemble: Windrunner Quivers",
+    [87083] = "Ensemble: Xuen's Battlegear 1/4",
+    [87084] = "Ensemble: Xuen's Battlegear 2/4",
+    [87085] = "Ensemble: Xuen's Battlegear 3/4",
+    [87086] = "Ensemble: Xuen's Battlegear 4/4",
+    [87166] = "Ensemble: Battlegear of the Dreadhide Stalker",
+    [87165] = "Ensemble: Moonfall Robes",
     [87127] = "Ensemble: Bearmantle Battlegear 1/4",
     [87128] = "Ensemble: Bearmantle Battlegear 2/4",
     [87129] = "Ensemble: Bearmantle Battlegear 3/4",
@@ -588,14 +587,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92663] = "Arsenal: Immortal Maces",
     [92665] = "Arsenal: Gems of the Lightforged Draenei",
     [92656] = "Arsenal: Bone Scythes",
-    [92889] = "Arsenal: Odyn's Spears", 
-    [92615] = "Arsenal: Arms of the Felforged Knight", 
-    [93876] = "Illusion: Chronos", 
-    [92586] = "Felscorned Scythe of the Unmaker", 
-    [92588] = "Fallen King's Corrupted Blades", 
+    [92889] = "Arsenal: Odyn's Spears",
+    [92615] = "Arsenal: Arms of the Felforged Knight",
+    [93876] = "Illusion: Chronos",
+    [92586] = "Felscorned Scythe of the Unmaker",
+    [92588] = "Fallen King's Corrupted Blades",
     [92599] = "Scythe of the Unmaker",
     [92886] = "Taeshalach",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Artifact Campaign
     [62655] = "Artifact Campaign: Changed spec after starting artifact weapon campaign",
@@ -618,20 +617,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Priest Orderhall
     [44059] = "Priest Orderhall: Netherlight Temple attack started",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Shaman Orderhall
     [43423] = "Mage Orderhall: Rewarded A Heroes Weapon",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Mage Orderhall
     [47234] = "Mage Orderhall: Rewarded A Heroes Weapon",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Paladin Orderhall
     [43688] = "Paladin Orderhall: Turned in Shard of Darkness",
     [43666] = "Paladin Orderhall: Unlocked hidden artifact appearance: Corrupted Ashbringer",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Hunter Orderhall
     [43158] = "Hunter Orderhall: Unlocked Death Hunter Moorgoth Vendor",
@@ -669,7 +668,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [45394] = "Return to Karazhan: Maiden of Virtue encounter end scene played",
     [45395] = "Return to Karazhan: The Curator encounter end scene played",
     [45396] = "Return to Karazhan: Mana Devourer encounter end scene played",
-    
+
     -----------------------------------------------------------------------------------------------------------------------
     -- Battle for Azeroth
     [90909] = "Ensemble: Ashvane Smuggler's Attire",
