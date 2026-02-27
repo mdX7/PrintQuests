@@ -108,6 +108,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94766] = "Love is in the Air: Increased Spring Butterfly Droprate (daily, accwide)",
 
     -----------------------------------------------------------------------------------------------------------------------
+    -- Lunar Festival
+    [86421] = "Ensemble: Ornate Violet Lunar Festival Attire",
+
+    -----------------------------------------------------------------------------------------------------------------------
     -- Midsummer
     [83134] = "Midsummer: cosmetic weapon drop rate from Satchel of Chilled Goods (daily, account)",
 
