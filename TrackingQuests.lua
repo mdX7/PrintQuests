@@ -23,7 +23,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [85463] = "Renown: The Cartels of Undermine Level 2",
     [87286] = "Looted Delve Nemesis Cache (weekly?)",
     [85395] = "Fractured Spark of Fortunes related 5/x?",
-    [86695] = "First daily Pristine Mysterious Satchel",
     [90134] = "Pristine Mysterious Satchel? mail feet? epic item? Fortuitous Satchel?",
     [90752] = "First daily Bottle of Mysterious Wisdom attempt",
     [87510] = "Dastardly Duos: First completion? (account)",
@@ -145,6 +144,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90464] = "Dastardly Duos: Podium Upgrade: Current Survival Run Length",
     [90465] = "Dastardly Duos: Podium Upgrade: Time in Spotlight Last Game",
     [90466] = "Dastardly Duos: Podium Upgrade: Yards Moved Last Game",
+
+    ------------------------------------------------------------------------------------------------------------------------
+    -- Winds of Mysterious Fortune event
+    [86695] = "First daily Pristine Mysterious Satchel",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Pepe
