@@ -86,9 +86,14 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     
     [93817] = "Enable Midnight (12.0) intro skip?",
     
-    [82772] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 1/3",
-    [85719] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 2/3",
+    [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
+    [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
+    
+    [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
+    [92125] = "After accepting Shadebasin Watch (86657)",
+    
+    [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -879,11 +884,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85742] = "Mining Book: Undermine Treatise on Mining used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
     [88471] = "Mining: First Brilliant Silver looted",
+    [88491] = "Mining: First Rich Brilliant Silver looted",
     [88484] = "Mining: First Lightfused Brilliant Silver looted",
+    [88472] = "Mining: First Wild Brilliant Silver looted",
     [88475] = "Mining: First Refulgent Copper looted",
     [88476] = "Mining: First Rich Refulgent Copper looted",
     [88487] = "Mining: First Lightfused Refulgent Copper looted",
+    [88486] = "Mining: First Wild Refulgent Copper looted",
     [88477] = "Mining: First Umbral Tin looted",
+    [88469] = "Mining: First Primal Umbral Tin looted",
+    [88481] = "Mining: First Umbral Tin Seam looted",
+    [88478] = "Mining: First Rich Umbral Tin looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Enchanting
@@ -1603,6 +1614,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94001] = "The Shadow Enclave - Sturdy Chest south, behind tent (account, onetime)",
     [94002] = "The Shadow Enclave - Sturdy Chest middle (account, onetime)",
     [94028] = "The Shadow Enclave - Sturdy Chest north (account, onetime)",
+    [94023] = "The Gulf of Memory - Sturdy Chest north (account, onetime)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -1786,4 +1798,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- 12.0.0 pre-expansion event
     [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
     [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Zul'Aman
+    [93818] = "Renown Amani Tribe unlocked",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Harandar
+    [92712] = "Renown Hara'ti unlocked",
+    [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
 }
