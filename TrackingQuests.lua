@@ -886,10 +886,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85742] = "Mining Book: Undermine Treatise on Mining used",
     [82317] = "Mastering the Mysterious: Unlocked 2nd Charge of Overload Empowered Deposit",
     [88471] = "Mining: First Brilliant Silver looted",
+    [88466] = "Mining: First Brilliant Silver Seam looted",
     [88491] = "Mining: First Rich Brilliant Silver looted",
     [88484] = "Mining: First Lightfused Brilliant Silver looted",
+    [88465] = "Mining: First Voidbound Brilliant Silver looted",
     [88472] = "Mining: First Wild Brilliant Silver looted",
     [88475] = "Mining: First Refulgent Copper looted",
+    [88480] = "Mining: First Refulgent Copper Seam looted",
     [88476] = "Mining: First Rich Refulgent Copper looted",
     [88487] = "Mining: First Lightfused Refulgent Copper looted",
     [88486] = "Mining: First Wild Refulgent Copper looted",
@@ -1801,6 +1804,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- 12.0.0 pre-expansion event
     [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
     [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Eversong Forest
+    [94540] = "Eversong Forest Highest Peak: Vista Point",
+    [93545] = "Eversong Forest Treasure: Gift of the Phoenix unlocked",
+    [93544] = "Eversong Forest Treasure: Gift of the Phoenix looted",
+    [89147] = "Eversong Forest Treasure: Solid Ore Punchers looted",
+    [89135] = "Eversong Forest Treasure: Manual of Mistakes and Mishaps looted",
+    [93061] = "Eversong Forest Treasure: Goldenmist Grapes looted (Stone Vat)",
+    [91358] = "Eversong Forest Treasure: Burbling Blob of Paint looted",
+    [93457] = "Eversong Forest Treasure: Farstrider's Lost Quiver looted",
+    [89139] = "Eversong Forest Treasure: What To Do When Nothing Works looted",
+    [93893] = "Eversong Forest Treasure: Forgotten Ink and Quill looted 1/2",
+    [94747] = "Eversong Forest Treasure: Forgotten Ink and Quill looted 2/2",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
