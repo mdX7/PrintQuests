@@ -94,6 +94,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92125] = "After accepting Shadebasin Watch (86657)",
     
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
+    
+    [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -970,6 +972,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82911] = "Fishing: First Sanguine Dogfish looted",
     [82912] = "Fishing: First Spiked Sea Raven looted",
     [82914] = "Fishing: First Cursed Ghoulfish looted",
+    [88610] = "Fishing: First Ominous Octopus looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Herbalism
@@ -1807,4 +1810,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
     [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Voidstorm
+    [89060] = "Stay awhile and listen: Alleria Windrunner on quest 86565",
 }
