@@ -1804,7 +1804,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- 12.0.0 pre-expansion event
     [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
     [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
-    
+
+	-- Isle of Quel'Danas
+	[92620] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 38, 33)",
+	[92621] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 54, 23)",
+	[92622] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 35, 29)",
+	[92623] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 59, 35)",
+	[92624] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 63, 34)",
+	[92625] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 39, 23)",
+	[94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
+	[95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
+	[95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Eversong Forest
     [94540] = "Eversong Forest Highest Peak: Vista Point",
