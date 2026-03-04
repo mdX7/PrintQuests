@@ -96,6 +96,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
     
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
+    
+    [75754] = "Seen story so far on Midnight Launch?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -1817,29 +1819,37 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 	[95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
-    -- Eversong Forest
-    [94540] = "Eversong Forest Highest Peak: Vista Point",
-    [93545] = "Eversong Forest Treasure: Gift of the Phoenix unlocked",
-    [93544] = "Eversong Forest Treasure: Gift of the Phoenix looted",
-    [89147] = "Eversong Forest Treasure: Solid Ore Punchers looted",
-    [89135] = "Eversong Forest Treasure: Manual of Mistakes and Mishaps looted",
-    [93061] = "Eversong Forest Treasure: Goldenmist Grapes looted (Stone Vat)",
-    [91358] = "Eversong Forest Treasure: Burbling Blob of Paint looted",
-    [93457] = "Eversong Forest Treasure: Farstrider's Lost Quiver looted",
-    [89139] = "Eversong Forest Treasure: What To Do When Nothing Works looted",
-    [93893] = "Eversong Forest Treasure: Forgotten Ink and Quill looted 1/2",
-    [94747] = "Eversong Forest Treasure: Forgotten Ink and Quill looted 2/2",
+    -- Eversong Woods
+    [94540] = "Eversong Woods Highest Peak: Vista Point",
+    [93545] = "Eversong Woods Treasure: Gift of the Phoenix unlocked",
+    [93544] = "Eversong Woods Treasure: Gift of the Phoenix looted",
+    [89147] = "Eversong Woods Treasure: Solid Ore Punchers looted",
+    [89135] = "Eversong Woods Treasure: Manual of Mistakes and Mishaps looted",
+    [93061] = "Eversong Woods Treasure: Goldenmist Grapes looted (Stone Vat)",
+    [91358] = "Eversong Woods Treasure: Burbling Blob of Paint looted",
+    [93457] = "Eversong Woods Treasure: Farstrider's Lost Quiver looted",
+    [89139] = "Eversong Woods Treasure: What To Do When Nothing Works looted",
+    [93893] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 1/2",
+    [94747] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 2/2",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
+    [89145] = "Zul'Aman Treasure: Spelunker's Lucky Charm looted",
+    [89149] = "Zul'Aman Treasure: Amani Expert's Chisel looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
     [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
+    [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [89060] = "Stay awhile and listen: Alleria Windrunner on quest 86565",
+    [89150] = "Voidstorm Treasure: Star Metal Deposit looted",
+    [89148] = "Voidstorm Treasure: Glimmering Void Pearl looted",
+    [89146] = "Voidstorm Treasure: Lost Voidstorm Satchel looted",
+    [89144] = "Voidstorm Treasure: Miners' Guide to Voidstorm looted",
+    [94454] = "Voidstorm Treasure: Researcher's Shadowgraft looted",
 }
