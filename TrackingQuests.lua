@@ -98,6 +98,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
     
     [75754] = "Seen story so far on Midnight Launch?",
+    
+    [93790] = "Voidstorm Special Assignment done?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -898,10 +900,19 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88476] = "Mining: First Rich Refulgent Copper looted",
     [88487] = "Mining: First Lightfused Refulgent Copper looted",
     [88486] = "Mining: First Wild Refulgent Copper looted",
+    [88463] = "Mining: First Voidbound Refulgent Copper looted",
     [88477] = "Mining: First Umbral Tin looted",
     [88469] = "Mining: First Primal Umbral Tin looted",
+    [88485] = "Mining: First Wild Umbral Tin looted",
+    [88470] = "Mining: First Voidbound Umbral Tin looted",
     [88481] = "Mining: First Umbral Tin Seam looted",
     [88478] = "Mining: First Rich Umbral Tin looted",
+    [88673] = "Mining: Igneous Rock Specimen 1/5 looted",
+    [88674] = "Mining: Igneous Rock Specimen 2/5 looted",
+    [88675] = "Mining: Igneous Rock Specimen 3/5 looted",
+    [88676] = "Mining: Igneous Rock Specimen 4/5 looted",
+    [88677] = "Mining: Igneous Rock Specimen 5/5 looted",
+    [88678] = "Mining: Septarian Nodule looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Enchanting
@@ -959,6 +970,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81314] = "Engineering First Time Craft: Aqirite Brainwave Projector",
     [81307] = "Engineering First Time Craft: Blasting Bracers",
     [86630] = "Engineering: Wormhole Generator: Undermine unlocked",
+    [93535] = "Engineering: Dawn Capacitor looted",
+    [93535] = "Engineering: Dance Gear looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Fishing
