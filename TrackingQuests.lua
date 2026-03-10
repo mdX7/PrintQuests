@@ -1646,7 +1646,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94001] = "The Shadow Enclave - Sturdy Chest south, behind tent (account, onetime)",
     [94002] = "The Shadow Enclave - Sturdy Chest middle (account, onetime)",
     [94028] = "The Shadow Enclave - Sturdy Chest north (account, onetime)",
-    [94023] = "The Gulf of Memory - Sturdy Chest north (account, onetime)",
+    [94016] = "The Gulf of Memory - Sturdy Chest at 40 26.5 (account, onetime)",
+    [94023] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on ground (account, onetime)",
+    [94041] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on top of roots (account, onetime)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
