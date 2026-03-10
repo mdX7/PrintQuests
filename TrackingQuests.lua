@@ -92,7 +92,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
 
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
-    [92125] = "After accepting Shadebasin Watch (86657)",
 
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
 
@@ -1860,12 +1859,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
+    [91060] = "Stay a while and listen: Loa Speaker Kinduru on quest The Path of the Amani (86653)",
+    [92125] = "Stay a while and listen: Zul'jarra on quest Shadebasin Watch (86657)",
+    [92108] = "Stay a while and listen: Zul'jan on quest Broken Bridges (91062)",
+    [94628] = "Zul'Aman: Interacted with Tablet of Halazzi",
+    [94631] = "Zul'Aman: Interacted with Tablet of Jan'alai",
     [91964] = "Zul'Aman: Selected Kagara for Love Triangle quest",
     [91965] = "Zul'Aman: Selected Zak'kash for Love Triangle quest",
     [89145] = "Zul'Aman Treasure: Spelunker's Lucky Charm looted",
     [89149] = "Zul'Aman Treasure: Amani Expert's Chisel looted",
     [90798] = "Zul'Aman Treasure: Secret Formula looted",
-    [94628] = "Zul'Aman Treasure: Tablet of Halazzi read",
+    [89573] = "Zul'Aman Rare: Depthborn Eelamental killed",
+    [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
