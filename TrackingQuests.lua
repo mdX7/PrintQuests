@@ -1885,8 +1885,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
     [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
+    [94908] = "Stay a while and listen: Orweyna and Ku'paal on quest The Hunter Awaits (86836)",
+    [94991] = "Stay a while and listen: Orweyna and Amarakk on quest Search of the Problem (86865)",
+    [94951] = "Stay a while and listen: Orweyna and Hannan on quest Can We Heal This? (86866)",
     [93470] = "Harandar Book: Laments of Wey'nan --Part 1: Finding Hope read",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
+    [92161] = "Harandar Rare: Chlorokyll killed",
+    [94717] = "Harandar Rare: Chlorokyll reputation bonus",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
