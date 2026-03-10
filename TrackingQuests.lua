@@ -83,23 +83,23 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
 
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
-    
+
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
-    
+
     [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
-    
+
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
     [92125] = "After accepting Shadebasin Watch (86657)",
-    
+
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
-    
+
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
-    
+
     [75754] = "Seen story so far on Midnight Launch?",
-    
+
     [93790] = "Voidstorm Special Assignment done?",
     
     [94410] = "Pinnacle Cache contained Adventurer equipment 1/2 (weekly?)",
@@ -1856,7 +1856,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89139] = "Eversong Woods Treasure: What To Do When Nothing Works looted",
     [93893] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 1/2",
     [94747] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 2/2",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -1873,7 +1873,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
     [93470] = "Harandar Book: Laments of Wey'nan --Part 1: Finding Hope read",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [89060] = "Stay awhile and listen: Alleria Windrunner on quest 86565",
