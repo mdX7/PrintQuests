@@ -85,6 +85,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
     
     [93817] = "Enable Midnight (12.0) intro skip?",
+    [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
     
     [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
@@ -100,6 +101,17 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [75754] = "Seen story so far on Midnight Launch?",
     
     [93790] = "Voidstorm Special Assignment done?",
+    
+    [94410] = "Pinnacle Cache contained Adventurer equipment 1/2 (weekly?)",
+    
+    [88770] = "Abundance unlock / finished Tutorial?",
+    [94952] = "Abundance: Received 2x Shard of Dundun on accepting first weekly",
+    [91432] = "Abundance: Started Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
+    [94426] = "Abundance: Finished Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
+    
+    [89266] = "Legends of Haranir: Selected Wey'nan's Ward 1/2",
+    [89284] = "Legends of Haranir: Selected Wey'nan's Ward 2/2",
+    [91053] = "Legends of Haranir: Turned in Lost Legends",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -1848,13 +1860,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
+    [91964] = "Zul'Aman: Selected Kagara for Love Triangle quest",
+    [91965] = "Zul'Aman: Selected Zak'kash for Love Triangle quest",
     [89145] = "Zul'Aman Treasure: Spelunker's Lucky Charm looted",
     [89149] = "Zul'Aman Treasure: Amani Expert's Chisel looted",
+    [90798] = "Zul'Aman Treasure: Secret Formula looted",
+    [94628] = "Zul'Aman Treasure: Tablet of Halazzi read",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
     [90859] = "Stay a while and listen: Orweyna and Hagar in Den of Echoes",
+    [93470] = "Harandar Book: Laments of Wey'nan --Part 1: Finding Hope read",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -1865,4 +1882,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89146] = "Voidstorm Treasure: Lost Voidstorm Satchel looted",
     [89144] = "Voidstorm Treasure: Miners' Guide to Voidstorm looted",
     [94454] = "Voidstorm Treasure: Researcher's Shadowgraft looted",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Saltherils Soiree
+    [89290] = "Saltherils Soiree: Invited Blood Knights",
+    [95113] = "Saltherils Soiree Blood Knights: Reached Guest Rank",
 }
