@@ -1857,6 +1857,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89139] = "Eversong Woods Treasure: What To Do When Nothing Works looted",
     [93893] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 1/2",
     [94747] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 2/2",
+    [89103] = "Eversong Woods Treasure: Everblazing Sunmote",
+    [92392] = "Eversong Woods Rare: Dormant Lightbloom Hydra killed",
+    [94684] = "Eversong Woods Rare: Dormant Lightbloom Hydra reputation bonus",
+    [92391] = "Eversong Woods Rare: Cre'van killed",
+    [94686] = "Eversong Woods Rare: Cre'van reputation bonus",
+    [92403] = "Eversong Woods Rare: Banuran killed",
+    [94692] = "Eversong Woods Rare: Banuran reputation bonus",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
