@@ -83,22 +83,22 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
 
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
-
+    
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
-
+    
     [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
-
+    
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
-
+    
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
-
+    
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
-
+    
     [75754] = "Seen story so far on Midnight Launch?",
-
+    
     [93790] = "Voidstorm Special Assignment done?",
     
     [94410] = "Pinnacle Cache contained Adventurer equipment 1/2 (weekly?)",
@@ -111,6 +111,18 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [89266] = "Legends of Haranir: Selected Wey'nan's Ward 1/2",
     [89284] = "Legends of Haranir: Selected Wey'nan's Ward 2/2",
     [91053] = "Legends of Haranir: Turned in Lost Legends",
+
+    [95000] = "First Prey (Normal) / Eversong Woods finished?",
+    [93168] = "First Prey (Normal) / Eversong Woods turned in 1/2?",
+    [93872] = "First Prey (Normal) / Eversong Woods turned in 2/2?",
+
+    [95001] = "First Prey (Heroic) / Harandar finished?",
+    [93169] = "First Prey (Heroic) / Harandar turned in 1/2?",
+    [93873] = "First Prey (Heroic) / Harandar turned in 2/2?",
+
+    [95002] = "Second Prey (Heroic) / Zul'Aman finished?",
+    [93857] = "Second Prey (Heroic) / Zul'Aman turned in 1/2?",
+    [93874] = "Second Prey (Heroic) / Zul'Aman turned in 2/2?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -1864,7 +1876,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94686] = "Eversong Woods Rare: Cre'van reputation bonus",
     [92403] = "Eversong Woods Rare: Banuran killed",
     [94692] = "Eversong Woods Rare: Banuran reputation bonus",
-
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -1878,6 +1890,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89145] = "Zul'Aman Treasure: Spelunker's Lucky Charm looted",
     [89149] = "Zul'Aman Treasure: Amani Expert's Chisel looted",
     [90798] = "Zul'Aman Treasure: Secret Formula looted",
+    [90799] = "Zul'Aman Treasure: Abandoned Nest looted",
     [89573] = "Zul'Aman Rare: Depthborn Eelamental killed",
     [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus",
 
@@ -1892,7 +1905,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     [92161] = "Harandar Rare: Chlorokyll killed",
     [94717] = "Harandar Rare: Chlorokyll reputation bonus",
-
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [89060] = "Stay awhile and listen: Alleria Windrunner on quest 86565",
