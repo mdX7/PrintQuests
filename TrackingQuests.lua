@@ -83,31 +83,31 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
 
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
-    
+
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
-    
+
     [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
-    
+
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
-    
+
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
-    
+
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
-    
+
     [75754] = "Seen story so far on Midnight Launch?",
-    
+
     [93790] = "Voidstorm Special Assignment done?",
-    
+
     [94410] = "Pinnacle Cache contained Adventurer equipment 1/2 (weekly?)",
-    
+
     [88770] = "Abundance unlock / finished Tutorial?",
     [94952] = "Abundance: Received 2x Shard of Dundun on accepting first weekly",
     [91432] = "Abundance: Started Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
     [94426] = "Abundance: Finished Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
-    
+
     [89266] = "Legends of Haranir: Selected Wey'nan's Ward 1/2",
     [89284] = "Legends of Haranir: Selected Wey'nan's Ward 2/2",
     [91053] = "Legends of Haranir: Turned in Lost Legends",
@@ -1845,16 +1845,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
     [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
 
-	-- Isle of Quel'Danas
-	[92620] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 38, 33)",
-	[92621] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 54, 23)",
-	[92622] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 35, 29)",
-	[92623] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 59, 35)",
-	[92624] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 63, 34)",
-	[92625] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 39, 23)",
-	[94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
-	[95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
-	[95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
+    -- Isle of Quel'Danas
+    [92620] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 38, 33)",
+    [92621] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 54, 23)",
+    [92622] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 35, 29)",
+    [92623] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 59, 35)",
+    [92624] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 63, 34)",
+    [92625] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 39, 23)",
+    [94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
+    [95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
+    [95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Eversong Woods
@@ -1876,7 +1876,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94686] = "Eversong Woods Rare: Cre'van reputation bonus",
     [92403] = "Eversong Woods Rare: Banuran killed",
     [94692] = "Eversong Woods Rare: Banuran reputation bonus",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -1905,16 +1905,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     [92161] = "Harandar Rare: Chlorokyll killed",
     [94717] = "Harandar Rare: Chlorokyll reputation bonus",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
+    [93515] = "Renown The Singularity unlocked",
     [89060] = "Stay awhile and listen: Alleria Windrunner on quest 86565",
     [89150] = "Voidstorm Treasure: Star Metal Deposit looted",
     [89148] = "Voidstorm Treasure: Glimmering Void Pearl looted",
     [89146] = "Voidstorm Treasure: Lost Voidstorm Satchel looted",
     [89144] = "Voidstorm Treasure: Miners' Guide to Voidstorm looted",
     [94454] = "Voidstorm Treasure: Researcher's Shadowgraft looted",
-    
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Saltherils Soiree
     [89290] = "Saltherils Soiree: Invited Blood Knights",
