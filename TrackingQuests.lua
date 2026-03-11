@@ -103,24 +103,16 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [91432] = "Abundance: Started Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
     [94426] = "Abundance: Finished Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
 
-    [89266] = "Legends of Haranir: Selected Wey'nan's Ward 1/2",
-    [89284] = "Legends of Haranir: Selected Wey'nan's Ward 2/2",
-    [91053] = "Legends of Haranir: Turned in Lost Legends",
-
     [94410] = "Pinnacle Cache containing Adventurer equipment looted?",
 
     [95000] = "Prey: Killed 1/x",
     [95001] = "Prey: Killed 2/x",
     [95002] = "Prey: Killed 3/x",
-
     [93168] = "Prey Normal: Turned in 1/x?",
-
     [93872] = "Prey: Eversong Woods turned in 1/x",
-
     [93873] = "Prey Hard: Harandar/Zul'Aman turned in 1/x",
     [93875] = "Prey Hard: Voidstorm turned in 1/x",
-
-    [95002] = "Second Prey (Heroic) / Zul'Aman finished?",
+    [95002] = "Prey Hard: Zul'Aman finished?",
     [93874] = "Prey Hard: Turned in (always rewarded on finishing?)",
 
     [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
@@ -1915,6 +1907,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94951] = "Stay a while and listen: Orweyna and Hannan on quest Can We Heal This? (86866)",
     [94547] = "Harandar Highest Peak: Har'kual",
     [93470] = "Harandar: Interacted with Laments of Wey'nan --Part 1: Finding Hope",
+    [93474] = "Harandar: Interacted with Echoes of our Past--Part 2: Alndust",
+    [93473] = "Harandar: Interacted with Echoes of our Past--Part 3: Dangerous Memories",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     [92424] = "Harandar Treasure: Shroom Jumper's Parachute looted",
     [92216] = "Harandar Treasure: Glowing Moth looted 1/x",
@@ -1953,6 +1947,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93857] = "Prey Hard: Turned in 2/4 (Veteran Gear)",
     [93858] = "Prey Hard: Turned in 3/4 (Veteran Crests)",
     [93860] = "Prey Hard: Turned in 4/4 (Veteran Crests)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Legends of Haranir
+    [89284] = "Legends of Haranir: Selected any relic",
+    [89266] = "Legends of Haranir: Selected Wey'nan's Ward",
+    [91049] = "Legends of Haranir: Selected Cauldron of Echoes",
+    [91053] = "Legends of Haranir: Turned in Lost Legends (Wey'nan's Ward)",
+    [91054] = "Legends of Haranir: Turned in Lost Legends (Cauldron of Echoes)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 12.0 Misc
