@@ -949,6 +949,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83727] = "Enchanting: Algari Treatise on Enchanting used (weekly)",
     [83258] = "Enchanting: Powdered Fulgurance looted (weekly)",
     [83259] = "Enchanting: Crystalline Repository looted (weekly)",
+    [95048] = "Enchanting: Disenchant Swirling Arcane Essence 1/5 (weekly)",
+    [95049] = "Enchanting: Disenchant Swirling Arcane Essence 2/5 (weekly)",
+    [95050] = "Enchanting: Disenchant Swirling Arcane Essence 3/5 (weekly)",
+    [95051] = "Enchanting: Disenchant Swirling Arcane Essence 4/5 (weekly)",
+    [95052] = "Enchanting: Disenchant Swirling Arcane Essence 5/5 (weekly)",
+    [95053] = "Enchanting: Disenchant Brimming Mana Shard (weekly)",
+    [95129] = "Enchanting: Thalassian Treatise on Enchanting used (weekly)",
+    [93532] = "Enchanting: Voidstorm Ashes looted (weekly)",
+    [93533] = "Enchanting: Lost Thalassian Vellum looted (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Engineering
