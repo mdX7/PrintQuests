@@ -6,8 +6,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [81626] = "Severed Threads - The General: Reached Crony (2/8) reputation",
     [81598] = "Severed Threads - The Weaver: Reached Crony (2/8) reputation",
     [81627] = "Severed Threads - The Weaver: Reached Crony (2/8) reputation",
-    [80415] = "War Supply Chest on Siren Isle/Azj'kahet looted?",
-    [80416] = "War Supply Chest on Siren Isle/Azj'kahet looted?",
+    [80415] = "First War Supply Chest looted 1/2? (daily/weekly?)",
+    [80416] = "First War Supply Chest looted 2/2? (daily/weekly?)",
     [84873] = "Siren Isle Rare: Kill X Rares?",
     [85714] = "Siren Isle: Rune-Sealed Coffer solved (in Stormtide Dregs)?",
     [86171] = "Siren Isle: Rune-Sealed Coffer looted (in Stormtide Dregs)?",
@@ -83,46 +83,47 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [46775] = "Legionfall Campaign: Turned in Champions of Legionfall",
 
     [92857] = "After killing small Infernal of End Times / Looting Pamphlet / First Infernal / First Pamphlet",
-
+    
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
-
+    
     [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
-
+    
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
-
+    
     [92088] = "After completing The Gulf of Memory Tier 1 while on Down the Rootways quest",
-
+    
     [90806] = "Completed Midnight Main Campaign / Unlocked WQs?",
-
+    
     [75754] = "Seen story so far on Midnight Launch?",
-
-    [93790] = "Voidstorm Special Assignment done?",
-
-    [94410] = "Pinnacle Cache contained Adventurer equipment 1/2 (weekly?)",
-
+    
     [88770] = "Abundance unlock / finished Tutorial?",
-    [94952] = "Abundance: Received 2x Shard of Dundun on accepting first weekly",
     [91432] = "Abundance: Started Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
     [94426] = "Abundance: Finished Abundant Harvest in Watha'nan Crypts / Eversong Woods?",
-
+    
     [89266] = "Legends of Haranir: Selected Wey'nan's Ward 1/2",
     [89284] = "Legends of Haranir: Selected Wey'nan's Ward 2/2",
     [91053] = "Legends of Haranir: Turned in Lost Legends",
 
-    [95000] = "First Prey (Normal) / Eversong Woods finished?",
-    [93168] = "First Prey (Normal) / Eversong Woods turned in 1/2?",
-    [93872] = "First Prey (Normal) / Eversong Woods turned in 2/2?",
-
-    [95001] = "First Prey (Heroic) / Harandar finished?",
-    [93169] = "First Prey (Heroic) / Harandar turned in 1/2?",
-    [93873] = "First Prey (Heroic) / Harandar turned in 2/2?",
+    [94410] = "Pinnacle Cache containing Adventurer equipment looted?",
+    
+    [95000] = "Prey: Killed 1/x",
+    [95001] = "Prey: Killed 2/x",
+    [95002] = "Prey: Killed 3/x",
+    
+    [93168] = "Prey Normal: Turned in 1/x?",
+    
+    [93872] = "Prey: Eversong Woods turned in 1/x",
+    
+    [93873] = "Prey Hard: Harandar/Zul'Aman turned in 1/x",
+    [93875] = "Prey Hard: Voidstorm turned in 1/x",
 
     [95002] = "Second Prey (Heroic) / Zul'Aman finished?",
-    [93857] = "Second Prey (Heroic) / Zul'Aman turned in 1/2?",
-    [93874] = "Second Prey (Heroic) / Zul'Aman turned in 2/2?",
+    [93874] = "Prey Hard: Turned in (always rewarded on finishing?)",
+    
+    [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -930,11 +931,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88470] = "Mining: First Voidbound Umbral Tin looted",
     [88481] = "Mining: First Umbral Tin Seam looted",
     [88478] = "Mining: First Rich Umbral Tin looted",
-    [88673] = "Mining: Igneous Rock Specimen 1/5 looted",
-    [88674] = "Mining: Igneous Rock Specimen 2/5 looted",
-    [88675] = "Mining: Igneous Rock Specimen 3/5 looted",
-    [88676] = "Mining: Igneous Rock Specimen 4/5 looted",
-    [88677] = "Mining: Igneous Rock Specimen 5/5 looted",
+    [88673] = "Mining: Igneous Rock Specimen 1/5 looted (weekly)",
+    [88674] = "Mining: Igneous Rock Specimen 2/5 looted (weekly)",
+    [88675] = "Mining: Igneous Rock Specimen 3/5 looted (weekly)",
+    [88676] = "Mining: Igneous Rock Specimen 4/5 looted (weekly)",
+    [88677] = "Mining: Igneous Rock Specimen 5/5 looted (weekly)",
     [88678] = "Mining: Septarian Nodule looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -994,7 +995,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81307] = "Engineering First Time Craft: Blasting Bracers",
     [86630] = "Engineering: Wormhole Generator: Undermine unlocked",
     [93535] = "Engineering: Dawn Capacitor looted",
-    [93535] = "Engineering: Dance Gear looted",
+    [93534] = "Engineering: Dance Gear looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Fishing
@@ -1845,20 +1846,21 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91788] = "Arsenal: Weathered Twilight's Hammer Armaments",
     [92019] = "Ensemble: Well-Worn Twilight Cultist's Attire",
 
-    -- Isle of Quel'Danas
-    [92620] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 38, 33)",
-    [92621] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 54, 23)",
-    [92622] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 35, 29)",
-    [92623] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 59, 35)",
-    [92624] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 63, 34)",
-    [92625] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 39, 23)",
-    [94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
-    [95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
-    [95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
+	-- Isle of Quel'Danas
+	[92620] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 38, 33)",
+	[92621] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 54, 23)",
+	[92622] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 35, 29)",
+	[92623] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 59, 35)",
+	[92624] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 63, 34)",
+	[92625] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 39, 23)",
+	[94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
+	[95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
+	[95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Eversong Woods
     [94540] = "Eversong Woods Highest Peak: Vista Point",
+    [94537] = "Eversong Woods Highest Peak: Sunstrider Isle",
     [93545] = "Eversong Woods Treasure: Gift of the Phoenix unlocked",
     [93544] = "Eversong Woods Treasure: Gift of the Phoenix looted",
     [89147] = "Eversong Woods Treasure: Solid Ore Punchers looted",
@@ -1876,7 +1878,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94686] = "Eversong Woods Rare: Cre'van reputation bonus",
     [92403] = "Eversong Woods Rare: Banuran killed",
     [94692] = "Eversong Woods Rare: Banuran reputation bonus",
-
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -1885,6 +1887,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92108] = "Stay a while and listen: Zul'jan on quest Broken Bridges (91062)",
     [94628] = "Zul'Aman: Interacted with Tablet of Halazzi",
     [94631] = "Zul'Aman: Interacted with Tablet of Jan'alai",
+    [94674] = "Zul'Aman: Interacted with Tablet of Filo",
     [91964] = "Zul'Aman: Selected Kagara for Love Triangle quest",
     [91965] = "Zul'Aman: Selected Zak'kash for Love Triangle quest",
     [89145] = "Zul'Aman Treasure: Spelunker's Lucky Charm looted",
@@ -1901,11 +1904,19 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94908] = "Stay a while and listen: Orweyna and Ku'paal on quest The Hunter Awaits (86836)",
     [94991] = "Stay a while and listen: Orweyna and Amarakk on quest Search of the Problem (86865)",
     [94951] = "Stay a while and listen: Orweyna and Hannan on quest Can We Heal This? (86866)",
-    [93470] = "Harandar Book: Laments of Wey'nan --Part 1: Finding Hope read",
+    [94547] = "Harandar Highest Peak: Har'kual",
+    [93470] = "Harandar: Interacted with Laments of Wey'nan --Part 1: Finding Hope",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
+    [92424] = "Harandar Treasure: Shroom Jumper's Parachute looted",
+    [92216] = "Harandar Treasure: Glowing Moth looted 1/x",
+    [92245] = "Harandar Treasure: Glowing Moth looted 2/x",
+    [92226] = "Harandar Treasure: Glowing Moth looted 3/x",
+    [92303] = "Harandar Treasure: Glowing Moth looted 4/x",
+    [92304] = "Harandar Treasure: Glowing Moth looted 5/x",
+    [92238] = "Harandar Treasure: Glowing Moth looted 6/x",
     [92161] = "Harandar Rare: Chlorokyll killed",
     [94717] = "Harandar Rare: Chlorokyll reputation bonus",
-
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [93515] = "Renown The Singularity unlocked",
@@ -1915,9 +1926,27 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89146] = "Voidstorm Treasure: Lost Voidstorm Satchel looted",
     [89144] = "Voidstorm Treasure: Miners' Guide to Voidstorm looted",
     [94454] = "Voidstorm Treasure: Researcher's Shadowgraft looted",
-
+    [94461] = "Voidstorm Rare: Hardin Steellock killed",
+    
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Saltherils Soiree
-    [89290] = "Saltherils Soiree: Invited Blood Knights",
-    [95113] = "Saltherils Soiree Blood Knights: Reached Guest Rank",
+    [89290] = "Saltherils Soiree: Selected Favor of the Court guests",
+    [89283] = "Saltherils Soiree: Invited Magisters",
+    [95113] = "Saltherils Soiree: Turned in Fortify the Runestones quest",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Abundance
+    [94952] = "Abundance: Received 2x Shard of Dundun on accepting weekly",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Prey Hunting
+    [93169] = "Prey Hard: Turned in 1/4 (Veteran Gear)",
+    [93857] = "Prey Hard: Turned in 2/4 (Veteran Gear)",
+    [93858] = "Prey Hard: Turned in 3/4 (Veteran Crests)",
+    [93860] = "Prey Hard: Turned in 4/4 (Veteran Crests)",
+    
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 12.0 Misc
+    [93790] = "Pinnacle Cache containing Adventurer equipment received 1/2 (weekly)",
+    [93793] = "Pinnacle Cache containing Adventurer equipment received 2/2 (weekly)",
 }
