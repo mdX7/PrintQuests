@@ -1938,6 +1938,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92238] = "Harandar Treasure: Glowing Moth looted 6/x",
     [92161] = "Harandar Rare: Chlorokyll killed",
     [94717] = "Harandar Rare: Chlorokyll reputation bonus",
+    [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
