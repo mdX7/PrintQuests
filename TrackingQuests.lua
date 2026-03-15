@@ -116,6 +116,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [93874] = "Prey Hard: Turned in (always rewarded on finishing?)",
 
     [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
+
+    [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802"
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
