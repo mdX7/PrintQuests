@@ -110,6 +110,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95002] = "Prey: Killed 3/x",
     [93168] = "Prey Normal: Turned in 1/x?",
     [93872] = "Prey: Eversong Woods turned in 1/x",
+    [91414] = "Prey Hard: Selected random (Consul Nebulor)?",
     [93873] = "Prey Hard: Harandar/Zul'Aman turned in 1/x",
     [93875] = "Prey Hard: Voidstorm turned in 1/x",
     [95002] = "Prey Hard: Zul'Aman finished?",
@@ -117,7 +118,14 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
     [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
 
-    [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802"
+    [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802",
+
+    [93981] = "Voidspire Trash: Normal Gladius Slauros killed",
+    [95343] = "Voidspire Trash: Normal Voidlight Everdawn killed",
+    [93993] = "Voidspire Trash: Normal Blinky killed",
+    [95535] = "Voidspire Boss: Normal Crown of the Cosmos killed 1/3",
+    [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
+    [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3"
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -931,6 +939,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88676] = "Mining: Igneous Rock Specimen 4/5 looted (weekly)",
     [88677] = "Mining: Igneous Rock Specimen 5/5 looted (weekly)",
     [88678] = "Mining: Septarian Nodule looted",
+    [92187] = "Mining Book: Echo of Abundance: Mining used",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Enchanting
