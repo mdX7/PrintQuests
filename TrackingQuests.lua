@@ -121,11 +121,20 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802",
 
     [93981] = "Voidspire Trash: Normal Gladius Slauros killed",
+    [93982] = "Voidspire Trash: Heroic Gladius Slauros killed",
+    [95342] = "Voidspire Trash: LFR Voidlight Everdawn killed",
     [95343] = "Voidspire Trash: Normal Voidlight Everdawn killed",
+    [95341] = "Voidspire Trash: Heroic Voidlight Everdawn killed",
     [93993] = "Voidspire Trash: Normal Blinky killed",
+    [93994] = "Voidspire Trash: Heroic Blinky killed",
     [95535] = "Voidspire Boss: Normal Crown of the Cosmos killed 1/3",
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3"
+
+    [93866] = "Died within delve?",
+    [92887] = "Looted Nulleus Cache in Tier 8 Delve?",
+    [93819] = "Looted Bountiful Coffer in Twilight Crypts?",
+    [93822] = "Looted Bountiful Coffer in The Shadow Enclave?",
 }
 
 PrintQuests.ConfidentlyNamedTrackingQuests = {
@@ -926,6 +935,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88476] = "Mining: First Rich Refulgent Copper looted",
     [88487] = "Mining: First Lightfused Refulgent Copper looted",
     [88486] = "Mining: First Wild Refulgent Copper looted",
+    [88479] = "Mining: First Primal Refulgent Copper looted",
     [88463] = "Mining: First Voidbound Refulgent Copper looted",
     [88477] = "Mining: First Umbral Tin looted",
     [88469] = "Mining: First Primal Umbral Tin looted",
@@ -1008,6 +1018,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [86630] = "Engineering: Wormhole Generator: Undermine unlocked",
     [93535] = "Engineering: Dawn Capacitor looted",
     [93534] = "Engineering: Dance Gear looted",
+    [89133] = "Engineering: One Engineer's Junk looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Fishing
@@ -1693,6 +1704,27 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94016] = "The Gulf of Memory - Sturdy Chest at 40 26.5 (account, onetime)",
     [94023] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on ground (account, onetime)",
     [94041] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on top of roots (account, onetime)",
+    [93881] = "Bought Delver's Cosmetic Surprise Bag",
+    [93880] = "Bought Delver's Starter Kit",
+    [94020] = "Twilight Crypts - Sturdy Chest at 56.8 85.2 (account, onetime)",
+    [94037] = "Twilight Crypts - Sturdy Chest at 47.0 49.9 (account, onetime)",
+    [94034] = "Twilight Crypts - Sturdy Chest at 21.7 36.4 (account, onetime)",
+    [91190] = "Bountiful Twilight Crypts completed (daily)",
+    [91189] = "Bountiful Shadow Enclave completed (daily)",
+    [92090] = "Valeera Sanguinar reached Level 5 (account, onetime)",
+    [92091] = "Valeera Sanguinar reached Level 6 (account, onetime)",
+    [92092] = "Valeera Sanguinar reached Level 7 (account, onetime)",
+    [92093] = "Valeera Sanguinar reached Level 8 (account, onetime)",
+    [92756] = "Valeera Sanguinar reached Level 9 (account, onetime)",
+    [92758] = "Valeera Sanguinar reached Level 10 (account, onetime)",
+    [92759] = "Valeera Sanguinar reached Level 11 (account, onetime)",
+    [92760] = "Valeera Sanguinar reached Level 12 (account, onetime)",
+    [92761] = "Valeera Sanguinar reached Level 13 (account, onetime)",
+    [92762] = "Valeera Sanguinar reached Level 14 (account, onetime)",
+    [92763] = "Valeera Sanguinar reached Level 15 (account, onetime)",
+    [92764] = "Valeera Sanguinar reached Level 16 (account, onetime)",
+    [92765] = "Valeera Sanguinar reached Level 17 (account, onetime)",
+    [92766] = "Valeera Sanguinar reached Level 18 (account, onetime)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -1991,4 +2023,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- 12.0 Misc
     [93790] = "Pinnacle Cache containing Adventurer equipment received 1/2 (weekly)",
     [93793] = "Pinnacle Cache containing Adventurer equipment received 2/2 (weekly)",
+    [94419] = "Received 10x Veteran Dawncrest for quest Crest Transmutation (94418)",
 }
