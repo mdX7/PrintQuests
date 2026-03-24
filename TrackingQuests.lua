@@ -129,7 +129,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [93994] = "Voidspire Trash: Heroic Blinky killed",
     [95535] = "Voidspire Boss: Normal Crown of the Cosmos killed 1/3",
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
-    [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3"
+    [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3",
 
     [92887] = "Looted Nulleus Cache in Tier 8 Delve?",
     [93819] = "Looted Bountiful Coffer in Twilight Crypts?",
