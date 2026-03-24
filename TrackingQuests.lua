@@ -87,8 +87,8 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
 
-    [82772] = "After completing Tier 1 Midnight delve 1/3 (daily)",
-    [85719] = "After completing Tier 1 Midnight delve 2/3 (daily)",
+    [82772] = "After completing Tier 1 Midnight delve 1/3 (daily, account)",
+    [85719] = "After completing Tier 1 Midnight delve 2/3 (daily, account)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
 
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
@@ -131,7 +131,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3"
 
-    [93866] = "Died within delve?",
     [92887] = "Looted Nulleus Cache in Tier 8 Delve?",
     [93819] = "Looted Bountiful Coffer in Twilight Crypts?",
     [93822] = "Looted Bountiful Coffer in The Shadow Enclave?",
@@ -823,8 +822,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [85682] = "Magni Bronzebeard Stay a while and listen in front of The Archive",
     [82542] = "Rooktender Lufsela Stay a while and listen in front of Thrall, Shraubendre",
     [84813] = "Rooktender Lufsela Stay a while and listen in Dhar Oztan",
-    [86400] = "Received free Carved Undermine Crest for Crest Transmutation (86401)",
-    [91744] = "Received free Carved Ethereal Crest for Crest Transmutation S3 (86365)",
+    [86400] = "Received free Carved Undermine Crest for Crest Transmutation TWW S2 (86401)",
+    [91744] = "Received free Carved Ethereal Crest for Crest Transmutation TWW S3 (86365)",
     [86878] = "Used Nightfall Sanctum Campsite",
     [85685] = "Weekly Fractured Spark of Starlight",
     [93399] = "Shut up Geyarah conversation in Dornogal",
@@ -881,6 +880,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83253] = "Alchemy: Alchemical Sediment looted (weekly)",
     [83255] = "Alchemy: Deepstone Crucible looted (weekly)",
     [83725] = "Alchemy: Algari Treatise on Alchemy used (weekly)",
+    [93528] = "Alchemy: Lightbloomed Spore Sample looted (weekly)",
+    [93529] = "Alchemy: Aged Cruor looted (weekly)",
+    [95127] = "Alchemy: Thalassian Treatise on Alchemy used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Blacksmithing
@@ -1086,6 +1088,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Inscription
     [83730] = "Inscription: Algari Treatise on Inscription used (weekly)",
+    [95131] = "Inscription: Thalassian Treatise on Inscription used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Jewelcrafting
@@ -1704,11 +1707,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94016] = "The Gulf of Memory - Sturdy Chest at 40 26.5 (account, onetime)",
     [94023] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on ground (account, onetime)",
     [94041] = "The Gulf of Memory - Sturdy Chest at 55.5 25.3 on top of roots (account, onetime)",
-    [93881] = "Bought Delver's Cosmetic Surprise Bag",
-    [93880] = "Bought Delver's Starter Kit",
+    [93880] = "Delver's Starter Kit bought Midnight S1",
+    [93881] = "Delver's Cosmetic Surprise Bag bought Midnight S1",
     [94020] = "Twilight Crypts - Sturdy Chest at 56.8 85.2 (account, onetime)",
     [94037] = "Twilight Crypts - Sturdy Chest at 47.0 49.9 (account, onetime)",
     [94034] = "Twilight Crypts - Sturdy Chest at 21.7 36.4 (account, onetime)",
+    [94017] = "Shadowguard Point - Sturdy Chest at 41.7 54.0 (account, onetime)",
+    [94025] = "Shadowguard Point - Sturdy Chest at 58.3 41.4 (account, onetime)",
+    [94044] = "Shadowguard Point - Sturdy Chest at 58.6 60.6 (account, onetime)",
     [91190] = "Bountiful Twilight Crypts completed (daily)",
     [91189] = "Bountiful Shadow Enclave completed (daily)",
     [92090] = "Valeera Sanguinar reached Level 5 (account, onetime)",
@@ -1725,6 +1731,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92764] = "Valeera Sanguinar reached Level 16 (account, onetime)",
     [92765] = "Valeera Sanguinar reached Level 17 (account, onetime)",
     [92766] = "Valeera Sanguinar reached Level 18 (account, onetime)",
+    [93866] = "Delves - died in a delve and received mail from Nelthius Shadestone",
+    [93867] = "Delves - Unlocked Delver's Delight gravestone cosmetic",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -1924,6 +1932,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Eversong Woods
     [94540] = "Eversong Woods Highest Peak: Vista Point",
     [94537] = "Eversong Woods Highest Peak: Sunstrider Isle",
+    [94538] = "Eversong Woods Highest Peak: West of Fairbreeze Village",
     [93545] = "Eversong Woods Treasure: Gift of the Phoenix unlocked",
     [93544] = "Eversong Woods Treasure: Gift of the Phoenix looted",
     [89147] = "Eversong Woods Treasure: Solid Ore Punchers looted",
@@ -1935,12 +1944,27 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93893] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 1/2",
     [94747] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 2/2",
     [89103] = "Eversong Woods Treasure: Everblazing Sunmote",
-    [92392] = "Eversong Woods Rare: Dormant Lightbloom Hydra killed",
-    [94684] = "Eversong Woods Rare: Dormant Lightbloom Hydra reputation bonus",
-    [92391] = "Eversong Woods Rare: Cre'van killed",
-    [94686] = "Eversong Woods Rare: Cre'van reputation bonus",
-    [92403] = "Eversong Woods Rare: Banuran killed",
-    [94692] = "Eversong Woods Rare: Banuran reputation bonus",
+    [92392] = "Eversong Woods Rare: Dormant Lightbloom Hydra killed (daily)",
+    [94684] = "Eversong Woods Rare: Dormant Lightbloom Hydra reputation bonus (account, onetime)",
+    [92391] = "Eversong Woods Rare: Cre'van killed (daily)",
+    [94686] = "Eversong Woods Rare: Cre'van reputation bonus (account, onetime)",
+    [92403] = "Eversong Woods Rare: Banuran killed (daily)",
+    [94692] = "Eversong Woods Rare: Banuran reputation bonus (account, onetime)",
+    [93555] = "Eversong Woods Rare: Malfunctioning Construct killed (daily)",
+    [94695] = "Eversong Woods Rare: Malfunctioning Construct reputation bonus (account, onetime)",
+    [91315] = "Eversong Woods Rare: Harried Hawkstrider killed (daily)",
+    [94682] = "Eversong Woods Rare: Harried Hawkstrider reputation bonus (account, onetime)",
+    [92409] = "Eversong Woods Rare: Terrinor killed (daily)",
+    [94689] = "Eversong Woods Rare: Terrinor reputation bonus (account, onetime)",
+    [92404] = "Eversong Woods Rare: Bad Zed killed (daily)",
+    [94690] = "Eversong Woods Rare: Bad Zed reputation bonus (account, onetime)",
+    [92399] = "Eversong Woods Rare: Lost Guardian killed (daily)",
+    [94693] = "Eversong Woods Rare: Lost Guardian reputation bonus (account, onetime)",
+    [91280] = "Eversong Woods Rare: Warden of Weeds killed (daily)",
+    [94681] = "Eversong Woods Rare: Warden of Weeds reputation bonus (account, onetime)",
+    [93561] = "Eversong Woods Rare: Dame Bloodshed killed (daily)",
+    [94696] = "Eversong Woods Rare: Dame Bloodshed reputation bonus (account, onetime)",
+    [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
@@ -1957,8 +1981,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89149] = "Zul'Aman Treasure: Amani Expert's Chisel looted",
     [90798] = "Zul'Aman Treasure: Secret Formula looted",
     [90799] = "Zul'Aman Treasure: Abandoned Nest looted",
-    [89573] = "Zul'Aman Rare: Depthborn Eelamental killed",
-    [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus",
+    [89573] = "Zul'Aman Rare: Depthborn Eelamental killed (daily)",
+    [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus (account, onetime)",
+    [89569] = "Zul'Aman Rare: Necrohexxer Raz'ka killed (daily)",
+    [94683] = "Zul'Aman Rare: Necrohexxer Raz'ka reputation bonus (account, onetime)",
+    [91072] = "Zul'Aman Rare: The Decaying Diamondback killed (daily)",
+    [94709] = "Zul'Aman Rare: The Decaying Diamondback reputation bonus (account, onetime)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
@@ -1979,8 +2007,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92303] = "Harandar Treasure: Glowing Moth looted 4/x",
     [92304] = "Harandar Treasure: Glowing Moth looted 5/x",
     [92238] = "Harandar Treasure: Glowing Moth looted 6/x",
-    [92161] = "Harandar Rare: Chlorokyll killed",
-    [94717] = "Harandar Rare: Chlorokyll reputation bonus",
+    [92161] = "Harandar Rare: Chlorokyll killed (daily)",
+    [94717] = "Harandar Rare: Chlorokyll reputation bonus (account, onetime)",
+    [92170] = "Harandar Rare: Serrasa killed (daily)",
+    [94719] = "Harandar Rare: Serrasa reputation bonus (account, onetime)",
+    [91832] = "Harandar Rare: Rhazul killed (daily)",
+    [94712] = "Harandar Rare: Rhazul reputation bonus (account, onetime)",
+    [92142] = "Harandar Rare: Ha'kalawe killed (daily)",
+    [94714] = "Harandar Rare: Ha'kalawe reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -1992,12 +2026,30 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89146] = "Voidstorm Treasure: Lost Voidstorm Satchel looted",
     [89144] = "Voidstorm Treasure: Miners' Guide to Voidstorm looted",
     [94454] = "Voidstorm Treasure: Researcher's Shadowgraft looted",
-    [94461] = "Voidstorm Rare: Hardin Steellock killed",
+    [89112] = "Voidstorm Treasure: Vial of Voidstorm Oddities looted",
+    [94461] = "Voidstorm Rare: Hardin Steellock killed (daily)",
+    [94757] = "Voidstorm Rare: Hardin Steellock reputation bonus (account, onetime)",
+    [93895] = "Voidstorm Rare: Ravengerus killed (daily)",
+    [94763] = "Voidstorm Rare: Ravengerus reputation bonus (account, onetime)",
+    [93896] = "Voidstorm Rare: Far'thana the Mad killed (daily)",
+    [94755] = "Voidstorm Rare: Far'thana the Mad reputation bonus (account, onetime)",
+    [93953] = "Voidstorm Rare: Rakshur the Bonegrinder killed (daily)",
+    [94762] = "Voidstorm Rare: Rakshur the Bonegrinder reputation bonus (account, onetime)",
+    [91051] = "Voidstorm Rare: Nightbrood killed (daily)",
+    [94759] = "Voidstorm Rare: Nightbrood reputation bonus (account, onetime)",
+    [94458] = "Voidstorm Rare: The Many-Broken killed (daily)",
+    [94764] = "Voidstorm Rare: The Many-Broken reputation bonus (account, onetime)",
+    [94459] = "Voidstorm Rare: Voidseer Orivane killed (daily)",
+    [94765] = "Voidstorm Rare: Voidseer Orivane reputation bonus (account, onetime)",
+    [93884] = "Voidstorm Rare: Bilemaw the Gluttonous killed (daily)",
+    [94752] = "Voidstorm Rare: Bilemaw the Gluttonous reputation bonus (account, onetime)",
+    [92130] = "Predaxas world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Saltherils Soiree
     [89290] = "Saltherils Soiree: Selected Favor of the Court guests",
     [89283] = "Saltherils Soiree: Invited Magisters",
+    [89427] = "Saltherils Soiree: Invited Blood Knights",
     [95113] = "Saltherils Soiree: Turned in Fortify the Runestones quest",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2023,5 +2075,5 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- 12.0 Misc
     [93790] = "Pinnacle Cache containing Adventurer equipment received 1/2 (weekly)",
     [93793] = "Pinnacle Cache containing Adventurer equipment received 2/2 (weekly)",
-    [94419] = "Received 10x Veteran Dawncrest for quest Crest Transmutation (94418)",
+    [94419] = "Received free Veteran Dawncrest for Crest Transmutation Midnight S1 (94418)",
 }
