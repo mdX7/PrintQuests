@@ -120,6 +120,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
 
     [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802",
 
+    [93980] = "Voidspire Trash: LFR Gladius Slauros killed",
     [93981] = "Voidspire Trash: Normal Gladius Slauros killed",
     [93982] = "Voidspire Trash: Heroic Gladius Slauros killed",
     [95342] = "Voidspire Trash: LFR Voidlight Everdawn killed",
@@ -127,6 +128,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95341] = "Voidspire Trash: Heroic Voidlight Everdawn killed",
     [93993] = "Voidspire Trash: Normal Blinky killed",
     [93994] = "Voidspire Trash: Heroic Blinky killed",
+    [93984] = "Voidspire Trash: LFR Celestial Behemoth killed",
     [95535] = "Voidspire Boss: Normal Crown of the Cosmos killed 1/3",
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3",
