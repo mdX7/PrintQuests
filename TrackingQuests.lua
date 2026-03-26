@@ -947,6 +947,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88470] = "Mining: First Voidbound Umbral Tin looted",
     [88481] = "Mining: First Umbral Tin Seam looted",
     [88478] = "Mining: First Rich Umbral Tin looted",
+    [88488] = "Mining: First Lightfused Umbral Tin looted",
     [88673] = "Mining: Igneous Rock Specimen 1/5 looted (weekly)",
     [88674] = "Mining: Igneous Rock Specimen 2/5 looted (weekly)",
     [88675] = "Mining: Igneous Rock Specimen 3/5 looted (weekly)",
@@ -1086,6 +1087,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81420] = "Herbalism: Deepgrove Petal 5/5 looted (weekly)",
     [81421] = "Herbalism: Deepgrove Rose looted (weekly)",
     [83729] = "Herbalism: Algari Treatise on Herbalism used (weekly)",
+    [87729] = "Herbalism: First Tranquility Bloom looted",
+    [87730] = "Herbalism: First Lush Tranquility Bloom looted",
+    [87731] = "Herbalism: First Lightfused Tranquility Bloom looted",
+    [87735] = "Herbalism: First Sanguithorn looted",
+    [87741] = "Herbalism: First Azeroot looted",
+    [87743] = "Herbalism: First Lightfused Azeroot looted",
+    [87747] = "Herbalism: First Argentleaf looted",
+    [87753] = "Herbalism: First Mana Lily looted",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Inscription
@@ -1717,6 +1726,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94017] = "Shadowguard Point - Sturdy Chest at 41.7 54.0 (account, onetime)",
     [94025] = "Shadowguard Point - Sturdy Chest at 58.3 41.4 (account, onetime)",
     [94044] = "Shadowguard Point - Sturdy Chest at 58.6 60.6 (account, onetime)",
+    [94042] = "Sunkiller Sanctum - Sturdy Chest at 37.8 48.6 (Upper) (account, onetime)",
+    [94043] = "Sunkiller Sanctum - Sturdy Chest at 49.7 50.9 (Lower) (account, onetime)",
+    [94027] = "The Darkway - Sturdy Chest at 42.0 49.5 (account, onetime)",
     [91190] = "Bountiful Twilight Crypts completed (daily)",
     [91189] = "Bountiful Shadow Enclave completed (daily)",
     [92090] = "Valeera Sanguinar reached Level 5 (account, onetime)",
@@ -1733,6 +1745,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92764] = "Valeera Sanguinar reached Level 16 (account, onetime)",
     [92765] = "Valeera Sanguinar reached Level 17 (account, onetime)",
     [92766] = "Valeera Sanguinar reached Level 18 (account, onetime)",
+    [92774] = "Valeera Sanguinar reached Level 26 (account, onetime)",
+    [92775] = "Valeera Sanguinar reached Level 27 (account, onetime)",
+    [92776] = "Valeera Sanguinar reached Level 28 (account, onetime)",
+    [92777] = "Valeera Sanguinar reached Level 29 (account, onetime)",
+    [92778] = "Valeera Sanguinar reached Level 30 (account, onetime)",
+    [92779] = "Valeera Sanguinar reached Level 31 (account, onetime)",
     [93866] = "Delves - died in a delve and received mail from Nelthius Shadestone",
     [93867] = "Delves - Unlocked Delver's Delight gravestone cosmetic",
 
@@ -1989,6 +2007,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94683] = "Zul'Aman Rare: Necrohexxer Raz'ka reputation bonus (account, onetime)",
     [91072] = "Zul'Aman Rare: The Decaying Diamondback killed (daily)",
     [94709] = "Zul'Aman Rare: The Decaying Diamondback reputation bonus (account, onetime)",
+    [89580] = "Zul'Aman Rare: Tiny Vermin killed (daily)",
+    [94704] = "Zul'Aman Rare: Tiny Vermin reputation bonus (account, onetime)",
+    [92128] = "Cragpine world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
@@ -2017,6 +2038,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94712] = "Harandar Rare: Rhazul reputation bonus (account, onetime)",
     [92142] = "Harandar Rare: Ha'kalawe killed (daily)",
     [94714] = "Harandar Rare: Ha'kalawe reputation bonus (account, onetime)",
+    [92168] = "Harandar Rare: Stumpy killed (daily)",
+    [94718] = "Harandar Rare: Stumpy reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2045,6 +2068,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94765] = "Voidstorm Rare: Voidseer Orivane reputation bonus (account, onetime)",
     [93884] = "Voidstorm Rare: Bilemaw the Gluttonous killed (daily)",
     [94752] = "Voidstorm Rare: Bilemaw the Gluttonous reputation bonus (account, onetime)",
+    [93944] = "Voidstorm Rare: Aeonelle Blackstar killed (daily)",
+    [94751] = "Voidstorm Rare: Aeonelle Blackstar reputation bonus (account, onetime)",
+    [90805] = "Voidstorm Rare: Sundereth the Caller killed (daily)",
+    [94728] = "Voidstorm Rare: Sundereth the Caller reputation bonus (account, onetime)",
     [92130] = "Predaxas world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
