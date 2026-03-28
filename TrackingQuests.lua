@@ -2001,6 +2001,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94681] = "Eversong Woods Rare: Warden of Weeds reputation bonus (account, onetime)",
     [93561] = "Eversong Woods Rare: Dame Bloodshed killed (daily)",
     [94696] = "Eversong Woods Rare: Dame Bloodshed reputation bonus (account, onetime)",
+    [92366] = "Eversong Woods Rare: Bloated Snapdragon killed (daily)",
+    [94685] = "Eversong Woods Rare: Bloated Snapdragon reputation bonus (account, onetime)",
     [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2060,6 +2062,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94714] = "Harandar Rare: Ha'kalawe reputation bonus (account, onetime)",
     [92168] = "Harandar Rare: Stumpy killed (daily)",
     [94718] = "Harandar Rare: Stumpy reputation bonus (account, onetime)",
+    [92172] = "Harandar Rare: Mindrot killed (daily)",
+    [94720] = "Harandar Rare: Mindrot reputation bonus (account, onetime)",
+    [92194] = "Harandar Rare: Annulus the Worldshaker killed (daily)",
+    [94726] = "Harandar Rare: Annulus the Worldshaker reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2092,6 +2098,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94751] = "Voidstorm Rare: Aeonelle Blackstar reputation bonus (account, onetime)",
     [90805] = "Voidstorm Rare: Sundereth the Caller killed (daily)",
     [94728] = "Voidstorm Rare: Sundereth the Caller reputation bonus (account, onetime)",
+    [93946] = "Voidstorm Rare: Bane of the Vilebloods killed (daily)",
+    [94732] = "Voidstorm Rare: Bane of the Vilebloods reputation bonus (account, onetime)",
     [92130] = "Predaxas world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
