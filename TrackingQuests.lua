@@ -87,7 +87,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [93817] = "Enable Midnight (12.0) intro skip?",
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
 
-    [82772] = "After completing Tier 1 Midnight delve 1/3 (daily, account)",
+    [82772] = "After completing Tier 1/Tier11 Midnight delve 1/3, first delve of the week? (daily, account)",
     [85719] = "After completing Tier 1 Midnight delve 2/3 (daily, account)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
 
@@ -124,9 +124,9 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3",
 
-    [92887] = "Looted Nulleus Cache in Tier 8 Delve?",
     [93819] = "Looted Bountiful Coffer in Twilight Crypts?",
-    [93822] = "Looted Bountiful Coffer in The Shadow Enclave?",
+    [93821] = "Looted Bountiful Coffer in The Gulf of Memory?",
+    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity?",
 
     [93789] = "Opened Apex Cache 1/x",
 }
@@ -1724,6 +1724,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94027] = "The Darkway - Sturdy Chest at 42.0 49.5 (account, onetime)",
     [91190] = "Bountiful Twilight Crypts completed (daily)",
     [91189] = "Bountiful Shadow Enclave completed (daily)",
+    [91186] = "Bountiful Collegiate Calamity completed (daily)",
+    [91187] = "Bountiful The Gulf of Memory completed (daily)",
     [92090] = "Valeera Sanguinar reached Level 5 (account, onetime)",
     [92091] = "Valeera Sanguinar reached Level 6 (account, onetime)",
     [92092] = "Valeera Sanguinar reached Level 7 (account, onetime)",
@@ -1738,6 +1740,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92764] = "Valeera Sanguinar reached Level 16 (account, onetime)",
     [92765] = "Valeera Sanguinar reached Level 17 (account, onetime)",
     [92766] = "Valeera Sanguinar reached Level 18 (account, onetime)",
+    [92767] = "Valeera Sanguinar reached Level 19 (account, onetime)",
+    [92768] = "Valeera Sanguinar reached Level 20 (account, onetime)",
+    [92769] = "Valeera Sanguinar reached Level 21 (account, onetime)",
+    [92770] = "Valeera Sanguinar reached Level 22 (account, onetime)",
+    [92771] = "Valeera Sanguinar reached Level 23 (account, onetime)",
+    [92772] = "Valeera Sanguinar reached Level 24 (account, onetime)",
+    -- [xxxxx] = "Valeera Sanguinar reached Level 25 (account, onetime)",
     [92774] = "Valeera Sanguinar reached Level 26 (account, onetime)",
     [92775] = "Valeera Sanguinar reached Level 27 (account, onetime)",
     [92776] = "Valeera Sanguinar reached Level 28 (account, onetime)",
@@ -1746,6 +1755,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92779] = "Valeera Sanguinar reached Level 31 (account, onetime)",
     [93866] = "Delves - died in a delve and received mail from Nelthius Shadestone",
     [93867] = "Delves - Unlocked Delver's Delight gravestone cosmetic",
+    [92601] = "Delves - Looted Cracked Keystone Midnight S1",
+    [92887] = "Looted Nulleus Cache in Tier 8+ Delve",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -2016,6 +2027,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93470] = "Harandar: Interacted with Laments of Wey'nan --Part 1: Finding Hope",
     [93474] = "Harandar: Interacted with Echoes of our Past--Part 2: Alndust",
     [93473] = "Harandar: Interacted with Echoes of our Past--Part 3: Dangerous Memories",
+    [93482] = "Harandar: Interacted with Words of Obayo--Part 1: The Flame",
+    [93481] = "Harandar: Interacted with Words of Obayo--Part 2: The Rift",
+    [93480] = "Harandar: Interacted with Words of Obayo--Part 3: The Silence",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     [92424] = "Harandar Treasure: Shroom Jumper's Parachute looted",
     [92216] = "Harandar Treasure: Glowing Moth looted 1/x",
@@ -2096,8 +2110,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89284] = "Legends of Haranir: Selected any relic (weekly)",
     [89266] = "Legends of Haranir: Selected Wey'nan's Ward",
     [91049] = "Legends of Haranir: Selected Cauldron of Echoes",
+    [91516] = "Legends of Haranir: Selected The Echoless Flame",
     [91053] = "Legends of Haranir: Turned in Lost Legends (Wey'nan's Ward)",
     [91054] = "Legends of Haranir: Turned in Lost Legends (Cauldron of Echoes)",
+    [91511] = "Legends of Haranir: Turned in Lost Legends (The Echoless Flame)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidspire
