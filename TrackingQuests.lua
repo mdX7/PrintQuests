@@ -106,27 +106,27 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [94410] = "Pinnacle Cache containing Adventurer equipment looted?",
 
     [93168] = "Prey Normal: Turned in 1/x?",
-    [93872] = "Prey Normal/Nightmare: Eversong Woods/Harandar turned in 1st of week? Wing of Akil'zon, Champion Chest 1/2",
-    [93170] = "Prey Normal/Nightmare: Eversong Woods/Harandar turned in 1st of week? Wing of Akil'zon, Champion Chest 2/2",
+    [93872] = "Prey Normal/Nightmare: Eversong Woods/Harandar turned in 1st of week? Wing of Akil'zon, Champion Chest 1/2 (weekly)",
+    [93170] = "Prey Normal/Nightmare: Eversong Woods/Harandar turned in 1st of week? Wing of Akil'zon, Champion Chest 2/2 (weekly)",
     [91414] = "Prey Hard: Selected random (Consul Nebulor)?",
     [93861] = "Prey Hard/Nightmare: Harandar/Zul'Aman/Voidspire turned in 2nd of week? Lieutenant Blazewing, Champion Chest 1/2",
     [93873] = "Prey Hard/Nightmare: Harandar/Zul'Aman/Voidspire turned in 2nd of week? Lieutenant Blazewing, Champion Chest 2/2",
     [93863] = "Prey Hard/Nightmare: Zul'Aman turned in? 3rd of week? Executor Kaenius 1/2",
-    [93874] = "Prey Hard/Nightmare: Zul'Aman finished? 3rd of week? Executor Kaenius 2/2",
-    [93875] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 1/2",
-    [93864] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 1/2",
+    [93874] = "Prey Hard/Nightmare: Zul'Aman finished? 3rd of week? Executor Kaenius 2/2 (weekly)",
+    [93875] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 1/2 (weekly)",
+    [93864] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 2/2",
 
     [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
 
     [92710] = "Bought Deed of Patronage (Housing endeavor) See item 253802",
 
     [95535] = "Voidspire Boss: Normal Crown of the Cosmos killed 1/3",
-    [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3",
-    [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3",
+    [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3 (weekly)",
+    [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3 (weekly)",
 
-    [93819] = "Looted Bountiful Coffer in Twilight Crypts?",
-    [93821] = "Looted Bountiful Coffer in The Gulf of Memory?",
-    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity?",
+    [93819] = "Looted Bountiful Coffer in Twilight Crypts? (weekly)",
+    [93821] = "Looted Bountiful Coffer in The Gulf of Memory? (weekly)",
+    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity? (weekly)",
 
     [93789] = "Opened Apex Cache 1/x",
 }
@@ -2129,8 +2129,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Saltherils Soiree
-    [89290] = "Saltherils Soiree: Selected Favor of the Court guests",
-    [89282] = "Saltherils Soiree: Invited Magisters 1/x",
+    [89290] = "Saltherils Soiree: Selected Favor of the Court guests (weekly)",
+    [89282] = "Saltherils Soiree: Invited Magisters 1/x (weekly)",
     [89283] = "Saltherils Soiree: Invited Magisters 2/x",
     [89427] = "Saltherils Soiree: Invited Blood Knights",
     [95113] = "Saltherils Soiree: Turned in Fortify the Runestones quest",
