@@ -1088,6 +1088,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87743] = "Herbalism: First Lightfused Azeroot looted",
     [87747] = "Herbalism: First Argentleaf looted",
     [87753] = "Herbalism: First Mana Lily looted",
+    [81425] = "Herbalism: Thalassian Phoenix Plume 1/5 looted (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Inscription
@@ -1725,7 +1726,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94038] = "Atal'Aman - Sturdy Chest at 53.1 65.3 (account, onetime)",
     [94000] = "Atal'Aman - Sturdy Chest at 53.1 58.0 (account, onetime)",
     [94014] = "Atal'Aman - Sturdy Chest at 48.3 50.6 (account, onetime)",
+    [94026] = "The Darkway - Sturdy Chest at 53.0 43.1 (account, onetime)",
     [94027] = "The Darkway - Sturdy Chest at 42.0 49.5 (account, onetime)",
+    [94045] = "The Darkway - Sturdy Chest at 45.6 45.4 (account, onetime)",
     [91190] = "Bountiful Twilight Crypts completed (daily)",
     [91189] = "Bountiful Shadow Enclave completed (daily)",
     [91186] = "Bountiful Collegiate Calamity completed (daily)",
@@ -1765,10 +1768,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92785] = "Valeera Sanguinar reached Level 37 (account, onetime)",
     [92786] = "Valeera Sanguinar reached Level 38 (account, onetime)",
     [92787] = "Valeera Sanguinar reached Level 39 (account, onetime)",
+    [92788] = "Valeera Sanguinar reached Level 40 (account, onetime)",
+    [92789] = "Valeera Sanguinar reached Level 41 (account, onetime)",
+    [92790] = "Valeera Sanguinar reached Level 42 (account, onetime)",
+    [92791] = "Valeera Sanguinar reached Level 43 (account, onetime)",
+    [92792] = "Valeera Sanguinar reached Level 44 (account, onetime)",
     [93866] = "Delves - died in a delve and received mail from Nelthius Shadestone",
     [93867] = "Delves - Unlocked Delver's Delight gravestone cosmetic",
     [92601] = "Delves - Looted Cracked Keystone Midnight S1",
-    [92887] = "Looted Nulleus Cache in Tier 8+ Delve",
+    [92887] = "Looted Nullaeus Cache in Tier 8+ Delve",
+    [92888] = "Nullaeus killed (weekly)",
+    [95154] = "Nullaeus ?? Myth Dawncrest x30 (onetime)",
+    [95155] = "Nullaeus ? Hero Dawncrest x60 (onetime)",
+    [96416] = "Nullaeus ?? Myth Dawncrest x5 (weekly)",
+    [96417] = "Nullaeus ? Hero Dawncrest x5 (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
@@ -2003,6 +2016,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94696] = "Eversong Woods Rare: Dame Bloodshed reputation bonus (account, onetime)",
     [92366] = "Eversong Woods Rare: Bloated Snapdragon killed (daily)",
     [94685] = "Eversong Woods Rare: Bloated Snapdragon reputation bonus (account, onetime)",
+    [92393] = "Eversong Woods Rare: Lady Liminus killed (daily)",
+    [94688] = "Eversong Woods Rare: Lady Liminus reputation bonus (account, onetime)",
     [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2026,6 +2041,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94683] = "Zul'Aman Rare: Necrohexxer Raz'ka reputation bonus (account, onetime)",
     [91072] = "Zul'Aman Rare: The Decaying Diamondback killed (daily)",
     [94709] = "Zul'Aman Rare: The Decaying Diamondback reputation bonus (account, onetime)",
+    [91073] = "Zul'Aman Rare: Ash'an the Empowered killed (daily)",
+    [94710] = "Zul'Aman Rare: Ash'an the Empowered reputation bonus (account, onetime)",
     [89580] = "Zul'Aman Rare: Tiny Vermin killed (daily)",
     [94704] = "Zul'Aman Rare: Tiny Vermin reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
@@ -2066,6 +2083,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94720] = "Harandar Rare: Mindrot reputation bonus (account, onetime)",
     [92194] = "Harandar Rare: Annulus the Worldshaker killed (daily)",
     [94726] = "Harandar Rare: Annulus the Worldshaker reputation bonus (account, onetime)",
+    [92176] = "Harandar Rare: Dracaena killed (daily)",
+    [94721] = "Harandar Rare: Dracaena reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2100,6 +2119,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94728] = "Voidstorm Rare: Sundereth the Caller reputation bonus (account, onetime)",
     [93946] = "Voidstorm Rare: Bane of the Vilebloods killed (daily)",
     [94732] = "Voidstorm Rare: Bane of the Vilebloods reputation bonus (account, onetime)",
+    [94460] = "Voidstorm Rare: Nullsprial killed (daily)",
+    [94760] = "Voidstorm Rare: Nullsprial reputation bonus (account, onetime)",
+    [94462] = "Voidstorm Rare: Abysslick killed (daily)",
+    [94750] = "Voidstorm Rare: Abysslick reputation bonus (account, onetime)",
+    [94463] = "Voidstorm Rare: Blackcore killed (daily)",
+    [94753] = "Voidstorm Rare: Blackcore reputation bonus (account, onetime)",
     [92130] = "Predaxas world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2146,6 +2171,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93993] = "Voidspire Trash: Normal Blinky killed",
     [93994] = "Voidspire Trash: Heroic Blinky killed",
     [93984] = "Voidspire Trash: LFR Celestial Behemoth killed",
+    [93985] = "Voidspire Trash: Normal Celestial Behemoth killed",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- March on Qual'Danas
+    [94561] = "March on Qual'Danas Trash: Normal Voidbreaker Throggar killed",
+    [94565] = "March on Qual'Danas Trash: Normal Gladius Morinas killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 12.0 Misc
