@@ -88,7 +88,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [92714] = "Achievement: Echoes of Midnight, triggered by Flag Midnight Promotional spell",
 
     [82772] = "After completing Tier 1/Tier11 Midnight delve 1/3, first delve of the week? (daily, account)",
-    [85719] = "After completing Tier 1 Midnight delve 2/3 (daily, account)",
+    [85719] = "After completing Tier 1/Tier11 Midnight delve 2/3, first delve of the week? (daily, account)",
     [92087] = "After completing The Shadow Enclave Tier 1 while on Void Walk With Me quest 3/3",
 
     [89196] = "Selecting Midnight questzone (rewarded on selecting Adventure Map quest, revert on turning that in)",
@@ -124,9 +124,10 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3 (weekly)",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3 (weekly)",
 
-    [93819] = "Looted Bountiful Coffer in Twilight Crypts? (weekly)",
-    [93821] = "Looted Bountiful Coffer in The Gulf of Memory? (weekly)",
-    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity? (weekly)",
+    [93819] = "Looted Bountiful Coffer in Twilight Crypts/The Gulf of Memory? 1st of week? (weekly)",
+    [93820] = "Looted Bountiful Coffer in Collegiate Calamity? 2nd of week (weekly)",
+    [93821] = "Looted Bountiful Coffer in The Gulf of Memory/Twilight Crypts? 3rd of week (weekly)",
+    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity/Shadowguard Point? 4th of week (weekly)",
 
     [93789] = "Opened Apex Cache 1/x",
 }
@@ -1733,6 +1734,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91189] = "Bountiful Shadow Enclave completed (daily)",
     [91186] = "Bountiful Collegiate Calamity completed (daily)",
     [91187] = "Bountiful The Gulf of Memory completed (daily)",
+    [91184] = "Bountiful Shadowguard Point completed (daily)",
     [92090] = "Valeera Sanguinar reached Level 5 (account, onetime)",
     [92091] = "Valeera Sanguinar reached Level 6 (account, onetime)",
     [92092] = "Valeera Sanguinar reached Level 7 (account, onetime)",
@@ -1753,7 +1755,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92770] = "Valeera Sanguinar reached Level 22 (account, onetime)",
     [92771] = "Valeera Sanguinar reached Level 23 (account, onetime)",
     [92772] = "Valeera Sanguinar reached Level 24 (account, onetime)",
-    -- [xxxxx] = "Valeera Sanguinar reached Level 25 (account, onetime)",
+    [92773] = "Valeera Sanguinar reached Level 25 (account, onetime)",
     [92774] = "Valeera Sanguinar reached Level 26 (account, onetime)",
     [92775] = "Valeera Sanguinar reached Level 27 (account, onetime)",
     [92776] = "Valeera Sanguinar reached Level 28 (account, onetime)",
@@ -2061,6 +2063,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93482] = "Harandar: Interacted with Words of Obayo--Part 1: The Flame",
     [93481] = "Harandar: Interacted with Words of Obayo--Part 2: The Rift",
     [93480] = "Harandar: Interacted with Words of Obayo--Part 3: The Silence",
+    [93485] = "Harandar: Interacted with Tending the Lands--Part 1: The Conflict",
+    [93484] = "Harandar: Interacted with Tending the Lands--Part 2: The Plan",
+    [93483] = "Harandar: Interacted with Tending the Lands--Part 3: The Cycle",
     [89151] = "Harandar Treasure: Spare Expedition Torch looted",
     [92424] = "Harandar Treasure: Shroom Jumper's Parachute looted",
     [92216] = "Harandar Treasure: Glowing Moth looted 1/x",
@@ -2133,6 +2138,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89282] = "Saltherils Soiree: Invited Magisters 1/x (weekly)",
     [89283] = "Saltherils Soiree: Invited Magisters 2/x",
     [89427] = "Saltherils Soiree: Invited Blood Knights",
+    [89431] = "Saltherils Soiree: Invited Farstriders",
     [95113] = "Saltherils Soiree: Turned in Fortify the Runestones quest",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2156,9 +2162,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89266] = "Legends of Haranir: Selected Wey'nan's Ward",
     [91049] = "Legends of Haranir: Selected Cauldron of Echoes",
     [91516] = "Legends of Haranir: Selected The Echoless Flame",
+    [91517] = "Legends of Haranir: Selected Russula's Outreach",
     [91053] = "Legends of Haranir: Turned in Lost Legends (Wey'nan's Ward)",
     [91054] = "Legends of Haranir: Turned in Lost Legends (Cauldron of Echoes)",
     [91511] = "Legends of Haranir: Turned in Lost Legends (The Echoless Flame)",
+    [91512] = "Legends of Haranir: Turned in Lost Legends (Russula's Outreach)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidspire
