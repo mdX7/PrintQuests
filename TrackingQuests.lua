@@ -1989,6 +1989,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94830] = "Isle of Quel'Danas Treasure: Artisan's Cache looted (at 49, 22)",
     [95010] = "Isle of Quel'Danas Rare: Dripping Shadow killed",
     [95011] = "Isle of Quel'Danas Rare: Tarhu the Ransacker killed",
+    [92757] = "Stay a while and listen: Grand Magister Rommath on quest 90867",
+    [92802] = "Stay a while and listen: Arator on quest 90867",
+    [92810] = "Stay a while and listen: Faerin Lothar on quest 90867",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Eversong Woods
@@ -2150,6 +2153,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94463] = "Voidstorm Rare: Blackcore killed (daily)",
     [94753] = "Voidstorm Rare: Blackcore reputation bonus (account, onetime)",
     [92130] = "Predaxas world boss loot (weekly, account)",
+    [95308] = "Used Wings of the Void to create Lab-grown Stormray mount (account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Saltherils Soiree
