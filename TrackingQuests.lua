@@ -2031,6 +2031,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94685] = "Eversong Woods Rare: Bloated Snapdragon reputation bonus (account, onetime)",
     [92393] = "Eversong Woods Rare: Lady Liminus killed (daily)",
     [94688] = "Eversong Woods Rare: Lady Liminus reputation bonus (account, onetime)",
+    [93550] = "Eversong Woods Rare: Duskburn killed (daily)",
+    [94694] = "Eversong Woods Rare: Duskburn reputation bonus (account, onetime)",
+    [92389] = "Eversong Woods Rare: Coralfang killed (daily)",
+    [94687] = "Eversong Woods Rare: Coralfang reputation bonus (account, onetime)",
     [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2058,6 +2062,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94710] = "Zul'Aman Rare: Ash'an the Empowered reputation bonus (account, onetime)",
     [89580] = "Zul'Aman Rare: Tiny Vermin killed (daily)",
     [94704] = "Zul'Aman Rare: Tiny Vermin reputation bonus (account, onetime)",
+    [89578] = "Zul'Aman Rare: Spinefrill killed (daily)",
+    [94702] = "Zul'Aman Rare: Spinefrill reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
@@ -2101,6 +2107,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94726] = "Harandar Rare: Annulus the Worldshaker reputation bonus (account, onetime)",
     [92176] = "Harandar Rare: Dracaena killed (daily)",
     [94721] = "Harandar Rare: Dracaena reputation bonus (account, onetime)",
+    [92190] = "Harandar Rare: Oro'ohna killed (daily)",
+    [94723] = "Harandar Rare: Oro'ohna reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
 
     -- -----------------------------------------------------------------------------------------------------------------------
