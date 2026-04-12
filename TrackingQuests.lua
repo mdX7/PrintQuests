@@ -2068,6 +2068,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89578] = "Zul'Aman Rare: Spinefrill killed (daily)",
     [94702] = "Zul'Aman Rare: Spinefrill reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
+    [93919] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 1 Orb (26.09/74.04)",
+    [93918] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 2 Orb (24.06/75.66)",
+    [93917] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 3 Orb (23.97/78.95)",
+    [93916] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 4 Orb (26.08/80.72)",
+    [93871] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: final chest (21.87/77.37)",
+    [94570] = "Arsenal: Twilight Blade Appearance",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
