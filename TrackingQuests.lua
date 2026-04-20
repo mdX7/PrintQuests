@@ -124,11 +124,6 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [95536] = "Voidspire Boss: Normal Crown of the Cosmos killed 2/3 (weekly)",
     [95537] = "Voidspire Boss: Normal Crown of the Cosmos killed 3/3 (weekly)",
 
-    [93819] = "Looted Bountiful Coffer in Twilight Crypts/The Gulf of Memory? 1st of week? (weekly)",
-    [93820] = "Looted Bountiful Coffer in Collegiate Calamity? 2nd of week (weekly)",
-    [93821] = "Looted Bountiful Coffer in The Gulf of Memory/Twilight Crypts? 3rd of week (weekly)",
-    [93822] = "Looted Bountiful Coffer in The Shadow Enclave/Collegiate Calamity/Shadowguard Point? 4th of week (weekly)",
-
     [93789] = "Opened Apex Cache 1/x",
 }
 
@@ -1786,6 +1781,10 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92795] = "Valeera Sanguinar reached Level 47 (account, onetime)",
     [92796] = "Valeera Sanguinar reached Level 48 (account, onetime)",
     [92797] = "Valeera Sanguinar reached Level 49 (account, onetime)",
+    [92798] = "Valeera Sanguinar reached Level 50 (account, onetime)",
+    [92799] = "Valeera Sanguinar reached Level 51 (account, onetime)",
+    [92800] = "Valeera Sanguinar reached Level 52 (account, onetime)",
+    [92801] = "Valeera Sanguinar reached Level 53 (account, onetime)",
     [93866] = "Delves - died in a delve and received mail from Nelthius Shadestone",
     [93867] = "Delves - Unlocked Delver's Delight gravestone cosmetic",
     [92601] = "Delves - Looted Cracked Keystone Midnight S1",
@@ -1795,6 +1794,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [95155] = "Nullaeus ? Hero Dawncrest x60 (onetime)",
     [96416] = "Nullaeus ?? Myth Dawncrest x5 (weekly)",
     [96417] = "Nullaeus ? Hero Dawncrest x5 (weekly)",
+    [93882] = "Purchased Restored Coffer Key 1/2 (weekly)",
+    [93883] = "Purchased Restored Coffer Key 2/2 (weekly)",
+    [93819] = "Bountiful Delve Amani Tribe reputation (weekly, account)",
+    [93820] = "Bountiful Delve The Singularity reputation (weekly, account)",
+    [93821] = "Bountiful Delve Silvermoon Court reputation (weekly, account)",
+    [93822] = "Bountiful Delve Hara'ti reputation (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- D.R.I.V.E.
