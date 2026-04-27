@@ -1083,6 +1083,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [87741] = "Herbalism: First Azeroot looted",
     [87743] = "Herbalism: First Lightfused Azeroot looted",
     [87747] = "Herbalism: First Argentleaf looted",
+    [87749] = "Herbalism: First Lightfused Argentleaf looted",
+    [87752] = "Herbalism: First Voidbound Argentleaf looted",
     [87753] = "Herbalism: First Mana Lily looted",
     [81425] = "Herbalism: Thalassian Phoenix Plume 1/5 looted (weekly)",
 
@@ -1090,10 +1092,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Inscription
     [83730] = "Inscription: Algari Treatise on Inscription used (weekly)",
     [95131] = "Inscription: Thalassian Treatise on Inscription used (weekly)",
+    [93536] = "Inscription: Brilliant Phoenix Ink looted (weekly)",
+    [93537] = "Inscription: Loa-Blessed Rune looted (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Jewelcrafting
     [83731] = "Jewelcrafting: Algari Treatise on Jewelcrafting used (weekly)",
+    [95133] = "Jewelcrafting: Thalassian Treatise on Jewelcrafting used (weekly)",
+    [93538] = "Jewelcrafting: Void-Touched Eversong Diamond Fragments looted (weekly)",
+    [93539] = "Jewelcrafting: Harandar Stone Sample looted (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Leatherworking
@@ -1105,10 +1112,20 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [80914] = "Leatherworking First Time Craft: Tracker's Chitin Hauberk",
     [80942] = "Leatherworking First Time Craft: Hideseeker's Hat",
     [83732] = "Leatherworking: Algari Treatise on Leatherworking used (weekly)",
+    [93540] = "Leatherworking: Amani Tanning Oil looted (weekly)",
+    [93541] = "Leatherworking: Thalassian Mana Oil looted (weekly)",
+    [95134] = "Leatherworking: Thalassian Treatise on Leatherworking used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Skinning
     [83734] = "Skinning: Algari Treatise on Skinning used (weekly)",
+    [88534] = "Skinning: Fine Void-Tempered Hide 1/5 looted (weekly)",
+    [88549] = "Skinning: Fine Void-Tempered Hide 2/5 looted (weekly)",
+    [88537] = "Skinning: Fine Void-Tempered Hide 3/5 looted (weekly)",
+    [88536] = "Skinning: Fine Void-Tempered Hide 4/5 looted (weekly)",
+    [88530] = "Skinning: Fine Void-Tempered Hide 5/5 looted (weekly)",
+    [88529] = "Skinning: Mana-Infused Bone Hide 5/5 looted (weekly)",
+    [95136] = "Skinning: Thalassian Treatise on Skinning used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Tailoring
