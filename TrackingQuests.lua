@@ -2054,7 +2054,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92389] = "Eversong Woods Rare: Coralfang killed (daily)",
     [94687] = "Eversong Woods Rare: Coralfang reputation bonus (account, onetime)",
     [92127] = "Lu'ashal world boss loot (weekly, account)",
-
+    [89107] = "Enchanting: Sin'dorei Enchanting Rod", -- item: 238555 , iocreases MN enchanting knowledge by 3
+    [89101] = "Enchanting: Enchanted Sunfire Silk", -- item: 238549 , iocreases MN enchanting knowledge by 3
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Silvermoon
+    [89079] = "Tailoring: A Really Nice Curtain", -- item:238613 , increases MN tailoring knowledge by 3
+    [89080] = "Tailoring: Sin'dorei Outfitter's Ruler", -- item:238614 , iocreases MN tailoring knowledge by 3
+    [89084] = "Tailoring: Particularly Enchanting Tablecloth", -- item:238618 , iocreases MN tailoring knowledge by 3
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -2089,7 +2095,14 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94702] = "Zul'Aman Rare: Spinefrill reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
     [94570] = "Arsenal: Twilight Blade Appearance",
-
+    [89085] = "Tailoring: Artisan's Cover Comb", -- item:238619 , ioncreases MN tailoring knowledge by 3
+    [89106] = "Enchanting: Loa-Blessed Dust", -- item:238554 , ioncreases MN enchanting knowledge by 3
+    [90796] = "Zul'Aman Treasure: Burrow Bounty (42.00,47.79)",
+    [94545] = "Zul'Aman Telescope (41.9/41.7)",
+    [90797] = "Zul'Aman Treasure: Mrruk's Mangy Trove (52.33/65.94)",
+    [93543] = "Zul'Aman Treasure: Forgotten Amani Cache (42.51,66.89)",
+    [94542] = "Zul'Aman Telescope (53.01/81.98)",
+    [94543] = "Zul'Aman Telescope (57.69/21.23)",
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
@@ -2134,7 +2147,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92190] = "Harandar Rare: Oro'ohna killed (daily)",
     [94723] = "Harandar Rare: Oro'ohna reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
-
+    [89081] = "Harandar: Tailoring: Wooden Weaving Sword", -- item:238615 , increases MN tailoring knowledge by 3
+    [89078] = "Harandar: Tailoring: A Child's Stuffy", -- item:238612 , increases MN tailoring knowledge by 3
+    [89105] = "Harandar: Enchanting: Primal Essence Orb", -- item:238553 , increases MN enchanting knowledge by 3
+    [92431] = "Harandar: Reliquary's Lost Paint Supplies",
+    [94547] = "Harandar: Telescope (68.16/25.96)",
+    [92436] = "Harandar: Treasure: Kemet's Simmering Cauldron",
+    [94550] = "Harandar: Telescope (53.49/58.56)",
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [93515] = "Renown The Singularity unlocked",
