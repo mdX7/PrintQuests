@@ -1098,6 +1098,15 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Jewelcrafting
     [83731] = "Jewelcrafting: Algari Treatise on Jewelcrafting used (weekly)",
+    [89122] = "Jewelcrafting Treasure: Sin'dorei Masterwork Chisel (Silvermoon City)",
+    [89123] = "Jewelcrafting Treasure: Speculative Voidstorm Crystal (Voidstorm)",
+    [89124] = "Jewelcrafting Treasure: Dual-Function Magnifiers (Silvermoon City)",
+    [89125] = "Jewelcrafting Treasure: Poorly Rounded Vial (Eversong Woods)",
+    [89126] = "Jewelcrafting Treasure: Shattered Glass (Voidstorm)",
+    [89127] = "Jewelcrafting Treasure: Vintage Soul Gem (Silvermoon City)",
+    [89128] = "Jewelcrafting Treasure: Ethereal Gem Pliers (Voidstorm)",
+    [89129] = "Jewelcrafting Treasure: Sin'dorei Gem Faceters (Eversong Woods)",
+    [93222] = "Jewelcrafting: Skill Issue: Jewelcrafting used (onetime)",
     [95133] = "Jewelcrafting: Thalassian Treatise on Jewelcrafting used (weekly)",
     [93538] = "Jewelcrafting: Void-Touched Eversong Diamond Fragments looted (weekly)",
     [93539] = "Jewelcrafting: Harandar Stone Sample looted (weekly)",
