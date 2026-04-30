@@ -2042,6 +2042,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94747] = "Eversong Woods Treasure: Forgotten Ink and Quill looted 2/2",
     [89103] = "Eversong Woods Treasure: Everblazing Sunmote",
     [93908] = "Eversong Woods Treasure: Gilded Armillary Sphere",
+    [89107] = "Eversong Woods Treasure: Enchanting: Sin'dorei Enchanting Rod", -- item: 238555 , iocreases MN enchanting knowledge by 3
+    [89101] = "Eversong Woods Treasure: Enchanting: Enchanted Sunfire Silk", -- item: 238549 , iocreases MN enchanting knowledge by 3
     [92392] = "Eversong Woods Rare: Dormant Lightbloom Hydra killed (daily)",
     [94684] = "Eversong Woods Rare: Dormant Lightbloom Hydra reputation bonus (account, onetime)",
     [92391] = "Eversong Woods Rare: Cre'van killed (daily)",
@@ -2073,6 +2075,12 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
+    -- Silvermoon
+    [89079] = "Silvermoon Treasure: Tailoring: A Really Nice Curtain", -- item:238613 , increases MN tailoring knowledge by 3
+    [89080] = "Silvermoon Treasure: Tailoring: Sin'dorei Outfitter's Ruler", -- item:238614 , iocreases MN tailoring knowledge by 3
+    [89084] = "Silvermoon Treasure: Tailoring: Particularly Enchanting Tablecloth", -- item:238618 , iocreases MN tailoring knowledge by 3
+
+    -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
     [91060] = "Stay a while and listen: Loa Speaker Kinduru on quest The Path of the Amani (86653)",
@@ -2092,6 +2100,11 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93917] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 3 Orb (23.97 78.95)",
     [93916] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: Tower 4 Orb (26.08 80.72)",
     [93871] = "Zul'Aman Treasure: Sealed Twilight Blade Cache: final chest (21.87 77.37)",
+    [89085] = "Zul'Aman Treasure: Tailoring: Artisan's Cover Comb", -- item:238619 , ioncreases MN tailoring knowledge by 3
+    [89106] = "Zul'Aman Treasure: Enchanting: Loa-Blessed Dust", -- item:238554 , ioncreases MN enchanting knowledge by 3
+    [90796] = "Zul'Aman Treasure: Burrow Bounty (42.00,47.79)",
+    [90797] = "Zul'Aman Treasure: Mrruk's Mangy Trove (52.33/65.94)",
+    [93543] = "Zul'Aman Treasure: Forgotten Amani Cache (42.51,66.89)",
     [89573] = "Zul'Aman Rare: Depthborn Eelamental killed (daily)",
     [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus (account, onetime)",
     [89569] = "Zul'Aman Rare: Necrohexxer Raz'ka killed (daily)",
@@ -2106,7 +2119,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94702] = "Zul'Aman Rare: Spinefrill reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
     [94570] = "Arsenal: Twilight Blade Appearance",
-
+    [94545] = "Zul'Aman Telescope (41.9/41.7)",
+    [94542] = "Zul'Aman Telescope (53.01/81.98)",
+    [94543] = "Zul'Aman Telescope (57.69/21.23)",
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
@@ -2151,7 +2166,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92190] = "Harandar Rare: Oro'ohna killed (daily)",
     [94723] = "Harandar Rare: Oro'ohna reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
-
+    [89081] = "Harandar: Tailoring: Wooden Weaving Sword", -- item:238615 , increases MN tailoring knowledge by 3
+    [89078] = "Harandar: Tailoring: A Child's Stuffy", -- item:238612 , increases MN tailoring knowledge by 3
+    [89105] = "Harandar: Enchanting: Primal Essence Orb", -- item:238553 , increases MN enchanting knowledge by 3
+    [92431] = "Harandar: Reliquary's Lost Paint Supplies",
+    [94547] = "Harandar: Telescope (68.16/25.96)",
+    [92436] = "Harandar: Treasure: Kemet's Simmering Cauldron",
+    [94550] = "Harandar: Telescope (53.49/58.56)",
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [93515] = "Renown The Singularity unlocked",
