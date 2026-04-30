@@ -2294,4 +2294,18 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93790] = "Pinnacle Cache containing Adventurer equipment received 1/2 (weekly)",
     [93793] = "Pinnacle Cache containing Adventurer equipment received 2/2 (weekly)",
     [94419] = "Received free Veteran Dawncrest for Crest Transmutation Midnight S1 (94418)",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 12.0.5 Ritual Sites
+    [95823] = "Ritual sites completion renown 1/2 (account, weekly)",
+    [95824] = "Ritual sites completion renown 2/2 (account, weekly)",
+    [96146] = "Ritual sites Dark Obelisk investigated at Eversong Woods 66.2 38.8",
+    [96147] = "Ritual sites Dark Obelisk investigated at Eversong Woods 64.7 50.0",
+    [96148] = "Ritual sites Dark Obelisk investigated at Eversong Woods 62.0 62.2",
+    [96149] = "Ritual sites Dark Obelisk investigated at Eversong Woods 63.7 70.4",
+    [96150] = "Ritual sites Dark Obelisk investigated at Eversong Woods 39.3 76.0",
+    [96151] = "Ritual sites Dark Obelisk investigated at Eversong Woods 35.0 63.0",
+    [96152] = "Ritual sites Dark Obelisk investigated at Eversong Woods 50.4 42.9",
+    [96153] = "Ritual sites Dark Obelisk investigated at Eversong Woods 44.8 47.0",
+    [96154] = "Ritual sites Dark Obelisk investigated at Eversong Woods 50.4 42.9",
 }
