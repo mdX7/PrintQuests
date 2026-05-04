@@ -1726,7 +1726,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [82189] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Red Paint",
     [82192] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Alliance Decal",
     [82194] = "Season 3 - Delver's Race: Unlocked Delver's Dirigible Schematic: Horde Decal",
-    [94713] = "Delver's Journey Season 3: Delver's Mana-Bound Ethergate unlocked",
     [86371] = "Looted Delver's Bounty (weekly)",
     [94001] = "The Shadow Enclave - Sturdy Chest south, behind tent (account, onetime)",
     [94002] = "The Shadow Enclave - Sturdy Chest middle (account, onetime)",
@@ -2097,6 +2096,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92108] = "Stay a while and listen: Zul'jan on quest Broken Bridges (91062)",
     [94628] = "Zul'Aman: Interacted with Tablet of Halazzi",
     [94631] = "Zul'Aman: Interacted with Tablet of Jan'alai",
+    [94673] = "Zul'Aman: Interacted with Tablet of Kulzi",
     [94674] = "Zul'Aman: Interacted with Tablet of Filo",
     [91964] = "Zul'Aman: Selected Kagara for Love Triangle quest",
     [91965] = "Zul'Aman: Selected Zak'kash for Love Triangle quest",
@@ -2132,11 +2132,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94703] = "Zul'Aman Rare: Oophaga reputation bonus (account, onetime)",
     [89570] = "Zul'Aman Rare: The Snapping Scourge killed (daily)",
     [94697] = "Zul'Aman Rare: The Snapping Scourge reputation bonus (account, onetime)",
+    [91174] = "Zul'Aman Rare: Mrrlokk killed (daily)",
+    [94700] = "Zul'Aman Rare: Mrrlokk reputation bonus (account, onetime)",
+    [89583] = "Zul'Aman Rare: The Devouring Invader killed (daily)",
+    [94706] = "Zul'Aman Rare: The Devouring Invader reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
     [94570] = "Arsenal: Twilight Blade Appearance",
+    [94362] = "Arsenal: Heirlooms of Atal'Aman",
     [94545] = "Zul'Aman Telescope (41.9/41.7)",
     [94542] = "Zul'Aman Telescope (53.01/81.98)",
     [94543] = "Zul'Aman Telescope (57.69/21.23)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
@@ -2182,6 +2188,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94723] = "Harandar Rare: Oro'ohna reputation bonus (account, onetime)",
     [92191] = "Harandar Rare: Pterrock killed (daily)",
     [94724] = "Harandar Rare: Pterrock reputation bonus (account, onetime)",
+    [92137] = "Harandar Rare: Chironex killed (daily)",
+    [94713] = "Harandar Rare: Chironex killed reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
     [89081] = "Harandar: Tailoring: Wooden Weaving Sword", -- item:238615 , increases MN tailoring knowledge by 3
     [89078] = "Harandar: Tailoring: A Child's Stuffy", -- item:238612 , increases MN tailoring knowledge by 3
@@ -2190,6 +2198,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94547] = "Harandar: Telescope (68.16/25.96)",
     [92436] = "Harandar: Treasure: Kemet's Simmering Cauldron",
     [94550] = "Harandar: Telescope (53.49/58.56)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Voidstorm
     [93515] = "Renown The Singularity unlocked",
@@ -2294,6 +2303,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93790] = "Pinnacle Cache containing Adventurer equipment received 1/2 (weekly)",
     [93793] = "Pinnacle Cache containing Adventurer equipment received 2/2 (weekly)",
     [94419] = "Received free Veteran Dawncrest for Crest Transmutation Midnight S1 (94418)",
+    [94482] = "Used Gleaming Sunmote",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 12.0.5 Ritual Sites
