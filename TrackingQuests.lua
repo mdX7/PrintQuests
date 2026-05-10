@@ -2141,6 +2141,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94700] = "Zul'Aman Rare: Mrrlokk reputation bonus (account, onetime)",
     [89583] = "Zul'Aman Rare: The Devouring Invader killed (daily)",
     [94706] = "Zul'Aman Rare: The Devouring Invader reputation bonus (account, onetime)",
+    [89575] = "Zul'Aman Rare: Lightwood Borer killed (daily)",
+    [94699] = "Zul'Aman Rare: Lightwood Borer reputation bonus (account, onetime)",
     [92128] = "Cragpine world boss loot (weekly, account)",
     [94570] = "Arsenal: Twilight Blade Appearance",
     [94362] = "Arsenal: Heirlooms of Atal'Aman",
@@ -2187,7 +2189,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92191] = "Harandar Rare: Pterrock killed (daily)",
     [94724] = "Harandar Rare: Pterrock reputation bonus (account, onetime)",
     [92137] = "Harandar Rare: Chironex killed (daily)",
-    [94713] = "Harandar Rare: Chironex killed reputation bonus (account, onetime)",
+    [94713] = "Harandar Rare: Chironex reputation bonus (account, onetime)",
+    [92193] = "Harandar Rare: Ahl'ua'huhi killed (daily)",
+    [94725] = "Harandar Rare: Ahl'ua'huhi reputation bonus (account, onetime)",
+    [92154] = "Harandar Rare: Queen Lashtongue killed (daily)",
+    [94716] = "Harandar Rare: Queen Lashtongue reputation bonus (account, onetime)",
+    [92183] = "Harandar Rare: Treetop killed (daily)",
+    [94722] = "Harandar Rare: Treetop reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
     [89081] = "Harandar: Tailoring: Wooden Weaving Sword", -- item:238615 , increases MN tailoring knowledge by 3
     [89078] = "Harandar: Tailoring: A Child's Stuffy", -- item:238612 , increases MN tailoring knowledge by 3
@@ -2197,7 +2205,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [92436] = "Harandar: Treasure: Kemet's Simmering Cauldron",
     [94550] = "Harandar: Telescope (53.49/58.56)",
 
-    -- Dust 'Em Off – Harandar (120 Luminous Dust Spots)
+    -- Dust 'Em Off - Harandar (120 Luminous Dust Spots)
     -- Renown 1 (40 Spots)
     [92196] = "Harandar - Dust 'Em Off: Luminous Dust #1 (Renown 1) (36/48)",
     [92197] = "Harandar - Dust 'Em Off: Luminous Dust #29 (Renown 1) (36/26)",
