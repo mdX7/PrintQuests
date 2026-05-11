@@ -114,7 +114,7 @@ PrintQuests.UnsurelyNamedTrackingQuests = {
     [93863] = "Prey Hard/Nightmare: Zul'Aman turned in? 3rd of week? Executor Kaenius 1/2",
     [93874] = "Prey Hard/Nightmare: Zul'Aman finished? 3rd of week? Executor Kaenius 2/2 (weekly)",
     [93875] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 1/2 (weekly)",
-    [93864] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 2/2",
+    [93864] = "Prey Hard/Nightmare: Voidstorm/Eversong Woods turned in? 4th of week? Knight-Errant Bloodshatter 2/2 (weekly)",
 
     [93275] = "Received Spark of Radiance from Lady Liadrin (weekly?)",
 

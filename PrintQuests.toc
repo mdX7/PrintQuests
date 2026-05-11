@@ -1,4 +1,4 @@
-## Interface: 120001, 110207, 120000
+## Interface: 50503
 
 ## Title: PrintQuests
 ## Version: 1.0.4

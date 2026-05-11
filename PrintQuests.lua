@@ -9,8 +9,20 @@ frame:RegisterEvent("QUEST_REMOVED")
 frame:RegisterEvent("QUEST_WATCH_UPDATE")
 frame:RegisterEvent("QUEST_LOG_UPDATE")
 
+local function After(delay, func)
+    local elapsed = 0
+    local ticker = CreateFrame("Frame")
+    ticker:SetScript("OnUpdate", function(self, dt)
+        elapsed = elapsed + dt
+        if elapsed >= delay then
+            self:SetScript("OnUpdate", nil)
+            func()
+        end
+    end)
+end
+
 local function PrintQuest(printType, questID)
-    local questName = C_QuestLog.GetTitleForQuestID(questID)
+    local questName = C_QuestLog.GetQuestInfo(questID)
     
     -- dont print quests which are spammed since 12.0.0
     if (questID == 94713 or 
@@ -56,20 +68,14 @@ end
 local completedQuests = {}
 
 local function QueryCompletedQuests(isInitialLogin)
-    local currentCompletedQuests = {}
-    local completedQuestIDs = C_QuestLog.GetAllCompletedQuestIDs()
-    if completedQuestIDs then
-        for _, questID in ipairs(completedQuestIDs) do
-            currentCompletedQuests[questID] = true
-            if not isInitialLogin then
-                if not completedQuests[questID] then
-                    PrintQuest("rewarded", questID)
-                end
+    local currentCompletedQuests = GetQuestsCompleted() or {}
+    if not isInitialLogin then
+        for questID in pairs(currentCompletedQuests) do
+            if not completedQuests[questID] then
+                PrintQuest("rewarded", questID)
             end
         end
-    end
-    if not isInitialLogin then
-        for questID, _ in pairs(completedQuests) do
+        for questID in pairs(completedQuests) do
             if not currentCompletedQuests[questID] then
                 PrintQuest("reverted", questID)
             end
@@ -97,7 +103,7 @@ frame:SetScript("OnEvent", function(self, event, ...)
     elseif event == "CRITERIA_UPDATE" or event == "QUEST_LOG_UPDATE" then
         ThrottledQueryCompletedQuests()
     elseif event == "QUEST_ACCEPTED" then
-        local questID = ...
+        local questLogIndex, questID = ...
         PrintQuest("accepted", questID)
         ThrottledQueryCompletedQuests()
     elseif event == "QUEST_TURNED_IN" then
@@ -110,8 +116,8 @@ frame:SetScript("OnEvent", function(self, event, ...)
         ThrottledQueryCompletedQuests()
     elseif event == "QUEST_WATCH_UPDATE" then
         local questID = ...
-        C_Timer.After(0.1, function()
-            if C_QuestLog.ReadyForTurnIn(questID) then
+        After(0.1, function()
+            if IsQuestComplete(questID) then
                 PrintQuest("completed", questID)
                 ThrottledQueryCompletedQuests()
             end
