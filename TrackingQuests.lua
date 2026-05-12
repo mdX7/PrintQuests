@@ -2085,6 +2085,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94694] = "Eversong Woods Rare: Duskburn reputation bonus (account, onetime)",
     [92389] = "Eversong Woods Rare: Coralfang killed (daily)",
     [94687] = "Eversong Woods Rare: Coralfang reputation bonus (account, onetime)",
+    [92395] = "Eversong Woods Rare: Waverly killed (daily)",
     [92127] = "Lu'ashal world boss loot (weekly, account)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
