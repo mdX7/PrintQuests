@@ -2090,6 +2090,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Silvermoon
+    [89111] = "Silvermoon Treasure: Alchemy: Vial of Eversong Oddities", -- item:238532 , increases MN alchemy knowledge by 3
+    [89115] = "Silvermoon Treasure: Alchemy: Freshly Plucked Peacebloom", -- item:238536 , increases MN alchemy knowledge by 3
+    [89117] = "Silvermoon Treasure: Alchemy: Pristine Potion", -- item:238538 , increases MN alchemy knowledge by 3
     [89079] = "Silvermoon Treasure: Tailoring: A Really Nice Curtain", -- item:238613 , increases MN tailoring knowledge by 3
     [89080] = "Silvermoon Treasure: Tailoring: Sin'dorei Outfitter's Ruler", -- item:238614 , iocreases MN tailoring knowledge by 3
     [89084] = "Silvermoon Treasure: Tailoring: Particularly Enchanting Tablecloth", -- item:238618 , iocreases MN tailoring knowledge by 3
