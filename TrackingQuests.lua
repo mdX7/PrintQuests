@@ -2094,6 +2094,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89080] = "Silvermoon Treasure: Tailoring: Sin'dorei Outfitter's Ruler", -- item:238614 , iocreases MN tailoring knowledge by 3
     [89084] = "Silvermoon Treasure: Tailoring: Particularly Enchanting Tablecloth", -- item:238618 , iocreases MN tailoring knowledge by 3
     [94536] = "Silvermoon: Telescope (42.98/29.97)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Zul'Aman
     [93818] = "Renown Amani Tribe unlocked",
@@ -2150,6 +2151,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94545] = "Zul'Aman Telescope (41.9/41.7)",
     [94542] = "Zul'Aman Telescope (53.01/81.98)",
     [94543] = "Zul'Aman Telescope (57.69/21.23)",
+
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Harandar
     [92712] = "Renown Hara'ti unlocked",
@@ -2424,7 +2426,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- March on Qual'Danas
     [94561] = "March on Qual'Danas Trash: Normal Voidbreaker Throggar killed",
+    [94563] = "March on Qual'Danas Trash: Heroic Voidbreaker Throggar killed",
     [94565] = "March on Qual'Danas Trash: Normal Gladius Morinas killed",
+    [94567] = "March on Qual'Danas Trash: Heroic Gladius Morinas killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 12.0 Misc
