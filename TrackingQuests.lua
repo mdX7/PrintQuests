@@ -2104,6 +2104,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91060] = "Stay a while and listen: Loa Speaker Kinduru on quest The Path of the Amani (86653)",
     [92125] = "Stay a while and listen: Zul'jarra on quest Shadebasin Watch (86657)",
     [92108] = "Stay a while and listen: Zul'jan on quest Broken Bridges (91062)",
+    [94627] = "Zul'Aman: Interacted with Tablet of Akil'zon (53.12/82.12)",
     [94628] = "Zul'Aman: Interacted with Tablet of Halazzi",
     [94631] = "Zul'Aman: Interacted with Tablet of Jan'alai",
     [94673] = "Zul'Aman: Interacted with Tablet of Kulzi",
