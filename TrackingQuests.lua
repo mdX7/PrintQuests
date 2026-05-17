@@ -2090,6 +2090,9 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Silvermoon
+    [89111] = "Silvermoon Treasure: Alchemy: Vial of Eversong Oddities", -- item:238532 , increases MN alchemy knowledge by 3
+    [89115] = "Silvermoon Treasure: Alchemy: Freshly Plucked Peacebloom", -- item:238536 , increases MN alchemy knowledge by 3
+    [89117] = "Silvermoon Treasure: Alchemy: Pristine Potion", -- item:238538 , increases MN alchemy knowledge by 3
     [89079] = "Silvermoon Treasure: Tailoring: A Really Nice Curtain", -- item:238613 , increases MN tailoring knowledge by 3
     [89080] = "Silvermoon Treasure: Tailoring: Sin'dorei Outfitter's Ruler", -- item:238614 , iocreases MN tailoring knowledge by 3
     [89084] = "Silvermoon Treasure: Tailoring: Particularly Enchanting Tablecloth", -- item:238618 , iocreases MN tailoring knowledge by 3
@@ -2101,6 +2104,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [91060] = "Stay a while and listen: Loa Speaker Kinduru on quest The Path of the Amani (86653)",
     [92125] = "Stay a while and listen: Zul'jarra on quest Shadebasin Watch (86657)",
     [92108] = "Stay a while and listen: Zul'jan on quest Broken Bridges (91062)",
+    [94627] = "Zul'Aman: Interacted with Tablet of Akil'zon (53.12/82.12)",
     [94628] = "Zul'Aman: Interacted with Tablet of Halazzi",
     [94631] = "Zul'Aman: Interacted with Tablet of Jan'alai",
     [94673] = "Zul'Aman: Interacted with Tablet of Kulzi",

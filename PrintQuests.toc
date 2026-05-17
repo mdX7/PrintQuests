@@ -5,6 +5,8 @@
 ## Notes: Prints quests in chat
 ## Author: ModoX
 ## IconTexture: Interface\ICONS\Ability_druid_maul
+## OptionalDeps: Grail
+## SavedVariablesPerCharacter: PrintQuestsSavedData
 
 PrintQuests.lua
 TrackingQuests.lua
