@@ -2199,6 +2199,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94716] = "Harandar Rare: Queen Lashtongue reputation bonus (account, onetime)",
     [92183] = "Harandar Rare: Treetop killed (daily)",
     [94722] = "Harandar Rare: Treetop reputation bonus (account, onetime)",
+    [92148] = "Harandar Rare: Tallcap the Truthspreader killed (daily)",
+    [94715] = "Harandar Rare: Tallcap the Truthspreader reputation bonus (account, onetime)",
     [94046] = "Harandar Achievement: From The Cradle to the Grave",
     [89081] = "Harandar: Tailoring: Wooden Weaving Sword", -- item:238615 , increases MN tailoring knowledge by 3
     [89078] = "Harandar: Tailoring: A Child's Stuffy", -- item:238612 , increases MN tailoring knowledge by 3
@@ -2371,6 +2373,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [94731] = "Voidstorm Rare: Screammaxa the Matriarch reputation bonus (account, onetime)",
     [93934] = "Voidstorm Rare: Queen o' War killed (daily)",
     [94761] = "Voidstorm Rare: Queen o' War reputation bonus (account, onetime)",
+    [93947] = "Voidstorm Rare: Lotus Darkblossom killed (daily)",
+    [94758] = "Voidstorm Rare: Lotus Darkblossom reputation bonus (account, onetime)",
     [92130] = "Predaxas world boss loot (weekly, account)",
     [95308] = "Used Wings of the Void to create Lab-grown Stormray mount (account)",
 
