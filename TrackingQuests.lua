@@ -2450,6 +2450,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [93994] = "Voidspire Trash: Heroic Blinky killed",
     [93984] = "Voidspire Trash: LFR Celestial Behemoth killed",
     [93985] = "Voidspire Trash: Normal Celestial Behemoth killed",
+    [93986] = "Voidspire Trash: Heroic Celestial Behemoth killed",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- March on Qual'Danas
