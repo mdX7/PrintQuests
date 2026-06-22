@@ -155,6 +155,8 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -----------------------------------------------------------------------------------------------------------------------
     -- Midsummer
     [83134] = "Midsummer: cosmetic weapon drop rate from Satchel of Chilled Goods (daily, account)",
+    [97111] = "Midsummer: Sun Festival's Painted Roc drop attempt from Satchel of Chilled Goods (daily, account)",
+    [97116] = "Midsummer: Sun Festival's cosmetic drop attempt from Satchel of Chilled Goods (daily, account)",
 
     -----------------------------------------------------------------------------------------------------------------------
     -- Timewalking
