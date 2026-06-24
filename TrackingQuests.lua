@@ -2520,4 +2520,13 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [96152] = "Ritual sites Dark Obelisk investigated at Eversong Woods 50.4 42.9",
     [96153] = "Ritual sites Dark Obelisk investigated at Eversong Woods 44.8 47.0",
     [96154] = "Ritual sites Dark Obelisk investigated at Eversong Woods 50.4 42.9",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- 12.0.7
+    [96100] = "Omnium Folio UI element unlocked",
+    [97139] = "Stay a while and listen: Grand Magister Rommath after Week 1 of 5 of Omnium Folio quests",
+
+    -- -----------------------------------------------------------------------------------------------------------------------
+    -- Sporefall
+    [95405] = "Sporefall: Delicious Sporesnack looted from Rotmire (account, weekly)",
 }
