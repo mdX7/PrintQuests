@@ -2553,4 +2553,16 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Sporefall
     [95405] = "Sporefall: Delicious Sporesnack looted from Rotmire (account, weekly)",
+
+    -- Val
+    [95559] = "Val Rare: Glacial Broodmother (ResetByScheduler 1h, account reward)",
+    [95939] = "Val Rare: Sleet-Rune (ResetByScheduler 1h, account reward)",
+    [95940] = "Val Rare: Atomus (ResetByScheduler 1h, account reward)",
+    [96370] = "Val Rare: Xirah (ResetByScheduler 1h, account reward)",
+    [96371] = "Val Rare: Mercilus (ResetByScheduler 1h, account reward)",
+    [96372] = "Val Rare: Krilkan (ResetByScheduler 1h, account reward)",
+    [96373] = "Val Rare: Opprimius (ResetByScheduler 1h, account reward)",
+    [96374] = "Val Rare: Nelgothar (ResetByScheduler 1h, account reward)",
+    [96375] = "Val Rare: The Horror Below (ResetByScheduler 1h, account reward)",
+    [96465] = "Val Rare: Shadowguard Destroyer (ResetByScheduler 1h, account reward)",
 }
