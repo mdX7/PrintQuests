@@ -889,6 +889,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83726] = "Blacksmithing: Algari Treatise on Blacksmithing used (weekly)",
     [93530] = "Blacksmithing: Thalassian Whestone looted (weekly)",
     [93531] = "Blacksmithing: Infused Quenching Oil looted (weekly)",
+    [95128] = "Blacksmithing: Thalassian Treatise on Blacksmithing used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Mining
@@ -954,6 +955,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [88677] = "Mining: Igneous Rock Specimen 5/5 looted (weekly)",
     [88678] = "Mining: Septarian Nodule looted",
     [92187] = "Mining Book: Echo of Abundance: Mining used",
+    [95135] = "Mining: Thalassian Treatise on Mining used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Enchanting
@@ -1121,6 +1123,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [81428] = "Herbalism: Thalassian Phoenix Plume 4/5 looted (weekly)",
     [81429] = "Herbalism: Thalassian Phoenix Plume 5/5 looted (weekly)",
     [81430] = "Herbalism: Thalassian Phoenix Tail looted (weekly)",
+    [95130] = "Herbalism: Thalassian Treatise on Herbalism used (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- Inscription
@@ -1175,6 +1178,7 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [83735] = "Tailoring: Algari Treatise on Tailoring used (weekly)",
     [95137] = "Tailoring: Thalassian Treatise on Tailoring used (weekly)",
     [93542] = "Tailoring: Embroidered Memento looted (weekly)",
+    [93543] = "Tailoring: Finely Woven Lynx Collar (weekly)",
 
     -- -----------------------------------------------------------------------------------------------------------------------
     -- 20th Anniversary
@@ -2183,7 +2187,6 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     [89085] = "Zul'Aman Treasure: Tailoring: Artisan's Cover Comb looted", -- item:238619 , ioncreases MN tailoring knowledge by 3
     [90796] = "Zul'Aman Treasure: Burrow Bounty (42.00,47.79)",
     [90797] = "Zul'Aman Treasure: Mrruk's Mangy Trove (52.33/65.94)",
-    [93543] = "Zul'Aman Treasure: Forgotten Amani Cache (42.51,66.89)",
     [89573] = "Zul'Aman Rare: Depthborn Eelamental killed (daily)",
     [94708] = "Zul'Aman Rare: Depthborn Eelamental reputation bonus (account, onetime)",
     [89569] = "Zul'Aman Rare: Necrohexxer Raz'ka killed (daily)",
