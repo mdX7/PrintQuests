@@ -2557,6 +2557,17 @@ PrintQuests.ConfidentlyNamedTrackingQuests = {
     -- Sporefall
     [95405] = "Sporefall: Delicious Sporesnack looted from Rotmire (account, weekly)",
 
+    -- Naigtal
+    [96205] = "Naigtal Rare: Interminable Uarn (ResetByScheduler 1h, account reward)",
+    [96206] = "Naigtal Rare: Broxion (ResetByScheduler 1h, account reward)",
+    [96208] = "Naigtal Rare: Lomelith (ResetByScheduler 1h, account reward)",
+    [96316] = "Naigtal Rare: Auredar (ResetByScheduler 1h, account reward)",
+    [96317] = "Naigtal Rare: Indomitable Mk XII (ResetByScheduler 1h, account reward)",
+    [96319] = "Naigtal Rare: Warp Agent Xi'grivr (ResetByScheduler 1h, account reward)",
+    [96320] = "Naigtal Rare: Slaipaan (ResetByScheduler 1h, account reward)",
+    [96566] = "Naigtal Rare: Voidwarped Sporebat (ResetByScheduler 1h, account reward)",
+    [97014] = "Naigtal Rare: Warbringer Thal'kuur (ResetByScheduler 1h, account reward)",
+
     -- Val
     [95559] = "Val Rare: Glacial Broodmother (ResetByScheduler 1h, account reward)",
     [95939] = "Val Rare: Sleet-Rune (ResetByScheduler 1h, account reward)",
